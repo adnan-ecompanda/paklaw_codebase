@@ -1,0 +1,67 @@
+{
+  "law_name": "The Coconut Committee Act",
+  "year": 1944,
+  "chapters": [
+    {
+      "chapter_title": "Contents",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title and extent",
+          "body": "This Act may be called the Coconut cess Act, 1944. It extends to the whole of Pakistan."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Definitions",
+          "body": "In this Act, unless there is anything repugnant in the subject or context, 'Collector' means the officer appointed by the Federal Government to perform in any specified area the duties of a Collector under the provisions of this Act and the rules made thereunder, and includes any officer subordinate to that officer whom he may by order and in writing authorize to perform his duties under those provisions; 'mill' means any place in which copra is crushed for the extraction of oil, which is a factory as defined in section 2 of the Factories Act, 1934 (XXV of 1934); 'prescribed' means prescribed by rules made under this Act."
+        },
+        {
+          "section_no": "3",
+          "section_title": "Imposition of coconut cess",
+          "body": "There shall be levied and collected, as a cess for the purposes of this Act, on all copra consumed in any mill in Pakistan, whether produced in or imported from outside Pakistan, a duty of excise at such rate not exceeding four annas per cwt., as the Federal Government may, by notification in the official Gazette, fix in this behalf."
+        },
+        {
+          "section_no": "10",
+          "section_title": "Delivery of monthly returns",
+          "body": "The owner of every mill shall furnish to the Collector on or before the 7th day of each month, a return stating the total amount of copra consumed in the mill during the preceding month, together with such further information in regard thereto as may be prescribed."
+        },
+        {
+          "section_no": "11",
+          "section_title": "Collection of cess by Collector",
+          "body": "On receiving any return made under section 10, the Collector shall assess the amount of the duty payable under section 3 in respect of the period to which the return relates, and if the amount has not already been paid shall cause a notice to be served upon the owner of the mill requiring him to make payment of the amount assessed within thirty days of the service of the notice."
+        },
+        {
+          "section_no": "12",
+          "section_title": "Finality of assessment and recovery of unpaid duty",
+          "body": "Any owner of a mill who is aggrieved by an assessment made under section 11 may, within three months of service of the notice referred to in sub-section (1) of that section, apply to the District Judge for the cancellation or modification of the assessment."
+        },
+        {
+          "section_no": "13",
+          "section_title": "Power to inspect mills and take copies of records and accounts",
+          "body": "The Collector or any officer empowered by general or special order of the Federal Government in this behalf shall have free access to all reasonable times during working hours to any mill or to any part of any mill."
+        },
+        {
+          "section_no": "14",
+          "section_title": "Information acquired to be confidential",
+          "body": "All such copies and extracts and all information acquired by a Collector or any other officer from an inspection of any mill or warehouse or from any return submitted under this Act shall be treated as confidential."
+        },
+        {
+          "section_no": "18",
+          "section_title": "Power of the Federal Government to make rule",
+          "body": "The Federal Government may make rules for the purpose of carrying into effect the provisions of this Act."
+        },
+        {
+          "section_no": "18A",
+          "section_title": "Penalty for contravention of rules",
+          "body": "Rules made under section 18 may provide that a breach of any of them shall be punishable with fine not exceeding one thousand rupees."
+        },
+        {
+          "section_no": "20",
+          "section_title": "Publication of rules and regulations",
+          "body": "All rules made under section 18 shall be published in the official Gazette."
+        }
+      ]
+    }
+  ],
+  "source_file": "administratorc8a212332f8c70013ceb9dbdcc7d70ee.txt"
+}

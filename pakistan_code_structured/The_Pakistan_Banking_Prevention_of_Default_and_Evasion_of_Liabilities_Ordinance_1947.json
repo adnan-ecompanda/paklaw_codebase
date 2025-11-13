@@ -1,0 +1,67 @@
+{
+  "law_name": "The Pakistan Banking (Prevention of Default and Evasion of Liabilities) Ordinance",
+  "year": 1947,
+  "chapters": [
+    {
+      "chapter_title": "Contents",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title, extent and commencement",
+          "body": "(1) This Ordinance may be called the Pakistan Banking (Prevention of Default and Evasion of Liabilities) Ordinance, 1947. (2) It extends to the whole of Pakistan. (3) It shall come into force at once."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Definitions",
+          "body": "In this Ordinance (a) 'Bank' means the Imperial Bank of India and any banking company as defined in section 277F of the Indian Companies Act, 1913 (VII of 1913) and includes any branch of a bank. (b) 'Manager' includes the term Agent or Sub-Agent and any other officer having charge of any branch or agency of any bank in Pakistan. (c) 'Federal Government' means the Government of Pakistan."
+        },
+        {
+          "section_no": "3",
+          "section_title": "No Bank to Stop payment of cheques or delivery of deposits under instructions from any Government authority outside Pakistan",
+          "body": "No Bank operating in Pakistan shall act on the instructions of a Government or authority other than the Government of Pakistan issued to it direct or through its Head Office outside Pakistan, in regard to stopping of payment of cheques, delivery of securities or things held in safe custody, or in regard to any other banking business in Pakistan, without obtaining the prior approval in writing of an officer appointed by the Federal Government in this behalf."
+        },
+        {
+          "section_no": "4",
+          "section_title": "Procedure for demanding explanation and search",
+          "body": "(1) On receiving a complaint that a Bank is wrongfully withholding the payment of a cheque or the delivery of anything held in deposit or safe custody, the Federal Government may by order require the Bank to explain the grounds on which it has withheld or delayed payment of the cheque or delivery of the thing held in deposit or safe custody and to furnish by a date to be specified a true statement of all the assets at the credit of or held in safe custody on behalf of the person concerned. (2) If the Bank refuses or fails to comply with an order made under sub-section (1) of this Section by the date specified or if the Federal Government is not satisfied with the correctness or completeness of the statement submitted thereunder, the Federal Government may authorise any officer of the Federal Government or of a Provincial Government to inspect the books, accounts and other documents of the Bank and to conduct a search of its vaults, coffers and premises which the officer may consider necessary to inspect or search in order to obtain the information required or to verify the statement furnished. (3) An officer authorised in this behalf may enter any premises at any time and if necessary break open any door or lock for the purpose of carrying out the order made under this section."
+        },
+        {
+          "section_no": "5",
+          "section_title": "Order to prohibit removal of assets outside Pakistan",
+          "body": "While ordering a Bank to furnish a statement under Section 4, the Federal Government may order the Bank not to remove out of Pakistan any thing held in safe custody on behalf of the person referred to in sub-section (1) of section 4 or any documents related thereto."
+        },
+        {
+          "section_no": "6",
+          "section_title": "Seizure of assets",
+          "body": "(1) If the Federal Government after considering such explanation as the Bank concerned may have given, the information secured by any action taken under sub-sections (2) and (3) of Section 4 and such further enquiry as it may deem necessary, is satisfied that the Bank has wrongfully withheld payment of a cheque wholly or partially or the delivery of anything held in deposit or safe custody, the Federal Government may order the Bank to make payment of the cheque to such extent as in the opinion of the Federal Government payment has been wrongfully withheld, or make delivery of the thing held in deposit or safe custody as the case may be, by a specified date to the person named in the order. (2) If the Bank fails to comply with the order made under sub-section (1) the Federal Government may as the case may be order (a) the seizing of the thing held in safe custody and its transfer to the person named in the order, (b) the seizing of assets of the Bank sufficient to cover the amount of the Bank’s liability as determined under sub-section (1) and the transfer to the person named in the order under sub-section (1) of such part of these assets or so much of their value on realization as will discharge the Bank’s liability to him. (3) If after discharging the liability of the Bank referred to in sub-section (2) above there is a surplus it shall be returned to the Bank after deducting such incidental expenses as may have been incurred by the Federal Government."
+        },
+        {
+          "section_no": "7",
+          "section_title": "Service of orders under Section 4, 5 or 6",
+          "body": "An order under Sections 4, 5 or 6 may be served on the Manager by delivery at the office of the Bank. If service of the order is refused or any attempt is made to avoid it, the order may be affixed on the premises of the Bank in the presence of two witnesses and the order shall then be deemed to have been duly served."
+        },
+        {
+          "section_no": "8",
+          "section_title": "Penalties",
+          "body": "If the Manager of a Bank: (a) fails to comply with an order to furnish a statement under Section 4 or if he furnishes a statement which he knows to be false in any material particular; or (b) refuses to allow, or fails to afford, reasonable facilities to an Officer authorised under Section 4; or (c) having been served with or having knowledge or information of an order under Section 5 conceals, removes or allows to be removed out of Pakistan in contravention of that order anything held in deposit or safe custody; or (d) fails to make payment or effect delivery by the specified date in compliance with an order issued under Section 6; he shall be punishable with imprisonment which may extend to three years or with fine or with both."
+        },
+        {
+          "section_no": "9",
+          "section_title": "Withdrawal or amendment of orders under Sections 5 and 6",
+          "body": "On sufficient cause being shown the Federal Government may withdraw or amend all or any of the orders made under Sections 5 and 6 of this Ordinance."
+        },
+        {
+          "section_no": "10",
+          "section_title": "Bar of legal proceedings",
+          "body": "No suit, prosecution or other legal proceedings shall lie against any person or against the Federal Government for anything done or in good faith intended to be done under this Ordinance."
+        },
+        {
+          "section_no": "11",
+          "section_title": "Powers to make rules",
+          "body": "The Federal Government may make rules for the purpose of giving effect to this Ordinance."
+        }
+      ]
+    }
+  ],
+  "source_file": "administratordd27c025343e72b7598e0dae6c72240c.txt"
+}

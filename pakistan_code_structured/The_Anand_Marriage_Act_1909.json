@@ -1,0 +1,37 @@
+{
+  "law_name": "The Anand Marriage Act",
+  "year": 1909,
+  "chapters": [
+    {
+      "chapter_title": "Anand Marriage Act, 1909",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title and extent",
+          "body": "(1) This Act may be called the Anand Marriage Act, 1909; and (2) It extends to the whole of Pakistan."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Validity of Anand marriage",
+          "body": "All marriages which may be or may have been duly solemnized according to the Sikh marriage ceremony called Anand shall be, and shall be deemed to have been with effect from the date of the solemnization of each respectively, good and valid in law."
+        },
+        {
+          "section_no": "3",
+          "section_title": "Exemption of certain marriage from Act",
+          "body": "Nothing in this Act shall apply to- (a) any marriage between persons not professing the Sikh religion, or (b) any marriage which has been judicially declared to be null and void."
+        },
+        {
+          "section_no": "4",
+          "section_title": "Saving of marriages solemnized according to other ceremonies",
+          "body": "Nothing in this Act shall affect the validity of any marriage duly solemnized according to any other marriage ceremony customary among the Sikhs."
+        },
+        {
+          "section_no": "5",
+          "section_title": "Non-validation of marriages within prohibited degrees",
+          "body": "Nothing in this Act shall be deemed to validate any marriage between persons who are related to each other in any degree of consanguinity or affinity which would, according to the customary law of the Sikhs, render a marriage between them illegal."
+        }
+      ]
+    }
+  ],
+  "source_file": "administrator82bc64463939f911a97e388509155e4a.txt"
+}

@@ -1,0 +1,947 @@
+{
+  "law_name": "THE SUCCESSION ACT",
+  "year": 1925,
+  "chapters": [
+    {
+      "chapter_title": "Preliminary",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title",
+          "body": ""
+        },
+        {
+          "section_no": "2",
+          "section_title": "Definitions",
+          "body": ""
+        },
+        {
+          "section_no": "3",
+          "section_title": "Power of Provincial Government to exempt any race, sect or tribe in the Province from operation of Act",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "Of Domicile",
+      "sections": [
+        {
+          "section_no": "4",
+          "section_title": "Application of Part",
+          "body": ""
+        },
+        {
+          "section_no": "5",
+          "section_title": "Law regulating succession to deceased person’s immoveable and moveable property respectively",
+          "body": ""
+        },
+        {
+          "section_no": "6",
+          "section_title": "One domicile only affects succession to moveables",
+          "body": ""
+        },
+        {
+          "section_no": "7",
+          "section_title": "Domicile of origin of person of legitimate birth",
+          "body": ""
+        },
+        {
+          "section_no": "8",
+          "section_title": "Domicile of origin of illegitimate child",
+          "body": ""
+        },
+        {
+          "section_no": "9",
+          "section_title": "Continuance of domicile of origin",
+          "body": ""
+        },
+        {
+          "section_no": "10",
+          "section_title": "Acquisition of new domicile",
+          "body": ""
+        },
+        {
+          "section_no": "11",
+          "section_title": "Special mode of acquiring domicile in Pakistan",
+          "body": ""
+        },
+        {
+          "section_no": "12",
+          "section_title": "Domicile not acquired by residence as representative of foreign government, or as part of his family",
+          "body": ""
+        },
+        {
+          "section_no": "13",
+          "section_title": "Continuance of new domicile",
+          "body": ""
+        },
+        {
+          "section_no": "14",
+          "section_title": "Minor’s domicile",
+          "body": ""
+        },
+        {
+          "section_no": "15",
+          "section_title": "Domicile acquired by woman on marriage",
+          "body": ""
+        },
+        {
+          "section_no": "16",
+          "section_title": "Wife’s domicile during marriage",
+          "body": ""
+        },
+        {
+          "section_no": "17",
+          "section_title": "Minor’s acquisition of new domicile",
+          "body": ""
+        },
+        {
+          "section_no": "18",
+          "section_title": "Lunatic’s acquisition of new domicile",
+          "body": ""
+        },
+        {
+          "section_no": "19",
+          "section_title": "Succession to moveable property in Pakistan, in absence of proof of domicile elsewhere",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "Marriage",
+      "sections": [
+        {
+          "section_no": "20",
+          "section_title": "Interests and powers not acquired nor lost by marriage",
+          "body": ""
+        },
+        {
+          "section_no": "21",
+          "section_title": "Effect of marriage between person domiciled and one not domiciled in Pakistan",
+          "body": ""
+        },
+        {
+          "section_no": "22",
+          "section_title": "Settlement of minor’s property in contemplation of marriage",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "Of Consanguinity",
+      "sections": [
+        {
+          "section_no": "23",
+          "section_title": "Application of Part",
+          "body": ""
+        },
+        {
+          "section_no": "24",
+          "section_title": "Kindred or consanguinity",
+          "body": ""
+        },
+        {
+          "section_no": "25",
+          "section_title": "Lineal consanguinity",
+          "body": ""
+        },
+        {
+          "section_no": "26",
+          "section_title": "Collateral consanguinity",
+          "body": ""
+        },
+        {
+          "section_no": "27",
+          "section_title": "Persons held for purpose of succession to be similarly related to deceased",
+          "body": ""
+        },
+        {
+          "section_no": "28",
+          "section_title": "Mode of computing of degrees of kindred",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "Intestate succession",
+      "sections": [
+        {
+          "section_no": "29",
+          "section_title": "Application of Part",
+          "body": ""
+        },
+        {
+          "section_no": "30",
+          "section_title": "As to what property deceased considered to have died intestate",
+          "body": ""
+        },
+        {
+          "section_no": "31",
+          "section_title": "Chapter not to apply to Parsis",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "CHAPTER II RULES IN CASES OF INTESTATES OTHER THAN PARSIS",
+      "sections": [
+        {
+          "section_no": "32",
+          "section_title": "Devolution of such property",
+          "body": ""
+        },
+        {
+          "section_no": "33",
+          "section_title": "Where intestate has left widow and lineal descendants, or widow and kindred only, or widow and no kindred",
+          "body": ""
+        },
+        {
+          "section_no": "33A",
+          "section_title": "Special provision where intestate has left widow and no lineal descendants",
+          "body": ""
+        },
+        {
+          "section_no": "34",
+          "section_title": "Where intestate has left no widow, and where he has left no kindred",
+          "body": ""
+        },
+        {
+          "section_no": "35",
+          "section_title": "Rights of widower",
+          "body": ""
+        },
+        {
+          "section_no": "36",
+          "section_title": "Rules of distribution",
+          "body": ""
+        },
+        {
+          "section_no": "37",
+          "section_title": "Where intestate has left child or children only",
+          "body": ""
+        },
+        {
+          "section_no": "38",
+          "section_title": "Where intestate has left no child, but grandchild or grandchildren",
+          "body": ""
+        },
+        {
+          "section_no": "39",
+          "section_title": "Where intestate has left only great-grandchildren or remoter lineal descendants",
+          "body": ""
+        },
+        {
+          "section_no": "40",
+          "section_title": "Where intestate leaves lineal descendants not all in same degree of kindred to him, and those through whom the more remote are descended are dead",
+          "body": ""
+        },
+        {
+          "section_no": "41",
+          "section_title": "Rules of distribution where intestate has left no lineal descendants",
+          "body": ""
+        },
+        {
+          "section_no": "42",
+          "section_title": "Where intestate’s father living. If the intestate’s father is living, he shall succeed to the property",
+          "body": ""
+        },
+        {
+          "section_no": "43",
+          "section_title": "Where intestate’s father dead but his mother, brothers and sisters living",
+          "body": ""
+        },
+        {
+          "section_no": "44",
+          "section_title": "Where intestate’s father dead and his mother, a brother or sister, and children of any deceased brother or sister, living",
+          "body": ""
+        },
+        {
+          "section_no": "45",
+          "section_title": "Where intestate’s father is dead and his mother and children of any deceased brother or sister living",
+          "body": ""
+        },
+        {
+          "section_no": "46",
+          "section_title": "Where intestate’s father is dead, but his mother living and no sister, brother, nephew or niece",
+          "body": ""
+        },
+        {
+          "section_no": "47",
+          "section_title": "Where intestate has left neither lineal descendant, nor father, nor mother",
+          "body": ""
+        },
+        {
+          "section_no": "48",
+          "section_title": "Where intestate has left neither lineal descendant, nor parent, nor brother, nor sister",
+          "body": ""
+        },
+        {
+          "section_no": "49",
+          "section_title": "Children’s advancements not brought into hotchpot",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "CHAPTER III SPECIAL RULES FOR PARSI INTESTATES",
+      "sections": [
+        {
+          "section_no": "50",
+          "section_title": "General principles relating to intestate succession",
+          "body": ""
+        },
+        {
+          "section_no": "51",
+          "section_title": "Division of a male intestate’s property among his widow, children and parents",
+          "body": ""
+        },
+        {
+          "section_no": "52",
+          "section_title": "Division of a female intestate’s property among her widower and children",
+          "body": ""
+        },
+        {
+          "section_no": "53",
+          "section_title": "Division of share of predeceased child of intestate leaving lineal descendants",
+          "body": ""
+        },
+        {
+          "section_no": "54",
+          "section_title": "Division of property where intestate leaves no lineal descendant but leaves a widow or widower or a widow of any lineal descendant",
+          "body": ""
+        },
+        {
+          "section_no": "55",
+          "section_title": "Division of property where intestate leaves neither lineal descendants nor a widow or widower nor a widow of any lineal descendant",
+          "body": ""
+        },
+        {
+          "section_no": "56",
+          "section_title": "Division of property where there is no relative entitled to succeed under the other provisions of this Chapter",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "Testamentary succession",
+      "sections": [
+        {
+          "section_no": "57",
+          "section_title": "Application of certain provisions",
+          "body": ""
+        },
+        {
+          "section_no": "58",
+          "section_title": "General application of Part",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "CHAPTER II. WILLS AND CODICILS",
+      "sections": [
+        {
+          "section_no": "59",
+          "section_title": "Person capable of making wills",
+          "body": ""
+        },
+        {
+          "section_no": "60",
+          "section_title": "Testamentary guardian",
+          "body": ""
+        },
+        {
+          "section_no": "61",
+          "section_title": "Will obtained by fraud, coercion or importunity",
+          "body": ""
+        },
+        {
+          "section_no": "62",
+          "section_title": "Will may be revoked or altered",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "CHAPTER III THE EXECUTION OF UNPRIVILEGED WILLS",
+      "sections": [
+        {
+          "section_no": "63",
+          "section_title": "Execution of unprivileged wills",
+          "body": ""
+        },
+        {
+          "section_no": "64",
+          "section_title": "Incorporation of papers by reference",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "CHAPTER IV OF PRIVILEGED WILLS",
+      "sections": [
+        {
+          "section_no": "65",
+          "section_title": "Privileged wills",
+          "body": ""
+        },
+        {
+          "section_no": "66",
+          "section_title": "Mode of making, and rules for executing, privileged wills",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "CHAPTER V OF THE ATTESTATION, REVOCATION, ALTERATION AND REVIVAL OF WILLS",
+      "sections": [
+        {
+          "section_no": "67",
+          "section_title": "Effect of gift to attesting witness",
+          "body": ""
+        },
+        {
+          "section_no": "68",
+          "section_title": "Witness not disqualified by interest or by being executor",
+          "body": ""
+        },
+        {
+          "section_no": "69",
+          "section_title": "Revocation of will by testator’s marriage",
+          "body": ""
+        },
+        {
+          "section_no": "70",
+          "section_title": "Revocation of unprivileged will or codicil",
+          "body": ""
+        },
+        {
+          "section_no": "71",
+          "section_title": "Effect of obliteration, interlineation or alteration in unprivileged will",
+          "body": ""
+        },
+        {
+          "section_no": "72",
+          "section_title": "Revocation of privileged will or codicil",
+          "body": ""
+        },
+        {
+          "section_no": "73",
+          "section_title": "Revival of unprivileged will",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "CHAPTER VI OF THE CONSTRUCTION OF WILLS",
+      "sections": [
+        {
+          "section_no": "74",
+          "section_title": "Wording of will",
+          "body": ""
+        },
+        {
+          "section_no": "75",
+          "section_title": "Inquiries to determine questions as to object or subject of will",
+          "body": ""
+        },
+        {
+          "section_no": "76",
+          "section_title": "Misnomer or misdescription of object",
+          "body": ""
+        },
+        {
+          "section_no": "77",
+          "section_title": "When words may be supplied",
+          "body": ""
+        },
+        {
+          "section_no": "78",
+          "section_title": "Rejection of erroneous particulars in description of subject",
+          "body": ""
+        },
+        {
+          "section_no": "79",
+          "section_title": "When part of description may not be rejected as erroneous",
+          "body": ""
+        },
+        {
+          "section_no": "80",
+          "section_title": "Extrinsic evidence admissible in cases of patent ambiguity",
+          "body": ""
+        },
+        {
+          "section_no": "81",
+          "section_title": "Extrinsic evidence inadmissible in case of patent ambiguity or deficiency",
+          "body": ""
+        },
+        {
+          "section_no": "82",
+          "section_title": "Meaning of clause to be collected from entire will",
+          "body": ""
+        },
+        {
+          "section_no": "83",
+          "section_title": "When words may be understood in restricted sense, and when in sense wider than usual",
+          "body": ""
+        },
+        {
+          "section_no": "84",
+          "section_title": "Which of two possible constructions preferred",
+          "body": ""
+        },
+        {
+          "section_no": "85",
+          "section_title": "No part rejected, if can be it reasonably construed",
+          "body": ""
+        },
+        {
+          "section_no": "86",
+          "section_title": "Interpretation of words repeated in different parts of will",
+          "body": ""
+        },
+        {
+          "section_no": "87",
+          "section_title": "Testator’s intention to be effectuated, as far as, possible",
+          "body": ""
+        },
+        {
+          "section_no": "88",
+          "section_title": "The last of two inconsistent clauses prevails",
+          "body": ""
+        },
+        {
+          "section_no": "89",
+          "section_title": "Will or bequest void for uncertainty",
+          "body": ""
+        },
+        {
+          "section_no": "90",
+          "section_title": "Words describing subject refer to property answering description at testator’s death",
+          "body": ""
+        },
+        {
+          "section_no": "91",
+          "section_title": "Power of appointment executed by general bequest",
+          "body": ""
+        },
+        {
+          "section_no": "92",
+          "section_title": "Implied gift to objects of power in default of appointment",
+          "body": ""
+        },
+        {
+          "section_no": "93",
+          "section_title": "Bequest to “heirs”, etc., of particular person without qualifying terms",
+          "body": ""
+        },
+        {
+          "section_no": "94",
+          "section_title": "Bequest to “representatives”, etc., of particular person",
+          "body": ""
+        },
+        {
+          "section_no": "95",
+          "section_title": "Bequest without words of limitation",
+          "body": ""
+        },
+        {
+          "section_no": "96",
+          "section_title": "Bequest in alternative",
+          "body": ""
+        },
+        {
+          "section_no": "97",
+          "section_title": "Effect of words describing a class added to bequest to person",
+          "body": ""
+        },
+        {
+          "section_no": "98",
+          "section_title": "Bequest to class of persons under general description only",
+          "body": ""
+        },
+        {
+          "section_no": "99",
+          "section_title": "Construction of terms",
+          "body": ""
+        },
+        {
+          "section_no": "100",
+          "section_title": "Words expressing relationship denote only legitimate relatives or failing such relatives reputed legitimate",
+          "body": ""
+        },
+        {
+          "section_no": "101",
+          "section_title": "Rules of construction where will purports to make two bequests to same person",
+          "body": ""
+        },
+        {
+          "section_no": "102",
+          "section_title": "Constitution of residuary legatee",
+          "body": ""
+        },
+        {
+          "section_no": "103",
+          "section_title": "Property to which residuary legatee entitled",
+          "body": ""
+        },
+        {
+          "section_no": "104",
+          "section_title": "Time of vesting legacy in general terms",
+          "body": ""
+        },
+        {
+          "section_no": "105",
+          "section_title": "In what case legacy lapses",
+          "body": ""
+        },
+        {
+          "section_no": "106",
+          "section_title": "Legacy does not lapse if one of two joint legatees die before testator",
+          "body": ""
+        },
+        {
+          "section_no": "107",
+          "section_title": "Effect of words showing testator’s intention to give distinct shares",
+          "body": ""
+        },
+        {
+          "section_no": "108",
+          "section_title": "When lapsed share goes as undisposed of",
+          "body": ""
+        },
+        {
+          "section_no": "109",
+          "section_title": "When bequest to testator’s child or lineal descendant does not lapse on his death in testator’s lifetime",
+          "body": ""
+        },
+        {
+          "section_no": "110",
+          "section_title": "Bequest to A for benefit of B does not lapse by A’s death",
+          "body": ""
+        },
+        {
+          "section_no": "111",
+          "section_title": "Survivorship in case of bequest to described class",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "CHAPTER VII OF VOID BEQUETS",
+      "sections": [
+        {
+          "section_no": "112",
+          "section_title": "Bequest to person by particular description, who is not in existence at testator’s death",
+          "body": ""
+        },
+        {
+          "section_no": "113",
+          "section_title": "Bequest to person not in existence at testator’s death subject to prior bequest",
+          "body": ""
+        },
+        {
+          "section_no": "114",
+          "section_title": "Rule against perpetuity",
+          "body": ""
+        },
+        {
+          "section_no": "115",
+          "section_title": "Bequest to a class some of whom may come under rule in Section 113 and 114",
+          "body": ""
+        },
+        {
+          "section_no": "116",
+          "section_title": "Bequest to take effect on failure of prior bequest",
+          "body": ""
+        },
+        {
+          "section_no": "117",
+          "section_title": "Effect of direction for accumulation",
+          "body": ""
+        },
+        {
+          "section_no": "118",
+          "section_title": "Bequest to religious or charitable uses",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "CHAPTER VIII OF THE VESTING OF LEGACIES",
+      "sections": [
+        {
+          "section_no": "119",
+          "section_title": "Date of vesting of legacy when payment or possession postponed",
+          "body": ""
+        },
+        {
+          "section_no": "120",
+          "section_title": "Date of vesting when legacy contingent upon specified uncertain event",
+          "body": ""
+        },
+        {
+          "section_no": "121",
+          "section_title": "Vesting of interest in bequest to such members of a class as shall have attained particular age",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "CHAPTER IX OF ONEROUS BEQUESTS",
+      "sections": [
+        {
+          "section_no": "122",
+          "section_title": "Onerous bequests",
+          "body": ""
+        },
+        {
+          "section_no": "123",
+          "section_title": "One of two separate and independent bequests to same person may be accepted, and other refused",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "CHAPTER X OF CONTINGENT BEQUESTS",
+      "sections": [
+        {
+          "section_no": "124",
+          "section_title": "Bequest contingent upon specified uncertain event, no time being mentioned for its occurrence",
+          "body": ""
+        },
+        {
+          "section_no": "125",
+          "section_title": "Bequest to such of certain persons as shall be surviving at some period not specified",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "CHAPTER XI OF CONDITIONAL BEQUESTS",
+      "sections": [
+        {
+          "section_no": "126",
+          "section_title": "Bequest upon impossible condition",
+          "body": ""
+        },
+        {
+          "section_no": "127",
+          "section_title": "Bequest upon illegal or immoral condition",
+          "body": ""
+        },
+        {
+          "section_no": "128",
+          "section_title": "Fulfilment of condition precedent to vesting of legacy",
+          "body": ""
+        },
+        {
+          "section_no": "129",
+          "section_title": "Bequest to A and on failure of prior bequest to B",
+          "body": ""
+        },
+        {
+          "section_no": "130",
+          "section_title": "When second bequest not to take effect on failure of first",
+          "body": ""
+        },
+        {
+          "section_no": "131",
+          "section_title": "Bequest over conditional upon happening or not happening of specified uncertain event",
+          "body": ""
+        },
+        {
+          "section_no": "132",
+          "section_title": "Condition must be strictly fulfilled",
+          "body": ""
+        },
+        {
+          "section_no": "133",
+          "section_title": "Original bequest not affected by invalidity of second",
+          "body": ""
+        },
+        {
+          "section_no": "134",
+          "section_title": "Bequest conditioned that it shall cease to have effect in case a specified uncertain event shall happen, or not happen",
+          "body": ""
+        },
+        {
+          "section_no": "135",
+          "section_title": "Such condition must not be invalid under section 120",
+          "body": ""
+        },
+        {
+          "section_no": "136",
+          "section_title": "Result of legatee rendering impossible or indefinitely postponing act for which no time specified, and on non-performance of which subject matter to go over",
+          "body": ""
+        },
+        {
+          "section_no": "137",
+          "section_title": "Performance of condition, precedent or subsequent, within specified time. Further time in case of fraud",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "CHAPTER XII OF BEQUESTS WITH DIRECTIONS AS TO APPLICATION OR ENJOYMENT",
+      "sections": [
+        {
+          "section_no": "138",
+          "section_title": "Direction that fund be employed in particular manner following absolute bequest of same to or for benefit of any person",
+          "body": ""
+        },
+        {
+          "section_no": "139",
+          "section_title": "Direction that mode of enjoyment of absolute bequest is to be restricted, to secure specified benefit for legatee",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "CHAPTER XIII OF BEQUESTS TO AN EXECUTOR",
+      "sections": [
+        {
+          "section_no": "140",
+          "section_title": "Bequest of fund for certain purposes, some of which cannot be fulfilled",
+          "body": ""
+        },
+        {
+          "section_no": "141",
+          "section_title": "Legatee named as executor cannot take unless he shows intention to act as executor",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "CHAPTER XIV OF SPECIAL LEGACIES",
+      "sections": [
+        {
+          "section_no": "142",
+          "section_title": "Specific legacy defined",
+          "body": ""
+        },
+        {
+          "section_no": "143",
+          "section_title": "Bequest of certain sum where stocks, etc., in which invested are described",
+          "body": ""
+        },
+        {
+          "section_no": "144",
+          "section_title": "Bequest of stock where testator had, at date of will, equal or greater amount of stock of same kind",
+          "body": ""
+        },
+        {
+          "section_no": "145",
+          "section_title": "Bequest of money where not payable until part of testator’s property disposed of in certain way",
+          "body": ""
+        },
+        {
+          "section_no": "146",
+          "section_title": "When enumerated articles not deemed specifically bequeathed",
+          "body": ""
+        },
+        {
+          "section_no": "147",
+          "section_title": "Retention, in form of specific bequest to several persons in succession",
+          "body": ""
+        },
+        {
+          "section_no": "148",
+          "section_title": "Sale and investment of proceeds of property bequeathed to two or more person in succession",
+          "body": ""
+        },
+        {
+          "section_no": "149",
+          "section_title": "Where deficiency of assets to pay legacies, specific legacy not to abate with general legacies",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "CHAPTER XV OF DEMONSTRATIVE LEGACIES",
+      "sections": [
+        {
+          "section_no": "150",
+          "section_title": "Demonstrative legacy defined",
+          "body": ""
+        },
+        {
+          "section_no": "151",
+          "section_title": "Order of payment when legacy directed to be paid out of fund the subject of specific legacy",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "CHAPTER XVI OF ADEMPTION OF LEGACIES",
+      "sections": [
+        {
+          "section_no": "152",
+          "section_title": "Ademption explained",
+          "body": ""
+        },
+        {
+          "section_no": "153",
+          "section_title": "Non- ademption of demonstrative legacy",
+          "body": ""
+        },
+        {
+          "section_no": "154",
+          "section_title": "Ademption of specific bequest of right to receive something from third party",
+          "body": ""
+        },
+        {
+          "section_no": "155",
+          "section_title": "Ademption pro tanto by testator’s receipt of part of entire thing specifically bequeathed",
+          "body": ""
+        },
+        {
+          "section_no": "156",
+          "section_title": "Ademption pro tanto by testator’s receipt of portion of entire fund of which portion has been specifically bequeathed",
+          "body": ""
+        },
+        {
+          "section_no": "157",
+          "section_title": "Order of payment where portion of fund specifically bequeathed to one legatee, and legacy charged on same fund to another, and, testator having received portion of that fund, remainder insufficient to pay both legacies",
+          "body": ""
+        },
+        {
+          "section_no": "158",
+          "section_title": "Ademption where stock, specifically bequeathed, does not exist at testator’s death",
+          "body": ""
+        },
+        {
+          "section_no": "159",
+          "section_title": "Ademption pro tanto where stock, specifically bequeathed, exists in part only at testator’s death",
+          "body": ""
+        },
+        {
+          "section_no": "160",
+          "section_title": "Non-ademption of specific bequest of goods described as connected with certain place, by reason of removal",
+          "body": ""
+        },
+        {
+          "section_no": "161",
+          "section_title": "When removal of thing bequeathed does not constitute ademption",
+          "body": ""
+        },
+        {
+          "section_no": "162",
+          "section_title": "When thing bequeathed is a valuable to be received by testator from third person; and testator himself, or his representative, receives it",
+          "body": ""
+        },
+        {
+          "section_no": "163",
+          "section_title": "Change by operation of law of subject of specific bequest between date of will and testator’s death",
+          "body": ""
+        },
+        {
+          "section_no": "164",
+          "section_title": "Change of subject without testator’s knowledge",
+          "body": ""
+        }
+      ]
+    }
+  ],
+  "source_file": "administrator4a6efe2b68e892d437aea98367cf6687.txt"
+}

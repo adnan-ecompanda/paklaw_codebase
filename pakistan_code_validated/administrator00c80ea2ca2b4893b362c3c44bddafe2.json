@@ -1,0 +1,28 @@
+{
+  "law_name": "THE ARMED FORCES (EMERGENCY DUTIES) ACT",
+  "year": 1947,
+  "chapters": [
+    {
+      "chapter_title": "Contents",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title and extent",
+          "body": "(1) This Act may be called the Armed Forces (Emergency Duties) Act, 1947. (2) It extends to the whole of Pakistan."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Emergency duties of armed forces",
+          "body": "(1) The Federal Government may, by notification in the official Gazette, declare any specified service to be a service of vital importance to the community: Provided that such notification shall remain in force for one month in the first instance, but may be extended, from time to time, by a like notification. (2) Upon a declaration being made under sub-section (1) and until it is rescinded, it shall be the duty of every person subject to the Pakistan Army Act, 1952, or the Pakistan Air Force Act, 1953, or the Pakistan Navy Ordinance, 1961, to obey any command given by any superior officer in relation to employment upon or in connection with the service specified in the declaration; and every such command shall be deemed to be a lawful command within the meaning and for the purposes of the said Acts or Ordinance."
+        },
+        {
+          "section_no": "3",
+          "section_title": "Validation of certain past commands",
+          "body": "Repealed"
+        }
+      ]
+    }
+  ],
+  "source_file": "administrator00c80ea2ca2b4893b362c3c44bddafe2.txt",
+  "parse_quality": "low"
+}

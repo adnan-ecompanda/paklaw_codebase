@@ -1,0 +1,212 @@
+{
+  "law_name": "THE ANTIQUITIES ACT",
+  "year": 1975,
+  "chapters": [
+    {
+      "chapter_title": "Contents",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title, extent and commencement",
+          "body": "This Act may be called the Antiquities Act, 1975. It extends to the whole of Pakistan. It shall come into force at once."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Definitions",
+          "body": "In this Act, unless there is any thing repugnant in the subject of context, definitions of terms such as 'Advisory Committee', 'antiquity', 'dealer', 'Director-General', 'export', 'immovable antiquity', 'national monument', 'owner', 'protected antiquity', and 'rules' are provided."
+        },
+        {
+          "section_no": "3",
+          "section_title": "Advisory Committee",
+          "body": "The Federal Government shall constitute an Advisory Committee comprising of members, including one member each from the Senate and the National Assembly."
+        },
+        {
+          "section_no": "4",
+          "section_title": "Dispute as to whether any product, etc., is an antiquity",
+          "body": "If any question arises whether any product, object or site is an antiquity, it shall be referred to the Federal Government which shall decide the same after consultation with the Advisory Committee."
+        },
+        {
+          "section_no": "5",
+          "section_title": "Custody, preservation, etc., of certain antiquities",
+          "body": "The Director General shall take necessary steps for the custody, preservation and protection of an antiquity of which there is no owner."
+        },
+        {
+          "section_no": "5A",
+          "section_title": "Accidental discovery of antiquity to be reported, to Director-General",
+          "body": "Whoever discovers any movable antiquity shall inform the Director General within seven days."
+        },
+        {
+          "section_no": "6",
+          "section_title": "Power of entry, inspection, etc.",
+          "body": "The Director General may enter into, inspect and examine any premises which may contain an antiquity."
+        },
+        {
+          "section_no": "7",
+          "section_title": "Acquisition of land containing antiquities",
+          "body": "If the Federal Government believes that any land contains an antiquity, it may direct the Provincial Government to acquire such land."
+        },
+        {
+          "section_no": "8",
+          "section_title": "Purchase, taking lease, etc., of antiquity",
+          "body": "The Director General may purchase, take lease or accept a gift of an antiquity with the previous sanction of the Federal Government."
+        },
+        {
+          "section_no": "9",
+          "section_title": "Right of pre-emption in case of a sale of antiquity",
+          "body": "Details regarding the right of pre-emption in case of a sale of antiquity."
+        },
+        {
+          "section_no": "10",
+          "section_title": "Declaration of protected antiquities",
+          "body": "The process for declaring an antiquity as protected."
+        },
+        {
+          "section_no": "11",
+          "section_title": "Representation against declaration of protected antiquities",
+          "body": "The process for representation against the declaration of protected antiquities."
+        },
+        {
+          "section_no": "12",
+          "section_title": "The guardianship of antiquity by agreement",
+          "body": "Details regarding the guardianship of antiquity."
+        },
+        {
+          "section_no": "13",
+          "section_title": "Purchasers at certain sales and person claiming through owner bound by agreement entered into by owner",
+          "body": "Details regarding the binding nature of agreements."
+        },
+        {
+          "section_no": "13A",
+          "section_title": "Ownership of buried antiquities",
+          "body": "Details regarding ownership of buried antiquities."
+        },
+        {
+          "section_no": "14",
+          "section_title": "Application of endowment for maintenance and preservation of antiquity",
+          "body": "Details regarding the application of endowment."
+        },
+        {
+          "section_no": "15",
+          "section_title": "Compulsory acquisition of protected immovable antiquity",
+          "body": "Details regarding compulsory acquisition."
+        },
+        {
+          "section_no": "16",
+          "section_title": "Compulsory acquisition of movable antiquities",
+          "body": "Details regarding compulsory acquisition."
+        },
+        {
+          "section_no": "17",
+          "section_title": "Protection of place of worship from misuse, etc.",
+          "body": "Details regarding the protection of places of worship."
+        },
+        {
+          "section_no": "18",
+          "section_title": "Restriction on use of protected immovable antiquity",
+          "body": "Details regarding restrictions."
+        },
+        {
+          "section_no": "19",
+          "section_title": "Prohibition of destruction, damage, etc., of protected antiquities",
+          "body": "Details regarding prohibitions."
+        },
+        {
+          "section_no": "20",
+          "section_title": "Restriction on repairs, renovations, etc., of protected immovable antiquities",
+          "body": "Details regarding restrictions."
+        },
+        {
+          "section_no": "21",
+          "section_title": "Direction to the owner to take measures for preservation of antiquity",
+          "body": "Details regarding directions to owners."
+        },
+        {
+          "section_no": "22",
+          "section_title": "Execution of development schemes and new constructions in proximity to immovable antiquity",
+          "body": "Details regarding execution of development schemes."
+        },
+        {
+          "section_no": "23",
+          "section_title": "Prohibition of bill posting, neon signs, other kinds of advertisements, etc.",
+          "body": "Details regarding prohibitions."
+        },
+        {
+          "section_no": "24",
+          "section_title": "Penalty for counterfeiting, etc., of antiquity",
+          "body": "Details regarding penalties."
+        },
+        {
+          "section_no": "25",
+          "section_title": "Dealing in antiquities",
+          "body": "Details regarding dealing in antiquities."
+        },
+        {
+          "section_no": "26",
+          "section_title": "Export of antiquities",
+          "body": "Details regarding export."
+        },
+        {
+          "section_no": "27",
+          "section_title": "Traffic in movable antiquities",
+          "body": "Details regarding traffic."
+        },
+        {
+          "section_no": "28",
+          "section_title": "Regulation of mining, quarrying, etc.",
+          "body": "Details regarding regulation."
+        },
+        {
+          "section_no": "29",
+          "section_title": "Prohibition of archaeological excavation or exploration without licence",
+          "body": "Details regarding prohibitions."
+        },
+        {
+          "section_no": "30",
+          "section_title": "Prohibition of making copies of protected antiquities without licence",
+          "body": "Details regarding prohibitions."
+        },
+        {
+          "section_no": "31",
+          "section_title": "Right of access to protected immovable antiquities",
+          "body": "Details regarding rights of access."
+        },
+        {
+          "section_no": "32",
+          "section_title": "Penalty",
+          "body": "Details regarding penalties."
+        },
+        {
+          "section_no": "33",
+          "section_title": "Jurisdiction to try offences",
+          "body": "Details regarding jurisdiction."
+        },
+        {
+          "section_no": "34",
+          "section_title": "Power to arrest without warrant",
+          "body": "Details regarding powers of arrest."
+        },
+        {
+          "section_no": "35",
+          "section_title": "Confiscated antiquities to be made over to Director General",
+          "body": "Details regarding confiscated antiquities."
+        },
+        {
+          "section_no": "36",
+          "section_title": "Indemnity",
+          "body": "Details regarding indemnity."
+        },
+        {
+          "section_no": "37",
+          "section_title": "Power to make rules",
+          "body": "Details regarding the power to make rules."
+        },
+        {
+          "section_no": "38",
+          "section_title": "Repeal",
+          "body": "Details regarding repeal."
+        }
+      ]
+    }
+  ],
+  "source_file": "administratorda80475067b0b4ebdd3688ea3792097f.txt"
+}

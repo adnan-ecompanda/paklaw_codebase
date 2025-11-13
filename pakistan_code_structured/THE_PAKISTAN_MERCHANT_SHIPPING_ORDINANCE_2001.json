@@ -1,0 +1,1232 @@
+{
+  "law_name": "THE PAKISTAN MERCHANT SHIPPING ORDINANCE",
+  "year": 2001,
+  "chapters": [
+    {
+      "chapter_title": "PRELIMINARY",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title, extent, application and commencement",
+          "body": ""
+        },
+        {
+          "section_no": "2",
+          "section_title": "Definitions",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "MERCANTILE MARINE DEPARTMENT",
+      "sections": [
+        {
+          "section_no": "3",
+          "section_title": "Office of Mercantile Marine Department",
+          "body": ""
+        },
+        {
+          "section_no": "4",
+          "section_title": "Surveyors",
+          "body": ""
+        },
+        {
+          "section_no": "5",
+          "section_title": "Radio Inspectors",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "SHIPPING OFFICES",
+      "sections": [
+        {
+          "section_no": "6",
+          "section_title": "Shipping Offices",
+          "body": ""
+        },
+        {
+          "section_no": "7",
+          "section_title": "Conduct of business of shipping office at other office",
+          "body": ""
+        },
+        {
+          "section_no": "8",
+          "section_title": "Duties of the Shipping Master",
+          "body": ""
+        },
+        {
+          "section_no": "9",
+          "section_title": "Fees for engagement or discharge of seamen",
+          "body": ""
+        },
+        {
+          "section_no": "10",
+          "section_title": "Seamen’s Welfare Officers",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "REGISTRATION",
+      "sections": [
+        {
+          "section_no": "11",
+          "section_title": "Application",
+          "body": ""
+        },
+        {
+          "section_no": "12",
+          "section_title": "Restriction on acquisition of ship",
+          "body": ""
+        },
+        {
+          "section_no": "13",
+          "section_title": "Qualification for registration of Pakistani ships",
+          "body": ""
+        },
+        {
+          "section_no": "14",
+          "section_title": "Obligation to register ships",
+          "body": ""
+        },
+        {
+          "section_no": "15",
+          "section_title": "Exemption from registry",
+          "body": ""
+        },
+        {
+          "section_no": "16",
+          "section_title": "Registrars of Pakistani ships and ports of registry",
+          "body": ""
+        },
+        {
+          "section_no": "17",
+          "section_title": "Provisions for entries in register book",
+          "body": ""
+        },
+        {
+          "section_no": "18",
+          "section_title": "Measurement of ships",
+          "body": ""
+        },
+        {
+          "section_no": "19",
+          "section_title": "Marking of ships",
+          "body": ""
+        },
+        {
+          "section_no": "20",
+          "section_title": "Entry of particulars in register book",
+          "body": ""
+        },
+        {
+          "section_no": "21",
+          "section_title": "Port of Registry",
+          "body": ""
+        },
+        {
+          "section_no": "22",
+          "section_title": "Certificate of Registry",
+          "body": ""
+        },
+        {
+          "section_no": "23",
+          "section_title": "Custody and use of certificate",
+          "body": ""
+        },
+        {
+          "section_no": "24",
+          "section_title": "Penalty for use of improper certificate",
+          "body": ""
+        },
+        {
+          "section_no": "25",
+          "section_title": "Power to grant duplicate certificate",
+          "body": ""
+        },
+        {
+          "section_no": "26",
+          "section_title": "Provision for loss of certificate",
+          "body": ""
+        },
+        {
+          "section_no": "27",
+          "section_title": "Endorsement of change of master on certificate",
+          "body": ""
+        },
+        {
+          "section_no": "28",
+          "section_title": "Endorsement of change of ownership",
+          "body": ""
+        },
+        {
+          "section_no": "29",
+          "section_title": "Provisional certificate for ships becoming Pakistani owned abroad",
+          "body": ""
+        },
+        {
+          "section_no": "30",
+          "section_title": "Temporary passes in lieu of certificates of registry",
+          "body": ""
+        },
+        {
+          "section_no": "31",
+          "section_title": "Transfer of ships or shares",
+          "body": ""
+        },
+        {
+          "section_no": "32",
+          "section_title": "Declaration of transfer",
+          "body": ""
+        },
+        {
+          "section_no": "33",
+          "section_title": "Registry of transfer",
+          "body": ""
+        },
+        {
+          "section_no": "34",
+          "section_title": "Transmission of property in ship on death, bankruptcy, marriage, etc.",
+          "body": ""
+        },
+        {
+          "section_no": "35",
+          "section_title": "Order for sale on transmission to unqualified person",
+          "body": ""
+        },
+        {
+          "section_no": "36",
+          "section_title": "Transfer of ship on sale by order of court",
+          "body": ""
+        },
+        {
+          "section_no": "37",
+          "section_title": "Power of court to prohibit transfer",
+          "body": ""
+        },
+        {
+          "section_no": "38",
+          "section_title": "Mortgage of ship or share",
+          "body": ""
+        },
+        {
+          "section_no": "39",
+          "section_title": "Entry of discharge of mortgage",
+          "body": ""
+        },
+        {
+          "section_no": "40",
+          "section_title": "Priority of mortgage",
+          "body": ""
+        },
+        {
+          "section_no": "41",
+          "section_title": "Mortgagees not treated as owner",
+          "body": ""
+        },
+        {
+          "section_no": "42",
+          "section_title": "Mortgagee to have power of sale",
+          "body": ""
+        },
+        {
+          "section_no": "43",
+          "section_title": "Mortgage not affected by bankruptcy",
+          "body": ""
+        },
+        {
+          "section_no": "44",
+          "section_title": "Transfer of mortgages",
+          "body": ""
+        },
+        {
+          "section_no": "45",
+          "section_title": "Transmission of interest in mortgage by death, bankruptcy or marriage, etc.",
+          "body": ""
+        },
+        {
+          "section_no": "46",
+          "section_title": "Powers of mortgage and sale",
+          "body": ""
+        },
+        {
+          "section_no": "47",
+          "section_title": "Requisites for certificates of mortgage and sale",
+          "body": ""
+        },
+        {
+          "section_no": "48",
+          "section_title": "Restrictions on certificates of mortgage and sale",
+          "body": ""
+        },
+        {
+          "section_no": "49",
+          "section_title": "Power of the Federal Government in case of loss of certificate of mortgage or sale",
+          "body": ""
+        },
+        {
+          "section_no": "50",
+          "section_title": "Revocation of certificates of mortgage and sale",
+          "body": ""
+        },
+        {
+          "section_no": "51",
+          "section_title": "Registry of alterations, registry anew and transfer of registry",
+          "body": ""
+        },
+        {
+          "section_no": "52",
+          "section_title": "Provisional certificate and endorsement",
+          "body": ""
+        },
+        {
+          "section_no": "53",
+          "section_title": "Registry anew on change of ownership",
+          "body": ""
+        },
+        {
+          "section_no": "54",
+          "section_title": "Restrictions on re-registration of abandoned ships",
+          "body": ""
+        },
+        {
+          "section_no": "55",
+          "section_title": "Provision for cases of infancy or other incapacity",
+          "body": ""
+        },
+        {
+          "section_no": "56",
+          "section_title": "Equities not included by Ordinance",
+          "body": ""
+        },
+        {
+          "section_no": "57",
+          "section_title": "Liability of owners",
+          "body": ""
+        },
+        {
+          "section_no": "58",
+          "section_title": "Ship’s managing owner or manager to be registered",
+          "body": ""
+        },
+        {
+          "section_no": "59",
+          "section_title": "Forgery of documents",
+          "body": ""
+        },
+        {
+          "section_no": "60",
+          "section_title": "False declaration",
+          "body": ""
+        },
+        {
+          "section_no": "61",
+          "section_title": "National character of ship to be declared before clearance",
+          "body": ""
+        },
+        {
+          "section_no": "62",
+          "section_title": "Penalty for concealment of Pakistan character or assumption of foreign character",
+          "body": ""
+        },
+        {
+          "section_no": "63",
+          "section_title": "Penalty for acquiring ownership if unqualified",
+          "body": ""
+        },
+        {
+          "section_no": "64",
+          "section_title": "Liabilities of ships not recognized as Pakistani ships",
+          "body": ""
+        },
+        {
+          "section_no": "65",
+          "section_title": "National colours for ships",
+          "body": ""
+        },
+        {
+          "section_no": "66",
+          "section_title": "Penalty for unduly assuming Pakistani character",
+          "body": ""
+        },
+        {
+          "section_no": "67",
+          "section_title": "Pakistani ships to hoist proper national colours in certain cases",
+          "body": ""
+        },
+        {
+          "section_no": "68",
+          "section_title": "Saving for Pakistan Navy",
+          "body": ""
+        },
+        {
+          "section_no": "69",
+          "section_title": "Recognition of tonnage measurement of ships of foreign country",
+          "body": ""
+        },
+        {
+          "section_no": "70",
+          "section_title": "Space occupied by deck cargo to be liable to dues",
+          "body": ""
+        },
+        {
+          "section_no": "71",
+          "section_title": "Surveyors and regulations for measurement of ships",
+          "body": ""
+        },
+        {
+          "section_no": "72",
+          "section_title": "Levy of tonnage rates under local laws on the registered tonnage",
+          "body": ""
+        },
+        {
+          "section_no": "73",
+          "section_title": "Close of registry",
+          "body": ""
+        },
+        {
+          "section_no": "74",
+          "section_title": "Powers to make rules in respect of matters in this Part",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "CONTROL OF SHIPPING",
+      "sections": [
+        {
+          "section_no": "75",
+          "section_title": "Application",
+          "body": ""
+        },
+        {
+          "section_no": "76",
+          "section_title": "International shipping operators",
+          "body": ""
+        },
+        {
+          "section_no": "77",
+          "section_title": "Government cargo",
+          "body": ""
+        },
+        {
+          "section_no": "78",
+          "section_title": "Requirements for participation in coastal shipping",
+          "body": ""
+        },
+        {
+          "section_no": "79",
+          "section_title": "Power to fix shipping rates",
+          "body": ""
+        },
+        {
+          "section_no": "79A",
+          "section_title": "Regulation and determination of port charges by Shipping Companies and Shipping Agents etc.",
+          "body": ""
+        },
+        {
+          "section_no": "80",
+          "section_title": "Duty to notify tariffs and other transport conditions",
+          "body": ""
+        },
+        {
+          "section_no": "81",
+          "section_title": "Duty to provide conference agreement",
+          "body": ""
+        },
+        {
+          "section_no": "82",
+          "section_title": "Power to disapprove conference agreement",
+          "body": ""
+        },
+        {
+          "section_no": "83",
+          "section_title": "Prohibition on compliance with disapproved agreement",
+          "body": ""
+        },
+        {
+          "section_no": "84",
+          "section_title": "Prohibition to contravene cargo sharing measures",
+          "body": ""
+        },
+        {
+          "section_no": "85",
+          "section_title": "Representative Organizations",
+          "body": ""
+        },
+        {
+          "section_no": "86",
+          "section_title": "Power to call for information",
+          "body": ""
+        },
+        {
+          "section_no": "87",
+          "section_title": "Power of Shipping Authority to enter ship",
+          "body": ""
+        },
+        {
+          "section_no": "88",
+          "section_title": "Penalty",
+          "body": ""
+        },
+        {
+          "section_no": "89",
+          "section_title": "Power to make rules",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "CERTIFICATE OF COMPETENCY",
+      "sections": [
+        {
+          "section_no": "90",
+          "section_title": "Application",
+          "body": ""
+        },
+        {
+          "section_no": "91",
+          "section_title": "Ships to be provided with certificated officers",
+          "body": ""
+        },
+        {
+          "section_no": "92",
+          "section_title": "When officers or ratings deemed to be certificated",
+          "body": ""
+        },
+        {
+          "section_no": "93",
+          "section_title": "Grades of certificates of competency",
+          "body": ""
+        },
+        {
+          "section_no": "94",
+          "section_title": "Examinations for certificates",
+          "body": ""
+        },
+        {
+          "section_no": "95",
+          "section_title": "Grant of certificates on passing examination",
+          "body": ""
+        },
+        {
+          "section_no": "96",
+          "section_title": "Certificate of competency for Naval Officer",
+          "body": ""
+        },
+        {
+          "section_no": "97",
+          "section_title": "Form of certificates",
+          "body": ""
+        },
+        {
+          "section_no": "98",
+          "section_title": "Record of orders affecting certificates",
+          "body": ""
+        },
+        {
+          "section_no": "99",
+          "section_title": "Loss of certificate",
+          "body": ""
+        },
+        {
+          "section_no": "100",
+          "section_title": "Recognition of certificates of competency granted in other countries",
+          "body": ""
+        },
+        {
+          "section_no": "101",
+          "section_title": "Restriction on employment of aliens",
+          "body": ""
+        },
+        {
+          "section_no": "102",
+          "section_title": "Production of certificates and other documents of qualifications",
+          "body": ""
+        },
+        {
+          "section_no": "103",
+          "section_title": "Power to cancel or suspend certificates",
+          "body": ""
+        },
+        {
+          "section_no": "104",
+          "section_title": "Penalty",
+          "body": ""
+        },
+        {
+          "section_no": "105",
+          "section_title": "Power to make rules as to grant of certificates of competency",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "APPRENTICESHIP TO SEA SERVICE",
+      "sections": [
+        {
+          "section_no": "106",
+          "section_title": "Assistance for apprenticeship to sea service",
+          "body": ""
+        },
+        {
+          "section_no": "107",
+          "section_title": "Special provisions as to apprenticeship to sea service",
+          "body": ""
+        },
+        {
+          "section_no": "108",
+          "section_title": "Manner in which contract, etc. is to be recorded",
+          "body": ""
+        },
+        {
+          "section_no": "109",
+          "section_title": "Production of contracts to persons before voyage in ship",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "EMPLOYMENT OF YOUNG PERSONS",
+      "sections": [
+        {
+          "section_no": "110",
+          "section_title": "Employment of young persons",
+          "body": ""
+        },
+        {
+          "section_no": "111",
+          "section_title": "Engagement of young persons as trimmer or stoker",
+          "body": ""
+        },
+        {
+          "section_no": "112",
+          "section_title": "Medical examination of young persons",
+          "body": ""
+        },
+        {
+          "section_no": "113",
+          "section_title": "Penalty for false representation by parent or guardian",
+          "body": ""
+        },
+        {
+          "section_no": "114",
+          "section_title": "Penalty for contravention of sections 110, 111 and 112",
+          "body": ""
+        },
+        {
+          "section_no": "115",
+          "section_title": "Maintenance of list or register of young persons in a ship and penalty for failure to maintain or produce for inspection register of such persons",
+          "body": ""
+        },
+        {
+          "section_no": "116",
+          "section_title": "Power to make rules",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "ENGAGEMENT OF SEAMEN",
+      "sections": [
+        {
+          "section_no": "117",
+          "section_title": "Rules relating to engagement of seaman and maritime labour",
+          "body": ""
+        },
+        {
+          "section_no": "118",
+          "section_title": "Supply of seamen in contravention of this Ordinance prohibited",
+          "body": ""
+        },
+        {
+          "section_no": "119",
+          "section_title": "Manning agent",
+          "body": ""
+        },
+        {
+          "section_no": "120",
+          "section_title": "Seamen to be in possession of seamen's service book",
+          "body": ""
+        },
+        {
+          "section_no": "121",
+          "section_title": "Loss of seamen's service book",
+          "body": ""
+        },
+        {
+          "section_no": "122",
+          "section_title": "Cancellation of seamen's service book",
+          "body": ""
+        },
+        {
+          "section_no": "123",
+          "section_title": "Certificate of physical fitness",
+          "body": ""
+        },
+        {
+          "section_no": "124",
+          "section_title": "Rules relating to safe manning",
+          "body": ""
+        },
+        {
+          "section_no": "125",
+          "section_title": "Agreement with crew",
+          "body": ""
+        },
+        {
+          "section_no": "126",
+          "section_title": "Forms and contents of agreement",
+          "body": ""
+        },
+        {
+          "section_no": "127",
+          "section_title": "Engagement in Pakistan of seamen for foreign ships",
+          "body": ""
+        },
+        {
+          "section_no": "128",
+          "section_title": "Special provisions with regard to agreements with crew of Pakistani foreign-going ships",
+          "body": ""
+        },
+        {
+          "section_no": "129",
+          "section_title": "Renewal of running agreements in certain cases",
+          "body": ""
+        },
+        {
+          "section_no": "130",
+          "section_title": "Special provisions as to agreements with crew of home trade or coasting ships",
+          "body": ""
+        },
+        {
+          "section_no": "131",
+          "section_title": "Changes in crew to be reported",
+          "body": ""
+        },
+        {
+          "section_no": "132",
+          "section_title": "Certificates as to agreements with crew of foreign going and home trade ships",
+          "body": ""
+        },
+        {
+          "section_no": "133",
+          "section_title": "Certificate as to agreement with crew of coasting ship",
+          "body": ""
+        },
+        {
+          "section_no": "134",
+          "section_title": "Copy of agreement with crew to be made accessible to the crew",
+          "body": ""
+        },
+        {
+          "section_no": "135",
+          "section_title": "Alteration in agreement with the crew",
+          "body": ""
+        },
+        {
+          "section_no": "136",
+          "section_title": "List of crew to be furnished to Shipping Master",
+          "body": ""
+        },
+        {
+          "section_no": "137",
+          "section_title": "Power to prohibit engagement of specified Pakistani seamen",
+          "body": ""
+        },
+        {
+          "section_no": "138",
+          "section_title": "Power to board ships and muster seamen",
+          "body": ""
+        },
+        {
+          "section_no": "139",
+          "section_title": "Forged seamen’s service book",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "DISCHARGE OF SEAMEN",
+      "sections": [
+        {
+          "section_no": "140",
+          "section_title": "Discharge of seamen before Shipping Master",
+          "body": ""
+        },
+        {
+          "section_no": "141",
+          "section_title": "Entries to be made in seamen's service book and return of certificates of competency to Officers on discharge",
+          "body": ""
+        },
+        {
+          "section_no": "142",
+          "section_title": "Discharge of a seaman abroad",
+          "body": ""
+        },
+        {
+          "section_no": "143",
+          "section_title": "Discharge of seamen and apprentices on change of ownership",
+          "body": ""
+        },
+        {
+          "section_no": "144",
+          "section_title": "Transmission of documents on transfer of seaman from one ship to another",
+          "body": ""
+        },
+        {
+          "section_no": "145",
+          "section_title": "Repatriation of seamen and apprentices on termination of service abroad",
+          "body": ""
+        },
+        {
+          "section_no": "146",
+          "section_title": "Leaving behind in Pakistan a seaman or apprentice shipped abroad",
+          "body": ""
+        },
+        {
+          "section_no": "147",
+          "section_title": "Leaving behind a seaman or apprentice by masters of Pakistani ships",
+          "body": ""
+        },
+        {
+          "section_no": "148",
+          "section_title": "Wages and other property of seaman or apprentice left behind Pakistani ships abroad",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "WAGES OF SEAMEN",
+      "sections": [
+        {
+          "section_no": "149",
+          "section_title": "Master to deliver account of wages",
+          "body": ""
+        },
+        {
+          "section_no": "150",
+          "section_title": "Deduction from wages of seamen",
+          "body": ""
+        },
+        {
+          "section_no": "151",
+          "section_title": "Disrating of seamen",
+          "body": ""
+        },
+        {
+          "section_no": "152",
+          "section_title": "Deductions on account of provident fund, etc.",
+          "body": ""
+        },
+        {
+          "section_no": "153",
+          "section_title": "Payment of wages before Shipping Master",
+          "body": ""
+        },
+        {
+          "section_no": "154",
+          "section_title": "Time of payment of wages",
+          "body": ""
+        },
+        {
+          "section_no": "155",
+          "section_title": "Settlement of wages",
+          "body": ""
+        },
+        {
+          "section_no": "156",
+          "section_title": "Decision of disputes by Shipping Master",
+          "body": ""
+        },
+        {
+          "section_no": "157",
+          "section_title": "Power of Shipping Master to require production of ship's papers",
+          "body": ""
+        },
+        {
+          "section_no": "158",
+          "section_title": "Rate of exchange for payment of seamen in Pakistan",
+          "body": ""
+        },
+        {
+          "section_no": "159",
+          "section_title": "Right to wages and provisions",
+          "body": ""
+        },
+        {
+          "section_no": "160",
+          "section_title": "Wages not to depend on freight",
+          "body": ""
+        },
+        {
+          "section_no": "161",
+          "section_title": "Wages on termination of service by wreck, illness, etc.",
+          "body": ""
+        },
+        {
+          "section_no": "162",
+          "section_title": "Wages not to accrue during refusal or imprisonment",
+          "body": ""
+        },
+        {
+          "section_no": "163",
+          "section_title": "Compensation to seamen",
+          "body": ""
+        },
+        {
+          "section_no": "164",
+          "section_title": "Restriction on sale of and charges upon wages",
+          "body": ""
+        },
+        {
+          "section_no": "165",
+          "section_title": "Summary proceedings for wages",
+          "body": ""
+        },
+        {
+          "section_no": "166",
+          "section_title": "Restrictions on suits for wages",
+          "body": ""
+        },
+        {
+          "section_no": "167",
+          "section_title": "Advances and allotments",
+          "body": ""
+        },
+        {
+          "section_no": "168",
+          "section_title": "Stipulations as to allotment notes",
+          "body": ""
+        },
+        {
+          "section_no": "169",
+          "section_title": "Payment of sums allotted",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "PROPERTY OF DECEASED SEAMEN",
+      "sections": [
+        {
+          "section_no": "170",
+          "section_title": "Master to take charge of the effects of deceased seaman",
+          "body": ""
+        },
+        {
+          "section_no": "171",
+          "section_title": "Disposal of property of seaman who dies during the voyage",
+          "body": ""
+        },
+        {
+          "section_no": "172",
+          "section_title": "Liability of master in respect of property of deceased seamen, etc.",
+          "body": ""
+        },
+        {
+          "section_no": "173",
+          "section_title": "Property of deceased seamen left abroad but not on board ship",
+          "body": ""
+        },
+        {
+          "section_no": "174",
+          "section_title": "Dealing with property of deceased seamen",
+          "body": ""
+        },
+        {
+          "section_no": "175",
+          "section_title": "Recovery of wages, etc., of seamen lost with their ship",
+          "body": ""
+        },
+        {
+          "section_no": "176",
+          "section_title": "Property of seamen dying in Pakistan",
+          "body": ""
+        },
+        {
+          "section_no": "177",
+          "section_title": "Payment over property of deceased seamen be Shipping Master",
+          "body": ""
+        },
+        {
+          "section_no": "178",
+          "section_title": "Disposal of unclaimed property of deceased seamen",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "DISTRESSED SEAMEN",
+      "sections": [
+        {
+          "section_no": "179",
+          "section_title": "Application of Chapter to apprentices",
+          "body": ""
+        },
+        {
+          "section_no": "180",
+          "section_title": "Power to make rules with respect to distressed seamen",
+          "body": ""
+        },
+        {
+          "section_no": "181",
+          "section_title": "Relief and maintenance of distressed seamen",
+          "body": ""
+        },
+        {
+          "section_no": "182",
+          "section_title": "Mode of providing for return of seamen to proper port",
+          "body": ""
+        },
+        {
+          "section_no": "183",
+          "section_title": "Receiving distressed seamen on ships",
+          "body": ""
+        },
+        {
+          "section_no": "184",
+          "section_title": "Pakistan Consular officer of Shipping Master to decide return port to or route by which seaman is to be sent",
+          "body": ""
+        },
+        {
+          "section_no": "185",
+          "section_title": "Provisions as to taking distressed seamen on ships",
+          "body": ""
+        },
+        {
+          "section_no": "186",
+          "section_title": "What shall be evidence of distress",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "PROVISIONS AND ACCOMMODATION FOR SEAMEN AND THEIR HEALTH",
+      "sections": [
+        {
+          "section_no": "187",
+          "section_title": "Ships to have sufficient provisions and water",
+          "body": ""
+        },
+        {
+          "section_no": "188",
+          "section_title": "Allowance for short or bad provisions",
+          "body": ""
+        },
+        {
+          "section_no": "189",
+          "section_title": "Pakistani foreign going ships to carry duly certificated cooks",
+          "body": ""
+        },
+        {
+          "section_no": "190",
+          "section_title": "Medicines to be provided and kept on board certain ships",
+          "body": ""
+        },
+        {
+          "section_no": "191",
+          "section_title": "Certain ships to carry medical officers",
+          "body": ""
+        },
+        {
+          "section_no": "192",
+          "section_title": "Weights and measures on board",
+          "body": ""
+        },
+        {
+          "section_no": "193",
+          "section_title": "Expenses of medical attendance in case of illness",
+          "body": ""
+        },
+        {
+          "section_no": "194",
+          "section_title": "Power to make rules with respect to crew accommodation",
+          "body": ""
+        },
+        {
+          "section_no": "195",
+          "section_title": "Inspection of crew accommodation when a ship is re-registered",
+          "body": ""
+        },
+        {
+          "section_no": "196",
+          "section_title": "Bedding, towels, etc., to be provided",
+          "body": ""
+        },
+        {
+          "section_no": "197",
+          "section_title": "Inspection of provisions, water and medicines",
+          "body": ""
+        },
+        {
+          "section_no": "198",
+          "section_title": "Inspection by master of provisions, water and accommodation at sea",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "DISCIPLINE OF SEAMEN AND APPRENTICES",
+      "sections": [
+        {
+          "section_no": "199",
+          "section_title": "Definitions",
+          "body": ""
+        },
+        {
+          "section_no": "200",
+          "section_title": "Master's power of arrest",
+          "body": ""
+        },
+        {
+          "section_no": "201",
+          "section_title": "Maintenance of discipline",
+          "body": ""
+        },
+        {
+          "section_no": "202",
+          "section_title": "On change of master, documents to be handed over to successor",
+          "body": ""
+        },
+        {
+          "section_no": "203",
+          "section_title": "Misconduct endangering life or ship",
+          "body": ""
+        },
+        {
+          "section_no": "204",
+          "section_title": "Desertion and absence without leave",
+          "body": ""
+        },
+        {
+          "section_no": "205",
+          "section_title": "Power to suspend deserter's seamen's service book",
+          "body": ""
+        },
+        {
+          "section_no": "206",
+          "section_title": "Conveyance of deserter or imprisoned seaman or apprentice on board ship",
+          "body": ""
+        },
+        {
+          "section_no": "207",
+          "section_title": "Power of Court to order offender to be taken on board ship",
+          "body": ""
+        },
+        {
+          "section_no": "208",
+          "section_title": "General offences against discipline",
+          "body": ""
+        },
+        {
+          "section_no": "209",
+          "section_title": "Report of desertion and absence without leave",
+          "body": ""
+        },
+        {
+          "section_no": "210",
+          "section_title": "Entries and certificates of desertion abroad",
+          "body": ""
+        },
+        {
+          "section_no": "211",
+          "section_title": "Facilities for proving desertion in proceeding for forfeiture of wages",
+          "body": ""
+        },
+        {
+          "section_no": "212",
+          "section_title": "Application of forfeiture",
+          "body": ""
+        },
+        {
+          "section_no": "213",
+          "section_title": "Decisions of questions for forfeiture and deductions in suits for wages",
+          "body": ""
+        },
+        {
+          "section_no": "214",
+          "section_title": "Payment of fines imposed under agreement to Shipping Master",
+          "body": ""
+        },
+        {
+          "section_no": "215",
+          "section_title": "Penalty for enticing to desert",
+          "body": ""
+        },
+        {
+          "section_no": "216",
+          "section_title": "Penalty for harboring deserters",
+          "body": ""
+        },
+        {
+          "section_no": "217",
+          "section_title": "Penalties on stowaways and discipline of stowaways and seamen carried under compulsion",
+          "body": ""
+        },
+        {
+          "section_no": "218",
+          "section_title": "Unauthorized presence on board ship",
+          "body": ""
+        },
+        {
+          "section_no": "219",
+          "section_title": "Procedure where officer, seaman or apprentice not shipped in Pakistan is imprisoned on complaint of master",
+          "body": ""
+        },
+        {
+          "section_no": "220",
+          "section_title": "Power to send on board officer or seaman or apprentice not shipped in Pakistan who is undergoing imprisonment",
+          "body": ""
+        },
+        {
+          "section_no": "221",
+          "section_title": "Deserters from foreign ships",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "LITIGATION AGAINST SEAMEN",
+      "sections": [
+        {
+          "section_no": "222",
+          "section_title": "Definitions",
+          "body": ""
+        },
+        {
+          "section_no": "223",
+          "section_title": "Particulars to be furnished in plaints, etc.",
+          "body": ""
+        },
+        {
+          "section_no": "224",
+          "section_title": "Power of Collector to intervene in case of an unrepresented seaman",
+          "body": ""
+        },
+        {
+          "section_no": "225",
+          "section_title": "Notice to be given in case of unrepresented seaman",
+          "body": ""
+        },
+        {
+          "section_no": "226",
+          "section_title": "Postponement of proceedings",
+          "body": ""
+        },
+        {
+          "section_no": "227",
+          "section_title": "Power to set aside decrees and orders passed against serving seaman",
+          "body": ""
+        },
+        {
+          "section_no": "228",
+          "section_title": "Modification of decrees and orders",
+          "body": ""
+        }
+      ]
+    }
+  ],
+  "source_file": "administrator0506da23281ece11e55cd37fe1f0c072.txt"
+}

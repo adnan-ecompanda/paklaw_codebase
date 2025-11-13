@@ -1,0 +1,57 @@
+{
+  "law_name": "THE GOVERNMENT TENANTS (NORTH-WEST FRONTIER) ACT",
+  "year": 1893,
+  "chapters": [
+    {
+      "chapter_title": "Contents",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title and extent",
+          "body": "(1) This Act may be called the Government Tenants (North-West Frontier) Act, 1893. (2) It extends to the North-West Frontier."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Definition",
+          "body": "In this Act, unless there is something repugnant in the subject or context, 'Deputy Commissioner' includes also any officer appointed by the Provincial Government to perform all or any of the functions of the Deputy Commissioner under this Act."
+        },
+        {
+          "section_no": "3",
+          "section_title": "Application of Act",
+          "body": "The Provincial Government may, by notification in the official Gazette, apply the provisions of this Act to any tract of land which is the property of the Government."
+        },
+        {
+          "section_no": "4",
+          "section_title": "Issue of statements of conditions of tenancies",
+          "body": "When this Act has been so applied to any tract, the Provincial Government may issue a statement or statements of the conditions on which it is willing to grant to tenants lands situate in such tract."
+        },
+        {
+          "section_no": "5",
+          "section_title": "Maintenance of registers of tenancies",
+          "body": "(1) When any such statement has been issued for any tract, the Deputy Commissioner shall, in manner hereinafter provided, open and maintain for such tract a register or registers of tenancies granted on the conditions prescribed in such statement. (2) Every such register shall have prefixed thereto a copy of the statement of conditions to which it relates, and shall be in such form and shall contain such particulars as to the tenancies registered therein as the Provincial Government may prescribe."
+        },
+        {
+          "section_no": "6",
+          "section_title": "Entry in register and signature thereof on grant of tenancy",
+          "body": "Before a tenancy is granted to any person in any such tract, the prescribed particulars regarding the proposed grant shall be duly entered in the appropriate register, and the entry shall be signed by the proposed tenant and by the Deputy Commissioner."
+        },
+        {
+          "section_no": "7",
+          "section_title": "Effect of signature of entry",
+          "body": "When any entry in any such register has been so signed as directed in the last foregoing section, the person signing the same as proposed tenant and his successors in interest shall, notwithstanding any previous agreement or anything contained in the Punjab Tenancy Act, 1887, or the Hazara Tenancy Regulation, 1887, or any other enactment now in force, be deemed to have accepted and to hold the lands described in such entry as a tenant from the Government on the conditions prescribed in the statement prefixed to such register."
+        },
+        {
+          "section_no": "8",
+          "section_title": "Transfer of rights of tenants",
+          "body": "The rights or interests vested in a tenant by or under this Act shall not be capable of being attached or sold in execution of a decree or order of any Court or in any insolvency proceedings, nor shall they or any of them, without the previous consent in writing of the Financial Commissioner, be transferred or charged by any sale, gift, mortgage or other private contract."
+        },
+        {
+          "section_no": "9",
+          "section_title": "Sums due in respect to tenancy recoverable as arrears of land revenue",
+          "body": "All sums due to the Government in respect of a tenancy granted in pursuance of this Act shall be recoverable as if they were arrears of land revenue due from the tenant in respect of such tenancy."
+        }
+      ]
+    }
+  ],
+  "source_file": "administrator79cdef3eaf6234dd90563d22892f579e.txt"
+}

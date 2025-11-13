@@ -1,0 +1,47 @@
+{
+  "law_name": "Countervailing Duties Ordinance",
+  "year": 2001,
+  "chapters": [
+    {
+      "chapter_title": "Preliminary",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title, extent and commencement",
+          "body": "(1) This Ordinance may be called the Countervailing Duties Ordinance, 2001. (2) It extends to the whole of Pakistan. (3) It shall come into force at once."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Definitions",
+          "body": "In this Ordinance, unless there is anything repugnant in the subject or context, various definitions are provided for terms such as 'Agreement on Subsidies', 'Appellate Tribunal', 'application', 'association', 'Commission', 'country', 'countervailing measures', 'definitive countervailing duty', 'domestic industry', 'exporting country', 'government', 'injury', 'interested party', 'investigated product', 'investigation', 'like product', 'prescribed', 'provisional countervailing duty', 'public notice', 'Schedule', 'subsidy', and 'WTO'."
+        }
+      ]
+    },
+    {
+      "chapter_title": "Countervailing Measures",
+      "sections": [
+        {
+          "section_no": "3",
+          "section_title": "Levy of countervailing duty",
+          "body": "(1) Where the Commission determines that any exporting country pays or bestows any subsidy upon the manufacture or production of any investigated product, the Commission shall impose a countervailing duty upon the importation of any such product into Pakistan. (2) A product shall be considered to be subsidised if it benefits from a countervailable subsidy as provided for in sections 4 and 5."
+        }
+      ]
+    },
+    {
+      "chapter_title": "Definition of Subsidy, Countervailable and Non-Countervailable Subsidies",
+      "sections": [
+        {
+          "section_no": "4",
+          "section_title": "Circumstances in which subsidy shall be deemed to exist",
+          "body": "A subsidy shall be deemed to exist if there is a financial contribution by a government, including direct transfers of funds, foregone revenue, provision of goods or services, or payments to a funding mechanism."
+        },
+        {
+          "section_no": "5",
+          "section_title": "Countervailable subsidies",
+          "body": "A subsidy shall be subject to countervailing measures under this Ordinance only if the Commission determines that it causes injury to the domestic industry."
+        }
+      ]
+    }
+  ],
+  "source_file": "administrator9fc1ee6f12ae2fdafe00d5ee38c7be7a.txt"
+}

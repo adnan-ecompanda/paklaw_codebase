@@ -1,0 +1,547 @@
+{
+  "law_name": "THE TRUSTS ACT",
+  "year": 1882,
+  "chapters": [
+    {
+      "chapter_title": "PRELIMINARY",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title, Commencement, Local extent, Savings",
+          "body": "This Act may be called the Trusts Act, 1882; and it shall come into force on the first day of March, 1882. It extends to the whole of Pakistan. But nothing herein contained affects the rules of Muslim law as to waqf, or the mutual relations of the members of an undivided family as determined by any customary or personal law, or applies to public or private religious or charitable endowments, or to trusts to distribute prizes taken in war among the captors; and nothing in the second Chapter of this Act applies to trusts created before the said day."
+        },
+        {
+          "section_no": "2",
+          "section_title": "[Omitted.]",
+          "body": ""
+        },
+        {
+          "section_no": "3",
+          "section_title": "Interpretation clause",
+          "body": "A 'trust' is an obligation annexed to the ownership of property, and arising out of a confidence reposed in and accepted by the owner, or declared and accepted by him, for the benefit of another, or of another and the owner: 'author of the trust': 'trustee': 'beneficiary': 'trust property': 'beneficial interest': 'instrument of trust': the person who reposes or declares the confidence is called the 'author of the trust': the person who accepts the confidence is called the 'trustee': the person for whose benefit the confidence is accepted is called the 'beneficiary': the subject matter of the trust is called 'trust-property' or 'trust-money': the 'beneficial interest' or 'interest' of the beneficiary is his right against the trustee as owner of the trust-property; and the instrument, if any, by which the trust is declared is called the 'instrument of trust': 'breach of trust': a breach of any duty imposed on a trustee, as such, by any law for the time being in force, is called a 'breach of trust'."
+        }
+      ]
+    },
+    {
+      "chapter_title": "OF THE CREATION OF TRUSTS",
+      "sections": [
+        {
+          "section_no": "4",
+          "section_title": "Lawful purpose",
+          "body": "A trust may be created for any lawful purpose. The purpose of a trust is lawful unless it is (a) forbidden by law, or (b) is of such a nature that, if permitted, it would defeat the provisions of any law, or (c) is fraudulent, or (d) involves or implies injury to the person or property of another, or (e) the Court regards it as immoral or opposed to public policy. Every trust of which the purpose is unlawful is void. And where a trust is created for two purposes, of which one is lawful and the other unlawful, and the two purposes cannot be separated, the whole trust is void."
+        },
+        {
+          "section_no": "5",
+          "section_title": "Trust of immoveable property, Trust of moveable property",
+          "body": "No trust in relation to immoveable property is valid unless declared by a non-testamentary instrument in writing signed by the author of the trust or the trustee and registered, or by the will of the author of the trust or of the trustee. No trust in relation to moveable property is valid unless declared as aforesaid, or unless the ownership of the property is transferred to the trustee. These rules do not apply where they would operate so as to effectuate a fraud."
+        },
+        {
+          "section_no": "6",
+          "section_title": "Creation of trust",
+          "body": "Subject to the provisions of section 5, a trust is created when the author of the trust indicates with reasonable certainty by any words or acts (a) an intention on his part to create thereby a trust, (b) the purpose of the trust, (c) the beneficiary, and (d) the trust-property, and (unless the trust is declared by will or the author of the trust is himself to be the trustee) transfers the trust-property to the trustee."
+        },
+        {
+          "section_no": "7",
+          "section_title": "Who may create trusts",
+          "body": ""
+        },
+        {
+          "section_no": "8",
+          "section_title": "Subject of trust",
+          "body": ""
+        },
+        {
+          "section_no": "9",
+          "section_title": "Who may be beneficiary, Disclaimer by beneficiary",
+          "body": ""
+        },
+        {
+          "section_no": "10",
+          "section_title": "Who may be trustee, No one bound to accept trust, Acceptance of trust, Disclaimer of trust",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "OF THE DUTIES AND LIABILITIES OF TRUSTEES",
+      "sections": [
+        {
+          "section_no": "11",
+          "section_title": "Trustee to execute trust",
+          "body": ""
+        },
+        {
+          "section_no": "12",
+          "section_title": "Trustee to inform himself of state of trust-property",
+          "body": ""
+        },
+        {
+          "section_no": "13",
+          "section_title": "Trustee to protect title to trust-property",
+          "body": ""
+        },
+        {
+          "section_no": "14",
+          "section_title": "Trustee not to set up title adverse to beneficiary",
+          "body": ""
+        },
+        {
+          "section_no": "15",
+          "section_title": "Care required from trustee",
+          "body": ""
+        },
+        {
+          "section_no": "16",
+          "section_title": "Conversion of perishable property",
+          "body": ""
+        },
+        {
+          "section_no": "17",
+          "section_title": "Trustee to be impartial",
+          "body": ""
+        },
+        {
+          "section_no": "18",
+          "section_title": "Trustee to prevent waste",
+          "body": ""
+        },
+        {
+          "section_no": "19",
+          "section_title": "Accounts and information",
+          "body": ""
+        },
+        {
+          "section_no": "20",
+          "section_title": "Investment of trust-money",
+          "body": ""
+        },
+        {
+          "section_no": "20A",
+          "section_title": "Power to purchase redeemable stock at a premium",
+          "body": ""
+        },
+        {
+          "section_no": "21",
+          "section_title": "Mortgage of land pledged to Government under Act XIX of 1883. Deposit in Government Savings Bank",
+          "body": ""
+        },
+        {
+          "section_no": "22",
+          "section_title": "Sale by trustee directed to sell within specified time",
+          "body": ""
+        },
+        {
+          "section_no": "23",
+          "section_title": "Liability for breach of trust",
+          "body": ""
+        },
+        {
+          "section_no": "24",
+          "section_title": "No set-off allowed to trustee",
+          "body": ""
+        },
+        {
+          "section_no": "25",
+          "section_title": "Non-liability for predecessor's default",
+          "body": ""
+        },
+        {
+          "section_no": "26",
+          "section_title": "Non-liability for co-trustee's default, Joining in receipt for conformity",
+          "body": ""
+        },
+        {
+          "section_no": "27",
+          "section_title": "Several liability of co-trustees, Contribution as between co-trustees",
+          "body": ""
+        },
+        {
+          "section_no": "28",
+          "section_title": "Non-liability of trustee paying without notice of transfer by beneficiary",
+          "body": ""
+        },
+        {
+          "section_no": "29",
+          "section_title": "Liability of trustee where beneficiary's interest is forfeited to the Government",
+          "body": ""
+        },
+        {
+          "section_no": "30",
+          "section_title": "Indemnity of trustees",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "OF THE RIGHTS AND POWERS OF TRUSTEES",
+      "sections": [
+        {
+          "section_no": "31",
+          "section_title": "Right to title-deed",
+          "body": ""
+        },
+        {
+          "section_no": "32",
+          "section_title": "Right to reimbursement of expenses, Right to be recouped for erroneous over-payment",
+          "body": ""
+        },
+        {
+          "section_no": "33",
+          "section_title": "Right to indemnity from gainer by breach of trust",
+          "body": ""
+        },
+        {
+          "section_no": "34",
+          "section_title": "Right to apply to Court for opinion in management of trust-property",
+          "body": ""
+        },
+        {
+          "section_no": "35",
+          "section_title": "Right to settlement of accounts",
+          "body": ""
+        },
+        {
+          "section_no": "36",
+          "section_title": "General authority of trustee",
+          "body": ""
+        },
+        {
+          "section_no": "37",
+          "section_title": "Power to sell in lots, and either by public auction or private contract",
+          "body": ""
+        },
+        {
+          "section_no": "38",
+          "section_title": "Power to sell under special conditions, Power to buy in and re-sell, Time allowed for selling trust-property",
+          "body": ""
+        },
+        {
+          "section_no": "39",
+          "section_title": "Power to convey",
+          "body": ""
+        },
+        {
+          "section_no": "40",
+          "section_title": "Power to vary investments",
+          "body": ""
+        },
+        {
+          "section_no": "41",
+          "section_title": "Power to apply property of minors, etc., for their maintenance, etc",
+          "body": ""
+        },
+        {
+          "section_no": "42",
+          "section_title": "Power to give receipts",
+          "body": ""
+        },
+        {
+          "section_no": "43",
+          "section_title": "Power to compound, etc",
+          "body": ""
+        },
+        {
+          "section_no": "44",
+          "section_title": "Power to several trustees of whom one disclaim or dies",
+          "body": ""
+        },
+        {
+          "section_no": "45",
+          "section_title": "Suspension of trustee's powers by decree",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "OF THE DISABILITIES OF TRUSTEES",
+      "sections": [
+        {
+          "section_no": "46",
+          "section_title": "Trustee cannot renounce after acceptance",
+          "body": ""
+        },
+        {
+          "section_no": "47",
+          "section_title": "Trustee cannot delegate",
+          "body": ""
+        },
+        {
+          "section_no": "48",
+          "section_title": "Co-trustees cannot act singly",
+          "body": ""
+        },
+        {
+          "section_no": "49",
+          "section_title": "Control of discretionary power",
+          "body": ""
+        },
+        {
+          "section_no": "50",
+          "section_title": "Trustee may not charge for services",
+          "body": ""
+        },
+        {
+          "section_no": "51",
+          "section_title": "Trustee may not use trust-property for his own profit",
+          "body": ""
+        },
+        {
+          "section_no": "52",
+          "section_title": "Trustee for sale or this agent may not buy",
+          "body": ""
+        },
+        {
+          "section_no": "53",
+          "section_title": "Trustee may not buy beneficiary's interest without permission, Trustee for purchase",
+          "body": ""
+        },
+        {
+          "section_no": "54",
+          "section_title": "Co-trustees may not lend to one of themselves",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "OF THE RIGHTS AND LIABILITIES OF THE BENEFICIARY",
+      "sections": [
+        {
+          "section_no": "55",
+          "section_title": "Rights to rents and profits",
+          "body": ""
+        },
+        {
+          "section_no": "56",
+          "section_title": "Right to specific execution, Right to transfer of possession",
+          "body": ""
+        },
+        {
+          "section_no": "57",
+          "section_title": "Rights to inspect and take copies of instrument of trust, accounts, etc",
+          "body": ""
+        },
+        {
+          "section_no": "58",
+          "section_title": "Right to transfer beneficial interest",
+          "body": ""
+        },
+        {
+          "section_no": "59",
+          "section_title": "Right to sue for execution of trust",
+          "body": ""
+        },
+        {
+          "section_no": "60",
+          "section_title": "Right to proper trustees",
+          "body": ""
+        },
+        {
+          "section_no": "61",
+          "section_title": "Right to compel to any act of duty",
+          "body": ""
+        },
+        {
+          "section_no": "62",
+          "section_title": "Wrongful purchase by trustee",
+          "body": ""
+        },
+        {
+          "section_no": "63",
+          "section_title": "Following trust-property into the hands of third persons; into that into which it has been converted",
+          "body": ""
+        },
+        {
+          "section_no": "64",
+          "section_title": "Saving of rights of certain transferees",
+          "body": ""
+        },
+        {
+          "section_no": "65",
+          "section_title": "Acquisition by trustee of trust-property wrongfully converted",
+          "body": ""
+        },
+        {
+          "section_no": "66",
+          "section_title": "Right in case of blended property",
+          "body": ""
+        },
+        {
+          "section_no": "67",
+          "section_title": "Wrongful employment by partner-trustee of trust-property for partnership purposes",
+          "body": ""
+        },
+        {
+          "section_no": "68",
+          "section_title": "Liability of beneficiary joining in breach of trust",
+          "body": ""
+        },
+        {
+          "section_no": "69",
+          "section_title": "Rights and liabilities of beneficiary's transferee",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "OF VACATING THE OFFICE OF TRUSTEE",
+      "sections": [
+        {
+          "section_no": "70",
+          "section_title": "Office how vacated",
+          "body": ""
+        },
+        {
+          "section_no": "71",
+          "section_title": "Discharge of trustee",
+          "body": ""
+        },
+        {
+          "section_no": "72",
+          "section_title": "Petition to be discharged from trust",
+          "body": ""
+        },
+        {
+          "section_no": "73",
+          "section_title": "Appointment of new trustees on death, etc",
+          "body": ""
+        },
+        {
+          "section_no": "74",
+          "section_title": "Appointment by Court, Rules for selecting new trustees",
+          "body": ""
+        },
+        {
+          "section_no": "75",
+          "section_title": "Vesting of trust-property in new trustees, Powers of new trustees",
+          "body": ""
+        },
+        {
+          "section_no": "76",
+          "section_title": "Survival of trusts",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "OF THE EXTINCTION OF TRUSTS",
+      "sections": [
+        {
+          "section_no": "77",
+          "section_title": "Trust how extinguished",
+          "body": ""
+        },
+        {
+          "section_no": "78",
+          "section_title": "Revocation of trust",
+          "body": ""
+        },
+        {
+          "section_no": "79",
+          "section_title": "Revocation not to defeat what trustees have duly done",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "OF CERTAIN OBLIGATIONS IN THE NATURE OF TRUSTS",
+      "sections": [
+        {
+          "section_no": "80",
+          "section_title": "Where obligation in nature of trust is created",
+          "body": ""
+        },
+        {
+          "section_no": "81",
+          "section_title": "Where it does not appear that transferor intended to dispose of beneficial interest",
+          "body": ""
+        },
+        {
+          "section_no": "82",
+          "section_title": "Transfer to one for consideration paid by another",
+          "body": ""
+        },
+        {
+          "section_no": "83",
+          "section_title": "Trust incapable of execution or executed without exhausting trust-property",
+          "body": ""
+        },
+        {
+          "section_no": "84",
+          "section_title": "Transfer for illegal purpose",
+          "body": ""
+        },
+        {
+          "section_no": "85",
+          "section_title": "Bequest for illegal purpose, Bequest of which revocation is prevented by coercion",
+          "body": ""
+        },
+        {
+          "section_no": "86",
+          "section_title": "Transfer pursuant to rescindable contract",
+          "body": ""
+        },
+        {
+          "section_no": "87",
+          "section_title": "Debtor becoming creditor's representative",
+          "body": ""
+        },
+        {
+          "section_no": "88",
+          "section_title": "Advantage gained by fiduciary",
+          "body": ""
+        },
+        {
+          "section_no": "89",
+          "section_title": "Advantage gained by exercise of undue influence",
+          "body": ""
+        },
+        {
+          "section_no": "90",
+          "section_title": "Advantage gained by qualified owner",
+          "body": ""
+        },
+        {
+          "section_no": "91",
+          "section_title": "Property acquired with notice of existing contract",
+          "body": ""
+        },
+        {
+          "section_no": "92",
+          "section_title": "Purchase by person contracting to buy property to be held on trust",
+          "body": ""
+        },
+        {
+          "section_no": "93",
+          "section_title": "Advantage secretly gained by one of several compounding creditors",
+          "body": ""
+        },
+        {
+          "section_no": "94",
+          "section_title": "Constructive trusts in cases not expressly provided for",
+          "body": ""
+        },
+        {
+          "section_no": "95",
+          "section_title": "Obligor's duties, liabilities and disabilities",
+          "body": ""
+        },
+        {
+          "section_no": "96",
+          "section_title": "Saving of rights of bona fide purchasers",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "THE SCHEDULE.",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "[Omitted.]",
+          "body": ""
+        }
+      ]
+    }
+  ],
+  "source_file": "administrator097759e0f2a16527881669c6e1435919.txt"
+}

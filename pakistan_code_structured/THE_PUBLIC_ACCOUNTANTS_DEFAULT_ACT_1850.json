@@ -1,0 +1,42 @@
+{
+  "law_name": "THE PUBLIC ACCOUNTANTS’ DEFAULT ACT",
+  "year": 1850,
+  "chapters": [
+    {
+      "chapter_title": "Public Accountants’ Default",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Public Accountants to give security",
+          "body": "Every public accountant shall give security for the due discharge of the trusts of his office, and for the due account of all moneys which shall come into his possession or control, by reason of his office."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Amount and kind of security and with what sureties",
+          "body": "In default of any act having special reference to the office of any public accountant, the security given shall be of such amount and kind, real or personal, or both, and with such sureties (regard being had to the nature of the office), as shall be required by any rules made or to be made from time to time, by the authority by which each public accountant is appointed to his office."
+        },
+        {
+          "section_no": "3",
+          "section_title": "“Public accountant” defined",
+          "body": "For the purposes of sections 1 and 2 of this Act, the expression “public accountant” means any person who as Official Assignee or Trustee, or as sarbarahkar, is entrusted with the receipt, custody or control of any moneys or securities for money, or the management of any lands belonging to any other person or persons; and for the purposes of sections 4 and 5 of this Act the expression shall also include any person who, by reason of any office held by him in the service of Pakistan is entrusted with the receipt, custody or control of any moneys or securities for money, or the management of any lands belonging to the Government."
+        },
+        {
+          "section_no": "4",
+          "section_title": "Prosecution of accountants and sureties",
+          "body": "The person or persons at the head of the office to which any public accountant belongs may proceed against any such public accountant and his sureties for any loss or defalcation in his accounts, as if the amount thereof were an arrear of land-revenue due to Government."
+        },
+        {
+          "section_no": "5",
+          "section_title": "Enactments applied to proceedings by and against accountants",
+          "body": "All Regulations and Acts now or hereafter to be in force for the recovery of arrears of land-revenue due to Government, and for recovery of damages by any person wrongfully proceeded against for any such arrear shall apply, with such changes in the forms of procedure as are necessary to make them applicable to the case, to the proceedings against and by such public accountant."
+        },
+        {
+          "section_no": "6",
+          "section_title": "[Validation of former rules.]",
+          "body": "Rep. by the Repealing Act, 1870 (XIV of 1870)."
+        }
+      ]
+    }
+  ],
+  "source_file": "administratoraf7be9587f13339baf709c9cf6ed9136.txt"
+}

@@ -1,0 +1,52 @@
+{
+  "law_name": "The Law Reports Act",
+  "year": 1875,
+  "chapters": [
+    {
+      "chapter_title": "The Law Reports Act, 1875",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title. Local extent. Commencement.",
+          "body": "This Act may be called the Law Reports Act, 1875. It extends to the whole of Pakistan and shall come into force on such day as the Federal Government notifies in this behalf in the official Gazette."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Repealed.",
+          "body": "Rep. by the Repealing Act, 1876 (XII of 1876)."
+        },
+        {
+          "section_no": "3",
+          "section_title": "Authority given only to authorized reports.",
+          "body": "No Court shall be bound to hear cited, or shall receive or treat as an authority binding on it, the report of any case decided on or after the said day by any High Court, other than a report published under the authority of a Provincial Government."
+        },
+        {
+          "section_no": "4",
+          "section_title": "Authority of judicial decisions.",
+          "body": "Nothing herein contained shall be construed to give to any judicial decision any further or other authority than it would have had if this Act had not been passed."
+        },
+        {
+          "section_no": "5",
+          "section_title": "Certification by the courts, etc.",
+          "body": "A court or tribunal deciding a matter shall at the end of the judgment or order, as the case may be, certify in the form specified in the Schedule that it is based upon or enunciates a principle of law or decides a question of law which is of first impression or distinguishes, over-rules, reverses or explains a previous decision."
+        },
+        {
+          "section_no": "6",
+          "section_title": "Restriction on the publication of judgements and orders.",
+          "body": "No judgement or order of a court tribunal shall be published or printed in a Law Report by any publisher, printer or any other person, unless it is approved for reporting by a court or tribunal or is certified under section 5."
+        },
+        {
+          "section_no": "7",
+          "section_title": "Penalty.",
+          "body": "(1) Whoever contravenes the provisions of section 6 shall be punished with fine which may extend to one lac rupees or in default of payment of fine with simple imprisonment for a term which may extend to six months. (2) All copies of a publication in respect of which a person is convicted under sub-section (1) shall stand forfeited to the Provincial Government."
+        },
+        {
+          "section_no": "8",
+          "section_title": "Jurisdiction to try offences.",
+          "body": "No court shall take cognizance of an offence punishable under this Act except upon a complaint in writing made by the Presiding Officer of the court or tribunal by which the judgement or order in respect of which the offence was committed was given or made, or by an officer generally or specially empowered by him in this behalf or by any office holder of a registered Bar Association or a Bar council and no court other than a court of session shall try any such offence."
+        }
+      ]
+    }
+  ],
+  "source_file": "administrator6a99292b3c035d174ec9a048e24c56d3.txt"
+}

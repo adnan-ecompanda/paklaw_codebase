@@ -1,0 +1,57 @@
+{
+  "law_name": "THE REVENUE RECOVERY ACT",
+  "year": 1890,
+  "chapters": [
+    {
+      "chapter_title": "Contents",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Title and extent",
+          "body": "(1) This Act may be called the Revenue Recovery Act, 1890. (2) It extends to the whole of Pakistan."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Definitions",
+          "body": "In this Act, unless there is something repugnant in the subject or context, (2) 'Collector' means the chief officer in charge of the land-revenue administration of a district: and (3) 'defaulter' means a person from whom an arrear of land-revenue, or a sum recoverable as an arrear of land-revenue, is due, and includes a person who is responsible as surety for the payment of any such arrear or sum."
+        },
+        {
+          "section_no": "3",
+          "section_title": "Recovery of public demands by enforcement of process in other districts than those in which they become payable",
+          "body": "(1) Where an arrear of land-revenue, or a sum recoverable as an arrear of land-revenue, is payable to a Collector by a defaulter being or having property in a district other than that in which the arrear accrued or the sum is payable, the Collector may send to the collector of that other district a certificate in the form as nearly as may be of the schedule, stating (a) the name of the defaulter and such other particulars as may be necessary for his identification, and (b) the amount payable by him and the account on which it is due."
+        },
+        {
+          "section_no": "4",
+          "section_title": "Remedy available to person denying liability to pay amount recovered under last foregoing section",
+          "body": "(1) When proceedings are taken against a person under the last foregoing section for the recovery of an amount stated in a certificate, that person may, if he denies his liability to pay the amount or any part thereof and pays the same under protest made in writing at the time of payment and signed by him or his agent, institute a suit for the repayment of the amount or the part thereof so paid."
+        },
+        {
+          "section_no": "5",
+          "section_title": "Recovery by Collectors of sums recoverable as arrears of revenue by other public officers or by local authorities",
+          "body": "Where any sum is recoverable as an arrear of land-revenue by any public officer other than a Collector or by any local authority, the Collector of the district in which the office of that officer or authority is situate shall, on the request of the officer or authority, proceed to recover the sum as if it were an arrear of land-revenue which has accrued in his own district."
+        },
+        {
+          "section_no": "6",
+          "section_title": "Property liable to sale under this Act",
+          "body": "(1) When the Collector of a district receives a certificate under this Act, he may issue a proclamation prohibiting the transfer or charging of any immoveable property belonging to the defaulter in the district."
+        },
+        {
+          "section_no": "7",
+          "section_title": "Saving of local laws relating to revenue",
+          "body": "Nothing in the foregoing sections shall be construed to impair any security provided by, or affect the provisions of, any other enactment for the time being in force for the recovery of land-revenue or of sums recoverable as arrears of land-revenue."
+        },
+        {
+          "section_no": "8",
+          "section_title": "Recovery in Pakistan of certain public demands arising beyond Pakistan",
+          "body": "When this Act has been applied to any local area which is under the administration of the Federal Government but which is not part of Pakistan, an arrear of land-revenue accruing in that local area, or a sum recoverable as an arrear of land-revenue and payable to a Collector or other public officer or to a local authority in that local area, may be recovered under this Act in Pakistan."
+        },
+        {
+          "section_no": "10",
+          "section_title": "Duty of Collectors to remit moneys collected in certain cases",
+          "body": "Where a Collector receives a certificate under this Act from a Collector in the other Province or a Collector in India, he shall remit any sum recovered by him by virtue of that certificate to that Collector, after deducting his expenses in connection with the matter."
+        }
+      ]
+    }
+  ],
+  "source_file": "administratord5b4fb41a79f41fd7f85175910ad4510.txt"
+}

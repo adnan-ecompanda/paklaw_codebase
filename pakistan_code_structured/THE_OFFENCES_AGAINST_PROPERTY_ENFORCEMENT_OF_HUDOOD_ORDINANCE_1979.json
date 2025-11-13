@@ -1,0 +1,62 @@
+{
+  "law_name": "THE OFFENCES AGAINST PROPERTY (ENFORCEMENT OF HUDOOD) ORDINANCE",
+  "year": 1979,
+  "chapters": [
+    {
+      "chapter_title": "Preliminary",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title, extent and commencement",
+          "body": "(1) This Ordinance may be called the Offences against Property (Enforcement of Hudood) Ordinance, 1979. (2) It extends to the whole of Pakistan. (3) It shall come into force on the twelfth day of Rabi-ul-Awwal, 1399 Hijri, that is, the tenth day of February, 1979."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Definitions",
+          "body": "In this Ordinance, unless there is anything repugnant in the subject or context, (a) “adult” means a person who has attained the age of eighteen years or puberty: (b) “authorised medical officer” means a medical officer, howsoever designated, authorised by Government; (c) “Hadd” means punishment ordained by the Holy Quran or Sunnah; (d) “Hirz” means an arrangement made for the custody of property; (e) “Imprisonment for life” means imprisonment till death; (f) “nisab” means the ‘nisab’ as laid down in section 6; (g) “tazir” means any punishment other than hadd."
+        },
+        {
+          "section_no": "3",
+          "section_title": "Ordinance to override other laws",
+          "body": "The provisions of this Ordinance shall have effect notwithstanding anything contained in any other for the time being in force."
+        }
+      ]
+    },
+    {
+      "chapter_title": "Theft",
+      "sections": [
+        {
+          "section_no": "4",
+          "section_title": "Two kinds of theft",
+          "body": "Theft may be either theft liable to hadd or theft liable to tazir."
+        },
+        {
+          "section_no": "6",
+          "section_title": "Nisab",
+          "body": "The nisab for theft liable to hadd is four decimal four five seven (4.457) grams of gold, or other property of equivalent value, at the time of theft."
+        },
+        {
+          "section_no": "7",
+          "section_title": "Proof of theft liable to hadd",
+          "body": "The proof of theft liable to hadd shall be in one of the following forms namely: (a) the accused pleads guilty of the commission of theft liable to hadd; and (b) at least two Muslim adult male witnesses, other than the victim of the theft, about whom the Court is satisfied, having regard to the requirements of tazkiyah-al-shuhood, that they are truthful persons and abstain from major sins (kabair), give evidence as eye-witnesses of the occurrence."
+        },
+        {
+          "section_no": "9",
+          "section_title": "Punishment of theft liable to hadd",
+          "body": "(1) Whoever commits theft liable to hadd for the first time shall be punished with amputation of his right hand from the joint of the wrist. (2) Whoever commits theft liable to hadd for the second time shall be punished with amputation of his left foot up to the ankle. (3) Whoever commits theft liable to hadd for the third time, or any time subsequent thereto, shall be punished with imprisonment for life."
+        },
+        {
+          "section_no": "10",
+          "section_title": "Cases in which Hadd shall not be imposed",
+          "body": "Hadd shall not be imposed in the following cases, namely: (a) when the offender and victim of the theft are related to each other as spouses, ascendants, descendants, brothers or sisters; (b) when a guest has committed theft from the house of his host; (c) when a servant or employee has committed theft from the hirz of his master or employer to which he is allowed access."
+        },
+        {
+          "section_no": "11",
+          "section_title": "Case in which Hadd shall not be enforced",
+          "body": "(1) Hadd shall not be enforced in the following cases, namely: (a) when theft is proved only by the confession of the convict, but he retracts his confession before the execution of hadd; (b) when theft is proved by testimony, but before the execution of hadd, any witness resiles from his testimony."
+        }
+      ]
+    }
+  ],
+  "source_file": "administratorbb47d2cde643f77bbcc756ecf7570e7c.txt"
+}

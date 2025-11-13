@@ -1,0 +1,122 @@
+{
+  "law_name": "THE PROVINCIAL INSOLVENCY ACT",
+  "year": 1920,
+  "chapters": [
+    {
+      "chapter_title": "Contents",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title and extent",
+          "body": "This Act may be called the Provincial Insolvency Act, 1920. It extends to the whole of Pakistan except the Karachi Division."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Definitions",
+          "body": "In this Act, unless there is anything repugnant in the subject or context, 'creditor' includes a decree-holder, 'debt' includes a judgment-debt, and 'debtor' includes a judgment-debtor."
+        }
+      ]
+    },
+    {
+      "chapter_title": "PART I CONSTITUTION AND POWERS OF COURT",
+      "sections": [
+        {
+          "section_no": "3",
+          "section_title": "Insolvency Jurisdiction",
+          "body": "The District Courts shall be the Courts having jurisdiction under this Act."
+        },
+        {
+          "section_no": "4",
+          "section_title": "Power of Court to decide all questions arising in insolvency",
+          "body": "The Court shall have full power to decide all questions whether of title or priority, or of any nature whatsoever, which may arise in any case of insolvency."
+        },
+        {
+          "section_no": "5",
+          "section_title": "General powers of Courts",
+          "body": "The Court, in regard to proceedings under this Act, shall have the same powers and shall follow the same procedure as it has in the exercise of original civil jurisdiction."
+        }
+      ]
+    },
+    {
+      "chapter_title": "PART II PROCEEDINGS FROM ACT OF INSOLVENCY TO DISCHARGE",
+      "sections": [
+        {
+          "section_no": "6",
+          "section_title": "Acts of Insolvency",
+          "body": "A debtor commits an act of insolvency in each of the following cases: If he makes a transfer of all or substantially all his property to a third person for the benefit of his creditors generally."
+        },
+        {
+          "section_no": "7",
+          "section_title": "Petition",
+          "body": "A debtor may file a petition to be adjudged an insolvent under the provisions of this Act."
+        },
+        {
+          "section_no": "8",
+          "section_title": "Petition and adjudication",
+          "body": "The procedure for filing a petition and the subsequent adjudication process is outlined in this section."
+        }
+      ]
+    },
+    {
+      "chapter_title": "PART III ADMINISTRATION OF PROPERTY",
+      "sections": [
+        {
+          "section_no": "45",
+          "section_title": "Method of proof of debts",
+          "body": "Debt payable at a future time shall be proved in accordance with the provisions of this Act."
+        },
+        {
+          "section_no": "46",
+          "section_title": "Mutual dealings and set-off",
+          "body": "Provisions regarding mutual dealings and set-off are specified in this section."
+        }
+      ]
+    },
+    {
+      "chapter_title": "PART IV PENALTIES",
+      "sections": [
+        {
+          "section_no": "69",
+          "section_title": "Offences by debtors",
+          "body": "This section outlines the offences that can be committed by debtors under this Act."
+        }
+      ]
+    },
+    {
+      "chapter_title": "PART V SUMMARY ADMINISTRATION",
+      "sections": [
+        {
+          "section_no": "74",
+          "section_title": "Summary administration",
+          "body": "Provisions for summary administration of insolvency cases are detailed in this section."
+        }
+      ]
+    },
+    {
+      "chapter_title": "PART VI APPEALS",
+      "sections": [
+        {
+          "section_no": "75",
+          "section_title": "Appeals",
+          "body": "This section provides the framework for appeals under this Act."
+        }
+      ]
+    },
+    {
+      "chapter_title": "PART VII MISCELLANEOUS",
+      "sections": [
+        {
+          "section_no": "76",
+          "section_title": "Costs",
+          "body": "Provisions regarding costs incurred in proceedings under this Act."
+        },
+        {
+          "section_no": "77",
+          "section_title": "Courts to be auxiliary to each other",
+          "body": "This section states that courts shall assist each other in the administration of this Act."
+        }
+      ]
+    }
+  ],
+  "source_file": "administratorfc3aa04cce2bdc77ca20fd7620c6e3e9.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "law_name": "THE LAND REFORMS REGULATION (VALIDATION OF ORDERS) ORDINANCE",
+  "year": 1978,
+  "chapters": [
+    {
+      "chapter_title": "Contents",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title, extent and commencement",
+          "body": "(1) This Ordinance may be called the Land Reforms Regulation (Validation of Orders) Ordinance, 1978. (2) It extends to the whole of Pakistan. (3) It shall come into force at once."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Validation",
+          "body": "Notwithstanding any order or decision of any court, any order passed by the Chairman or by a Member of the Federal Land Commission at any time before the commencement of this Ordinance and purporting to be in exercise of the authority conferred on the Chairman and Members of the Commission by an order of the Federal Government under paragraph 29 of the Land Reforms Regulation 1972, shall be deemed to have been validly passed and shall have, and shall be deemed always to have had, effect accordingly."
+        }
+      ]
+    }
+  ],
+  "source_file": "administratorcfe16f59145fd29f2baae7031fb7385c.txt"
+}

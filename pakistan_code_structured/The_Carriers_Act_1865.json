@@ -1,0 +1,82 @@
+{
+  "law_name": "The Carriers Act",
+  "year": 1865,
+  "chapters": [
+    {
+      "chapter_title": "Preamble",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title",
+          "body": "This Act may be cited as the Carriers Act, 1865."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Interpretation clause",
+          "body": "In this Act, unless there be something repugnant in the subject or context 'Common carrier' denotes a person, other than the Government, engaged in the business of transporting for hire property from place to place, by land or inland navigation, for all persons indiscriminately."
+        }
+      ]
+    },
+    {
+      "chapter_title": "Liability of Carriers",
+      "sections": [
+        {
+          "section_no": "3",
+          "section_title": "Carriers not to be liable for loss of certain goods above one hundred rupees in value, unless delivered as such",
+          "body": "No common carrier shall be liable for the loss of or damage to property delivered to him to be carried exceeding in value one hundred rupees and of the description contained in the Schedule to this Act, unless the person delivering such property to be carried, or some person duly authorized in that behalf, shall have expressly declared to such carrier or his agent the value and description thereof."
+        },
+        {
+          "section_no": "4",
+          "section_title": "For carrying such property payment may be required at rates fixed by carrier",
+          "body": "Every such carrier may require payment for the risk undertaken in carrying property exceeding in value one hundred rupees and of the description aforesaid, at such rate of charge as he may fix."
+        },
+        {
+          "section_no": "5",
+          "section_title": "The person entitled to recover in respect of property lost or damaged may also recover money paid for its carriage",
+          "body": "In case of the loss or damage to property exceeding in value one hundred rupees and of the description aforesaid, delivered to such carrier to be carried, when the value and description thereof shall have been declared and payment shall have been required in manner provided for by this Act, the person entitled to recover in respect of such loss or damage shall also be entitled to recover any money actually paid to such carrier in consideration of such risk as aforesaid."
+        },
+        {
+          "section_no": "6",
+          "section_title": "In respect of what property liability of carrier not limited or affected by public notice",
+          "body": "Carriers, with certain exceptions, may limit liability by special contract. The liability of any common carrier for the loss of or damage to any property delivered to him to be carried, not being of the description contained in the Schedule to this Act, shall not be deemed to be limited or affected by any public notice; but any such carrier, not being the owner of a rail road or tram road constructed under the provisions of the Land Acquisition Act, 1894, may, by special contract, signed by the owner of such property so delivered as last aforesaid or by some person duly authorized in that behalf by such owner, limit his liability in respect of the same."
+        },
+        {
+          "section_no": "7",
+          "section_title": "Liability of owner of railroad or tramroad constructed under Act XXII of 1863, not limited by special contract",
+          "body": "The liability of the owner of any railroad or tramroad constructed under the provisions of the Land Acquisition Act, 1894 for the loss of or damage to any property delivered to him to be carried, not being of the description contained in the Schedule to this Act, shall not be deemed to be limited or affected by any special contract; but the owner of such railroad or tramroad shall be liable for the loss of or damage to property delivered to him to be carried only when such loss or damage shall have been caused by negligence or a criminal act on his part or on that of his agents or servants."
+        },
+        {
+          "section_no": "8",
+          "section_title": "Common carrier liable for loss or damages caused by neglect or fraud of himself or his agent",
+          "body": "Notwithstanding anything hereinbefore contained, every common carrier shall be liable to the owner for loss of or damage to any property delivered to such carrier to be carried where such loss or damage shall have arisen from the criminal act of the carrier or any of his agents or servants."
+        },
+        {
+          "section_no": "9",
+          "section_title": "Plaintiffs, in suits for loss, damage, or non-delivery, not required to prove negligence or criminal act",
+          "body": "In any suit brought against a common carrier for the loss, damage or non-delivery of goods entrusted to him for carriage, it shall not be necessary for the plaintiff to prove that such loss, damage or non-delivery was owing to the negligence or criminal act of the carrier, his servants or agents."
+        },
+        {
+          "section_no": "10",
+          "section_title": "Notice of loss or injury to be given within six months",
+          "body": "No suit shall be instituted against a common carrier for the loss of, or injury to, goods entrusted to him for carriage, unless notice in writing of the loss or injury has been given to him before the institution of the suit and within six months of the time when the loss or injury first came to the knowledge of the plaintiff."
+        },
+        {
+          "section_no": "11",
+          "section_title": "Power to Provincial Government to add to the Schedule",
+          "body": "The Federal Government or the Provincial Government may, by notification in the official Gazette, add to the list of articles contained in the Schedule to this Act, and the Schedule shall, on the issue of any such notification, be deemed to have been amended accordingly."
+        }
+      ]
+    },
+    {
+      "chapter_title": "Schedule",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Schedule of goods",
+          "body": "Gold and Silver coin. Gold and silver in a manufactured or unmanufactured state. Precious stones and pearls. Jewellery. Time pieces of any description. Trinkets. Bills and hundis. Currency notes of the Federal Government or notes of any Banks, or securities for payment of money, English or Foreign. Stamps and stamped paper. Maps, prints, and works of art. Writings. Title-deeds. Gold or silver plate or plated articles. Glass. China. Silk in a manufactured or unmanufactured state, and whether wrought up or not wrought up with other materials. Shawls and lace. Cloths and tissues embroidered with the precious metals or of which such metals form part. Articles of ivory, ebony or sandal wood. Art pottery and all articles made of marble. Furs. Government securities. Opium. Coral. Musk, Itr, Sandal wood oil, and other essential oils used in the preparation of itr or other perfumes. Musical and scientific instruments. Feathers. Narcotic preparations of hemp. Crude India-rubber. Jade, Jade-stone and amber. Gooroochand or Gooroochandan. Cinematograph films and apparatus. Zahir Mohra Khatai."
+        }
+      ]
+    }
+  ],
+  "source_file": "administrator546c876d6ae7067a758f9cd51fd67b0f.txt"
+}

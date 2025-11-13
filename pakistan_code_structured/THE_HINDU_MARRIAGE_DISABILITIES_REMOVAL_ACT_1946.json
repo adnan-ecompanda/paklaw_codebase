@@ -1,0 +1,22 @@
+{
+  "law_name": "THE HINDU MARRIAGE DISABILITIES REMOVAL ACT",
+  "year": 1946,
+  "chapters": [
+    {
+      "chapter_title": "Chapter 1",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title and extent",
+          "body": "(1) This Act may be called the Hindu Marriage Disabilities Removal Act, 1946. (2) It extends to the whole of Pakistan."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Marriage between persons of same gotra or pravara or of different sub-divisions of the same caste",
+          "body": "Notwithstanding any text, rule or interpretation of the Hindu Law or any custom or usage, a marriage between Hindus, which is otherwise valid, shall not be invalid by reason only of the fact that the parties thereto- (a) belong to the same gotra or pravara, or (b) belong to different sub-divisions of the same caste."
+        }
+      ]
+    }
+  ],
+  "source_file": "administratorc0d66c29b7f188230277e3d0855796eb.txt"
+}

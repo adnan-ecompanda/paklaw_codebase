@@ -1,0 +1,772 @@
+{
+  "law_name": "THE TRADE MARKS ORDINANCE",
+  "year": 2001,
+  "chapters": [
+    {
+      "chapter_title": "PRELIMINARY",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title, extent and commencement",
+          "body": "(1) This Ordinance may be called the Trade Marks Ordinance, 2001. (2) It extends to the whole of Pakistan. (3) This section and section 132 shall come into force at once and the remaining provisions of the Ordinance shall come into force on such date as the federal Government may by notification in the official Gazette, appoint in this behalf."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Definitions",
+          "body": "In this Ordinance, unless there is anything repugnant in the subject or context, (i) “Act” means the Intellectual Property Organization of Pakistan Act, 2012 (Act No. XXII of 2012); (ia) “administrative division” means the division to which business of this Ordinance stands allocated; (ib) “advertising” means the making of representation in any form in connection with a trade, business or profession in order to promote the supply of goods or services; (ii) “assignment” in relation to a trade mark, means an assignment in writing by act of the parties concerned; (iii) “authorized user” means a person authorised to use a trade mark in relation to goods or services under the control of the owner of the trade mark and includes a licensee; (iv) “certification mark” means a certification mark as defined in sub-section (1) of section 83; (v) “collective mark” means a collective mark as defined in sub-section (1) of section 82; (vi) “comparative advertisement” means an advertisement which explicitly or by implication identifies a competitor or goods or services offered by a competitor; (vii) “Convention application” means an application as defined in sub-section (1) of section 25; (viii) “Convention country” means a Convention country as defined in clause (b) of section 85; (ix) “Counterfeit trade mark goods” means any goods including packaging bearing without authorization a trade mark which is identical or deceptively similar to the trade mark validly registered in respect of such goods or which cannot be distinguished in its essential aspects from such a trade mark and infringes rights of the owner of the trade mark under this Ordinance; (x) “date of filing” means (a) in relation to an application for the registration of a trade mark, the day on which the application is filed pursuant to sub-section (1) of section 23; or (b) in relation to a divisional application for the registration of trade mark, the day on which the initial application within the meaning of sub-section (1) of section 32 is filed; or (c) in relation to an application to provide temporary protection during exhibition, the day referred to in sub-section (1) of section 26; or (d) in relation to a Convention application, the day referred to in clause (a) of sub-section (2) of section 25; (xi) “date of registration”, in relation to the registration of a trade mark in respect of particular goods or services, means the day from which the registration of the trade mark in respect of those goods or services is taken to have had effect under sub-section (3) of section 33; (xii) “deceptively similar” ..."
+        }
+      ]
+    },
+    {
+      "chapter_title": "REGISTRAR, TRADE MARKS REGISTRY AND REGISTRATION OF TRADE MARKS",
+      "sections": [
+        {
+          "section_no": "7",
+          "section_title": "Appointment of Registrar and other officers",
+          "body": ""
+        },
+        {
+          "section_no": "8",
+          "section_title": "Power of Registrar to review, withdraw or transfer cases",
+          "body": ""
+        },
+        {
+          "section_no": "9",
+          "section_title": "Trade Marks Registry and branches thereof",
+          "body": ""
+        },
+        {
+          "section_no": "10",
+          "section_title": "Register of Trade Marks",
+          "body": ""
+        },
+        {
+          "section_no": "10A",
+          "section_title": "Validity of electronic documents",
+          "body": ""
+        },
+        {
+          "section_no": "11",
+          "section_title": "Evidence of entries in Register and things done by Registrar",
+          "body": ""
+        },
+        {
+          "section_no": "12",
+          "section_title": "Classification of goods and services",
+          "body": ""
+        },
+        {
+          "section_no": "13",
+          "section_title": "Publication of an alphabetical index of classification of goods and services",
+          "body": ""
+        },
+        {
+          "section_no": "14",
+          "section_title": "Absolute grounds for refusal of registration",
+          "body": ""
+        },
+        {
+          "section_no": "15",
+          "section_title": "Limitation as to colour",
+          "body": ""
+        },
+        {
+          "section_no": "16",
+          "section_title": "Use of names of chemical compounds barred",
+          "body": ""
+        },
+        {
+          "section_no": "17",
+          "section_title": "Relative grounds for refusal of registration",
+          "body": ""
+        },
+        {
+          "section_no": "18",
+          "section_title": "Meaning of “earlier trade mark”",
+          "body": ""
+        },
+        {
+          "section_no": "19",
+          "section_title": "Raising of relative grounds in case of honest concurrent use",
+          "body": ""
+        },
+        {
+          "section_no": "20",
+          "section_title": "Registration of parts of trade marks and of trade marks as a series",
+          "body": ""
+        },
+        {
+          "section_no": "21",
+          "section_title": "Registration subject to disclaimer",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "PROCEDURE FOR AND DURATION OF REGISTRATION",
+      "sections": [
+        {
+          "section_no": "22",
+          "section_title": "Application for registration",
+          "body": ""
+        },
+        {
+          "section_no": "23",
+          "section_title": "Date of filing",
+          "body": ""
+        },
+        {
+          "section_no": "24",
+          "section_title": "Co-ownership of trade mark",
+          "body": ""
+        },
+        {
+          "section_no": "25",
+          "section_title": "Meaning of Convention application, and right to priority",
+          "body": ""
+        },
+        {
+          "section_no": "26",
+          "section_title": "Application to provide temporary protection during exhibition",
+          "body": ""
+        },
+        {
+          "section_no": "27",
+          "section_title": "Examination of application",
+          "body": ""
+        },
+        {
+          "section_no": "28",
+          "section_title": "Publication, opposition proceedings and observations",
+          "body": ""
+        },
+        {
+          "section_no": "29",
+          "section_title": "Grounds of opposition",
+          "body": ""
+        },
+        {
+          "section_no": "30",
+          "section_title": "Circumstances in which opposition may proceed in the name of a person other than the person who filed the notice of opposition",
+          "body": ""
+        },
+        {
+          "section_no": "31",
+          "section_title": "Withdrawal of application",
+          "body": ""
+        },
+        {
+          "section_no": "32",
+          "section_title": "Definition of divisional application",
+          "body": ""
+        },
+        {
+          "section_no": "33",
+          "section_title": "Registration",
+          "body": ""
+        },
+        {
+          "section_no": "34",
+          "section_title": "Duration and renewal of registration",
+          "body": ""
+        },
+        {
+          "section_no": "35",
+          "section_title": "Renewal of registration",
+          "body": ""
+        },
+        {
+          "section_no": "36",
+          "section_title": "Effect of removal from Register for failure to pay fee for renewal",
+          "body": ""
+        },
+        {
+          "section_no": "37",
+          "section_title": "Alteration of registered trade mark",
+          "body": ""
+        },
+        {
+          "section_no": "38",
+          "section_title": "Surrender of registered trade mark",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "REGISTRATION AND EFFECT THEREOF",
+      "sections": [
+        {
+          "section_no": "39",
+          "section_title": "Rights conferred by registration",
+          "body": ""
+        },
+        {
+          "section_no": "40",
+          "section_title": "Infringement of registered trade mark",
+          "body": ""
+        },
+        {
+          "section_no": "41",
+          "section_title": "Infringement of trade mark by breach of certain restrictions",
+          "body": ""
+        },
+        {
+          "section_no": "42",
+          "section_title": "When a trade mark is not infringed",
+          "body": ""
+        },
+        {
+          "section_no": "43",
+          "section_title": "Registration to be prima facie evidence of validity",
+          "body": ""
+        },
+        {
+          "section_no": "44",
+          "section_title": "Registration to be conclusive as to validity after five years",
+          "body": ""
+        },
+        {
+          "section_no": "45",
+          "section_title": "Saving for words used as name or description of an article or a substance",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "INFRINGEMENT PROCEEDINGS",
+      "sections": [
+        {
+          "section_no": "46",
+          "section_title": "Action for infringement",
+          "body": ""
+        },
+        {
+          "section_no": "47",
+          "section_title": "Order for erasure of offending mark",
+          "body": ""
+        },
+        {
+          "section_no": "48",
+          "section_title": "Order for delivery up of infringing goods, material or articles",
+          "body": ""
+        },
+        {
+          "section_no": "49",
+          "section_title": "Meaning of “infringing goods, material or articles”",
+          "body": ""
+        },
+        {
+          "section_no": "50",
+          "section_title": "Period after which remedy of delivery be not available",
+          "body": ""
+        },
+        {
+          "section_no": "51",
+          "section_title": "Order as to disposal of infringing goods, material or articles",
+          "body": ""
+        },
+        {
+          "section_no": "52",
+          "section_title": "Remedy for groundless threats of infringement proceedings",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "IMPORTATION OF INFRINGING GOODS, MATERIAL OR ARTICLES",
+      "sections": [
+        {
+          "section_no": "53",
+          "section_title": "Infringing goods, material or articles may be treated as prohibited",
+          "body": ""
+        },
+        {
+          "section_no": "54",
+          "section_title": "Notice for intervention by customs authorities",
+          "body": ""
+        },
+        {
+          "section_no": "55",
+          "section_title": "Furnishing of security or equivalent assurance to customs authority",
+          "body": ""
+        },
+        {
+          "section_no": "56",
+          "section_title": "Collector of Customs may seize goods bearing infringing trade mark",
+          "body": ""
+        },
+        {
+          "section_no": "57",
+          "section_title": "Notice of seizure",
+          "body": ""
+        },
+        {
+          "section_no": "58",
+          "section_title": "Forfeiture of goods",
+          "body": ""
+        },
+        {
+          "section_no": "59",
+          "section_title": "Release of goods",
+          "body": ""
+        },
+        {
+          "section_no": "60",
+          "section_title": "Action for infringement against importation of infringing goods",
+          "body": ""
+        },
+        {
+          "section_no": "61",
+          "section_title": "Action for infringement by licensee in relation to any seized goods",
+          "body": ""
+        },
+        {
+          "section_no": "62",
+          "section_title": "Disposal of forfeited goods",
+          "body": ""
+        },
+        {
+          "section_no": "63",
+          "section_title": "Power of the Collector of Customs to retain control of goods",
+          "body": ""
+        },
+        {
+          "section_no": "64",
+          "section_title": "Insufficient security",
+          "body": ""
+        },
+        {
+          "section_no": "65",
+          "section_title": "The Federal Government not be liable to loss, etc., suffered because of seizure",
+          "body": ""
+        },
+        {
+          "section_no": "66",
+          "section_title": "Power of the Collector of Customs to make regulations",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "UNFAIR COMPETITION AND COMPARATIVE ADVERTISEMENT",
+      "sections": [
+        {
+          "section_no": "67",
+          "section_title": "Definition of unfair competition and provisions relating thereto",
+          "body": ""
+        },
+        {
+          "section_no": "68",
+          "section_title": "Misleading and comparative advertisement",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "ASSIGNMENT AND TRANSMISSION",
+      "sections": [
+        {
+          "section_no": "69",
+          "section_title": "Assignment of registered trade mark",
+          "body": ""
+        },
+        {
+          "section_no": "70",
+          "section_title": "Registration of transactions affecting registered trade mark",
+          "body": ""
+        },
+        {
+          "section_no": "71",
+          "section_title": "Application for registration of trade mark as an object of property",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "USE OF TRADE MARKS AND LICENSEES",
+      "sections": [
+        {
+          "section_no": "72",
+          "section_title": "Proposed use of trade mark by company to be formed",
+          "body": ""
+        },
+        {
+          "section_no": "73",
+          "section_title": "Revocation of registration",
+          "body": ""
+        },
+        {
+          "section_no": "74",
+          "section_title": "Use of trade mark by a person other than the proprietor thereof",
+          "body": ""
+        },
+        {
+          "section_no": "75",
+          "section_title": "Licensing of registered trade mark",
+          "body": ""
+        },
+        {
+          "section_no": "76",
+          "section_title": "Exclusive license defined",
+          "body": ""
+        },
+        {
+          "section_no": "77",
+          "section_title": "General provisions as to the rights of licensees in case of infringement",
+          "body": ""
+        },
+        {
+          "section_no": "78",
+          "section_title": "Exclusive licensee having rights and remedies of assignee",
+          "body": ""
+        },
+        {
+          "section_no": "79",
+          "section_title": "Surrender of registered trade mark",
+          "body": ""
+        },
+        {
+          "section_no": "80",
+          "section_title": "Grounds for invalidity of registration",
+          "body": ""
+        },
+        {
+          "section_no": "81",
+          "section_title": "Effect of acquiescence",
+          "body": ""
+        },
+        {
+          "section_no": "82",
+          "section_title": "Collective marks",
+          "body": ""
+        },
+        {
+          "section_no": "83",
+          "section_title": "Certification marks",
+          "body": ""
+        },
+        {
+          "section_no": "84",
+          "section_title": "Domain names",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "THE PARIS CONVENTION",
+      "sections": [
+        {
+          "section_no": "85",
+          "section_title": "Meaning of “Paris Convention” and “Convention country”",
+          "body": ""
+        },
+        {
+          "section_no": "86",
+          "section_title": "Protection of well known trade mark",
+          "body": ""
+        },
+        {
+          "section_no": "87",
+          "section_title": "National emblems of Convention countries",
+          "body": ""
+        },
+        {
+          "section_no": "88",
+          "section_title": "Emblems of certain international organizations",
+          "body": ""
+        },
+        {
+          "section_no": "89",
+          "section_title": "Notification under Article 6ter of the Paris Convention",
+          "body": ""
+        },
+        {
+          "section_no": "90",
+          "section_title": "Acts of agent or representative",
+          "body": ""
+        },
+        {
+          "section_no": "91",
+          "section_title": "Nature of goods or services to which a mark is to be applied",
+          "body": ""
+        },
+        {
+          "section_no": "92",
+          "section_title": "Trade name",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "INTERNATIONAL REGISTRATION OF TRADE MARKS",
+      "sections": [
+        {
+          "section_no": "92A",
+          "section_title": "International registration under Madrid Protocol",
+          "body": ""
+        },
+        {
+          "section_no": "92B",
+          "section_title": "Definitions",
+          "body": ""
+        },
+        {
+          "section_no": "92C",
+          "section_title": "Trade Marks Registry to deal with international applications",
+          "body": ""
+        },
+        {
+          "section_no": "92D",
+          "section_title": "International application originating from Pakistan",
+          "body": ""
+        },
+        {
+          "section_no": "92G",
+          "section_title": "Duration and renewal of international registration",
+          "body": ""
+        },
+        {
+          "section_no": "92H",
+          "section_title": "Transformation",
+          "body": ""
+        },
+        {
+          "section_no": "92I",
+          "section_title": "Extracts from the international register",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "SPECIAL PROVISIONS FOR TEXTILE GOODS",
+      "sections": [
+        {
+          "section_no": "93",
+          "section_title": "Textile goods",
+          "body": ""
+        },
+        {
+          "section_no": "94",
+          "section_title": "Restrictions on registration of textile goods",
+          "body": ""
+        },
+        {
+          "section_no": "95",
+          "section_title": "Advisory Committees",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "RECTIFICATION AND CORRECTION OF THE REGISTER",
+      "sections": [
+        {
+          "section_no": "96",
+          "section_title": "Rectification or correction of Register",
+          "body": ""
+        },
+        {
+          "section_no": "97",
+          "section_title": "Adoption of entries to new classification",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "OFFENCES, PENALTIES AND PROCEDURE",
+      "sections": [
+        {
+          "section_no": "98",
+          "section_title": "Meaning of applying a trade description",
+          "body": ""
+        },
+        {
+          "section_no": "99",
+          "section_title": "Penalty for applying false trade description, etc.",
+          "body": ""
+        },
+        {
+          "section_no": "100",
+          "section_title": "Enhanced penalty on second or subsequent convictions",
+          "body": ""
+        },
+        {
+          "section_no": "101",
+          "section_title": "Penalty for falsification of entries in Register",
+          "body": ""
+        },
+        {
+          "section_no": "102",
+          "section_title": "Penalty for falsely representing a trade mark as registered",
+          "body": ""
+        },
+        {
+          "section_no": "103",
+          "section_title": "Restraint of use of Government Arms and State emblems",
+          "body": ""
+        },
+        {
+          "section_no": "104",
+          "section_title": "Offences by companies",
+          "body": ""
+        },
+        {
+          "section_no": "105",
+          "section_title": "Powers to award compensation for offenses",
+          "body": ""
+        },
+        {
+          "section_no": "106",
+          "section_title": "Punishment of abetment in Pakistan of acts done out of Pakistan",
+          "body": ""
+        },
+        {
+          "section_no": "107",
+          "section_title": "Penalty for improperly describing a place of business as connected with the Trade Marks Registry",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "MISCELLANEOUS AND GENERAL PROVISIONS",
+      "sections": [
+        {
+          "section_no": "108",
+          "section_title": "Power of Registrar to require use of forms",
+          "body": ""
+        },
+        {
+          "section_no": "109",
+          "section_title": "Information about applications and registered trade marks",
+          "body": ""
+        },
+        {
+          "section_no": "110",
+          "section_title": "Costs, security for costs and fine",
+          "body": ""
+        },
+        {
+          "section_no": "111",
+          "section_title": "Procedure before the Registrar",
+          "body": ""
+        },
+        {
+          "section_no": "112",
+          "section_title": "Certificate of validity of contested registration",
+          "body": ""
+        },
+        {
+          "section_no": "113",
+          "section_title": "Registrar's appearance in proceedings involving the Register",
+          "body": ""
+        },
+        {
+          "section_no": "114",
+          "section_title": "Appeal against the decision of the Registrar",
+          "body": ""
+        },
+        {
+          "section_no": "115",
+          "section_title": "Procedure before the Federal Government",
+          "body": ""
+        },
+        {
+          "section_no": "116",
+          "section_title": "Procedure in certain cases of option to apply to the High Court, a District Court or the Registrar",
+          "body": ""
+        },
+        {
+          "section_no": "117",
+          "section_title": "Suits for infringement to be instituted before IP Tribunal",
+          "body": ""
+        },
+        {
+          "section_no": "118",
+          "section_title": "Costs of Registrar in proceedings before the High Court or an IP Tribunal",
+          "body": ""
+        },
+        {
+          "section_no": "119",
+          "section_title": "Burden of proving use of trade mark",
+          "body": ""
+        },
+        {
+          "section_no": "120",
+          "section_title": "Certain persons to be public servants",
+          "body": ""
+        },
+        {
+          "section_no": "121",
+          "section_title": "Documents open to public inspection",
+          "body": ""
+        },
+        {
+          "section_no": "122",
+          "section_title": "Death of a party to any proceedings under this Ordinance",
+          "body": ""
+        },
+        {
+          "section_no": "123",
+          "section_title": "Extension of time",
+          "body": ""
+        },
+        {
+          "section_no": "124",
+          "section_title": "Registrar and other officers not compellable to produce Register, etc.",
+          "body": ""
+        },
+        {
+          "section_no": "125",
+          "section_title": "Power to require goods to show indication of origin",
+          "body": ""
+        },
+        {
+          "section_no": "126",
+          "section_title": "Address for service",
+          "body": ""
+        },
+        {
+          "section_no": "127",
+          "section_title": "Trade mark agents",
+          "body": ""
+        },
+        {
+          "section_no": "128",
+          "section_title": "Fees",
+          "body": ""
+        },
+        {
+          "section_no": "129",
+          "section_title": "The Federal Government and a Provincial Government to be bound",
+          "body": ""
+        },
+        {
+          "section_no": "130",
+          "section_title": "Power to make reciprocal arrangements with any other Government",
+          "body": ""
+        },
+        {
+          "section_no": "131",
+          "section_title": "Power of the High Court to make rules",
+          "body": ""
+        },
+        {
+          "section_no": "132",
+          "section_title": "Power of the Federal Government to make rules",
+          "body": ""
+        },
+        {
+          "section_no": "133",
+          "section_title": "Transitional",
+          "body": ""
+        },
+        {
+          "section_no": "134",
+          "section_title": "Repeal and savings",
+          "body": ""
+        }
+      ]
+    }
+  ],
+  "source_file": "administratora4ef8d40e3d97faef49343d2242e0c3a.txt"
+}

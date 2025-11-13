@@ -1,0 +1,37 @@
+{
+  "law_name": "THE EMPLOYERS’ LIABILITY ACT",
+  "year": 1938,
+  "chapters": [
+    {
+      "chapter_title": "Contents",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title and extent",
+          "body": "(1) This Act may be called the Employers’ Liability Act, 1938. (2) It extends to the whole of Pakistan."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Definitions",
+          "body": "In this Act, unless there is anything repugnant in the subject or context, (a) “workman” means any person who has entered into, or works under a contract of service or apprenticeship with an employer whether by way of manual labour, clerical work or otherwise, and whether the contract is expressed or implied, oral or in writing; and (b) “employer” includes any body of persons whether incorporated or not, any managing agent of an employer, and the legal representatives of a deceased employer, and, where the services of a workman are temporarily lent or let on hire to another person by the person with whom the workman has entered into a contract of service or apprenticeship, means such other person while the workman is working for him."
+        },
+        {
+          "section_no": "3",
+          "section_title": "Defence of common employment barred in certain cases",
+          "body": "Where personal injury is caused to a workman (a) by reason of the omission of the employer to maintain in good and safe condition any way, works, machinery or plant connected with or used in his trade or business, or by reason of any like omission on the part of any person in the service of the employer who has been entrusted by the employer with the duty of seeing that such way, works, machinery or plant are in good and safe condition; or (b) by reason of the negligence of any person in the service of the employer who has any superintendence entrusted to him, whilst in the exercise of such superintendence; or (c) by reason of the negligence of any person in the service of the employer to whose orders or directions the workman at the time of the injury was bound to conform and did conform, where the injury resulted from his having so conformed; or (d) by reason of any act or omission of any person in the service of the employer done or made in obedience to any rule or bye-law of the employer (not being a rule or bye-law which is required by or under any law for the time being in force to be approved by any authority and which has been so approved) or in obedience to particular instructions given by any person to whom the employer has delegated authority in that behalf or in the normal performance of his duties; a suit for damages in respect of the injury instituted by the workman or by any person entitled in case of his death shall not fail by reason only of the fact that the workman was at the time of the injury a workman of, or in the service of, or engaged in the work of, the employer."
+        },
+        {
+          "section_no": "4",
+          "section_title": "Risk not to be deemed to have been assumed without full knowledge",
+          "body": "In any such suit for damages, the workman shall not be deemed to have undertaken any risk attaching to the employment unless the employer proves that the risk was fully explained to and understood by the workman and that the workman voluntarily undertook the same."
+        },
+        {
+          "section_no": "5",
+          "section_title": "Saving",
+          "body": "Nothing in this Act shall affect the validity of any decree or order of a civil Court passed before the commencement of this Act in any such suit for damages."
+        }
+      ]
+    }
+  ],
+  "source_file": "administratorbe81002044f65895757da5cc51a85222.txt"
+}

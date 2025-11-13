@@ -1,0 +1,37 @@
+{
+  "law_name": "THE EPIDEMIC DISEASES ACT",
+  "year": 1897,
+  "chapters": [
+    {
+      "chapter_title": "Epidemic Diseases Act, 1897",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title",
+          "body": "This Act may be called the Epidemic Diseases Act, 1897. It extends to the whole of Pakistan."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Power to take special measures and prescribe regulations as to dangerous epidemic disease",
+          "body": "When at any time the Provincial Government is satisfied that the Province or any part thereof is visited by, or threatened with, an outbreak of any dangerous epidemic disease, the Provincial Government may take, or require or empower any person to take, such measures and, by public notice, prescribe such temporary regulations to be observed by the public or by any person or class of persons as it shall deem necessary to prevent the outbreak of such disease."
+        },
+        {
+          "section_no": "2A",
+          "section_title": "Powers of Federal Government",
+          "body": "When the Federal Government is satisfied that Pakistan or any part thereof is visited by, or threatened with, any outbreak of any dangerous epidemic disease and that the ordinary provisions of the law for the time being in force are insufficient to prevent the outbreak of such disease or the spread thereof, the Federal Government may take measures and prescribe regulations for the inspection of any ship or vessel leaving or arriving at any port in Pakistan and for such detention thereof, or of any person intending to sail therein, or arriving thereby, as may be necessary."
+        },
+        {
+          "section_no": "3",
+          "section_title": "Penalty",
+          "body": "Any person disobeying any regulation or order made under this Act shall be deemed to have committed an offence punishable under section 188 of the Pakistan Penal Code (XLV of 1860)."
+        },
+        {
+          "section_no": "4",
+          "section_title": "Protection to persons acting under Act",
+          "body": "No suit or other legal proceeding shall lie against any person for anything done or in good faith intended to be done under this Act."
+        }
+      ]
+    }
+  ],
+  "source_file": "administrator0a85362fe08703aa3dd56b1d6bc349f1.txt"
+}

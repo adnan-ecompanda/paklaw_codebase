@@ -1,0 +1,22 @@
+{
+  "law_name": "THE STANDARD TIME (INTERPRETATION OF REFERENCES) ORDINANCE",
+  "year": 1943,
+  "chapters": [
+    {
+      "chapter_title": "Standard Time (Interpretation of References)",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title and commencement",
+          "body": "(1) This Ordinance may be called the Standard Time (Interpretation of References) Ordinance, 1943. (2) It shall come into force at once."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Interpretation of references to Standard Time",
+          "body": "While any order of the Federal Government is in force fixing Standard Time by reference to Greenwich Mean Time as being in advance of Greenwich Mean Time by an interval other than five and one-half hours, any reference in any enactment in force in Pakistan to Standard Time shall, notwithstanding that such reference may define Standard Time as being five and one-half hours in advance of Greenwich Mean Time, be interpreted as a reference to Standard Time as fixed for the time being by the order of the Federal Government."
+        }
+      ]
+    }
+  ],
+  "source_file": "administratorca853071d88dc3cfba7fd3b8cd7797c8.txt"
+}

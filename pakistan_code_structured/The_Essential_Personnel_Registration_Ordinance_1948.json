@@ -1,0 +1,47 @@
+{
+  "law_name": "The Essential Personnel (Registration) Ordinance",
+  "year": 1948,
+  "chapters": [
+    {
+      "chapter_title": "Contents",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title, extent and commencement",
+          "body": "(1) This Ordinance may be called the Essential Personnel (Registration) Ordinance, 1948. (2) It extends to the whole of Pakistan. (3) It shall come into force at once."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Definitions",
+          "body": "In this Ordinance, unless there is anything repugnant in the subject or context, (a) 'essential personnel' includes all persons normally exercising or following any of the professions, occupations or employments specified in Schedule 1 and persons trained or qualified to exercise or follow any such profession or employment. (b) 'Employment Exchanges' means an Employment Exchange set up by the Provincial Government. (c) 'Manager of an Employment Exchange' means the Officer-in Charge of an Employment Exchange and so appointed by the Government. (d) 'Schedule' means a Schedule to this Ordinance."
+        },
+        {
+          "section_no": "3",
+          "section_title": "Liability to register at Employment Exchanges",
+          "body": "(1) All essential personnel over the age of 18 and under the age of 60 years, residing in Pakistan, and not being employees of the Federal or any Provincial Government, shall be liable to register themselves at an Employment Exchange. (2) Every person in charge of any institution which trains such essential personnel as aforesaid, or from where such personnel qualify, shall furnish to the Manager of the Employment Exchange concerned such information as he may from time to time require. (3) All employers other than the Federal Government and Provincial Governments shall be liable to get all persons to whom this Ordinance applies and who are employed by them registered at an Employment Exchange, if such persons are not already so registered. (4) Every person registered under this Ordinance shall notify any change of address, acquisition of new skills and change in employment status, at once to the Employment Exchange where he is registered."
+        },
+        {
+          "section_no": "4",
+          "section_title": "Place of Registration",
+          "body": "(1) All persons included within the definition of essential personnel shall register themselves at one of the Employment Exchanges detailed in Schedule III. (2) In cases where it is not feasible for the essential personnel to call in person at the Employment Exchange to get registered they may submit by registered (acknowledgment due) post their particulars for registration on the form prescribed in Schedule II."
+        },
+        {
+          "section_no": "5",
+          "section_title": "Registration Certificate",
+          "body": "(1) The Employment Exchange to which application is made shall issue within 10 days of the receipt of the application a registration certificate in the form prescribed in Schedule IV. (2) When the application is made personally the Employment Exchange to which the application is made shall forthwith give to the applicant a memorandum as given in Schedule V acknowledging receipt of the application and specifying the time and date when the applicant should present himself to receive the registration certificate."
+        },
+        {
+          "section_no": "6",
+          "section_title": "Penalties and Procedure",
+          "body": "(1) Any person who, being within the age limits mentioned in sub-section (1) of section 3, fails without sufficient cause to apply for registration within two months of that profession, occupation or employment being so specified shall be punishable with fine not exceeding five hundred rupees."
+        },
+        {
+          "section_no": "7",
+          "section_title": "Powers to amend Schedules",
+          "body": "The appropriate Government may, by notification in the official Gazette, amend or alter any Schedule."
+        }
+      ]
+    }
+  ],
+  "source_file": "administratorc076dfb6923d77c4a553eabd0b715938.txt"
+}

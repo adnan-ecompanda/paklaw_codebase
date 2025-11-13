@@ -1,0 +1,947 @@
+{
+  "law_name": "THE CODE OF CIVIL PROCEDURE",
+  "year": 1908,
+  "chapters": [
+    {
+      "chapter_title": "PRELIMINARY",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title, commencement and extent",
+          "body": "This Act may be cited as the Code of Civil Procedure, 1908. It shall come into force on the first day of January, 1909. It extends to the whole of Pakistan."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Definitions",
+          "body": "In this Act, unless there is anything repugnant in the subject or context, 'Code' includes rules; 'decree' means the formal expression of an adjudication which, so far as regards the Court expressing it, conclusively determines the rights of the parties which regard to all or any of the matters in controversy in the suit and may be either preliminary or final."
+        },
+        {
+          "section_no": "3",
+          "section_title": "Subordination of Courts",
+          "body": ""
+        },
+        {
+          "section_no": "4",
+          "section_title": "Savings",
+          "body": ""
+        },
+        {
+          "section_no": "5",
+          "section_title": "Application of the Code to the Revenue Courts",
+          "body": ""
+        },
+        {
+          "section_no": "6",
+          "section_title": "Pecuniary Jurisdiction",
+          "body": ""
+        },
+        {
+          "section_no": "7",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "8",
+          "section_title": "[Omitted]",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "PART I SUITS IN GENERAL JURISDICTION OF THE COURTS AND RES JUDICATA",
+      "sections": [
+        {
+          "section_no": "9",
+          "section_title": "Courts to try all civil suits unless barred",
+          "body": ""
+        },
+        {
+          "section_no": "10",
+          "section_title": "Stay of suit",
+          "body": ""
+        },
+        {
+          "section_no": "11",
+          "section_title": "Res Judicata",
+          "body": ""
+        },
+        {
+          "section_no": "12",
+          "section_title": "Bar to further suits",
+          "body": ""
+        },
+        {
+          "section_no": "13",
+          "section_title": "When foreign judgment not conclusive",
+          "body": ""
+        },
+        {
+          "section_no": "14",
+          "section_title": "Presumption as to foreign judgment",
+          "body": ""
+        },
+        {
+          "section_no": "15",
+          "section_title": "Court in which suits to be instituted",
+          "body": ""
+        },
+        {
+          "section_no": "16",
+          "section_title": "Suits to be instituted where subject-matter situate",
+          "body": ""
+        },
+        {
+          "section_no": "17",
+          "section_title": "Suits for immoveable property situate within jurisdiction of different Courts",
+          "body": ""
+        },
+        {
+          "section_no": "18",
+          "section_title": "Place of institution of suit where local limits of jurisdiction, of Courts are uncertain",
+          "body": ""
+        },
+        {
+          "section_no": "19",
+          "section_title": "Suits for compensation for wrongs to person or moveables",
+          "body": ""
+        },
+        {
+          "section_no": "20",
+          "section_title": "Other suits to be instituted where defendants reside or cause of action arises",
+          "body": ""
+        },
+        {
+          "section_no": "21",
+          "section_title": "Objections to jurisdiction",
+          "body": ""
+        },
+        {
+          "section_no": "22",
+          "section_title": "Power to transfer suits which may be instituted in more than one Court",
+          "body": ""
+        },
+        {
+          "section_no": "23",
+          "section_title": "To what Court application lies",
+          "body": ""
+        },
+        {
+          "section_no": "24",
+          "section_title": "General power of transfer and withdrawal",
+          "body": ""
+        },
+        {
+          "section_no": "24A",
+          "section_title": "Appearance of parties on transfer of suit, etc",
+          "body": ""
+        },
+        {
+          "section_no": "25",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "26",
+          "section_title": "Institution of suit",
+          "body": ""
+        },
+        {
+          "section_no": "27",
+          "section_title": "Summons to defendants",
+          "body": ""
+        },
+        {
+          "section_no": "28",
+          "section_title": "Service of summons where defendant resides, in another Province",
+          "body": ""
+        },
+        {
+          "section_no": "29",
+          "section_title": "Service of foreign summonses",
+          "body": ""
+        },
+        {
+          "section_no": "30",
+          "section_title": "Power to order discovery and the like",
+          "body": ""
+        },
+        {
+          "section_no": "31",
+          "section_title": "Summons to witness",
+          "body": ""
+        },
+        {
+          "section_no": "32",
+          "section_title": "Penalty for default",
+          "body": ""
+        },
+        {
+          "section_no": "33",
+          "section_title": "Judgment and decree",
+          "body": ""
+        },
+        {
+          "section_no": "34",
+          "section_title": "Interest",
+          "body": ""
+        },
+        {
+          "section_no": "34A",
+          "section_title": "Interest on public dues",
+          "body": ""
+        },
+        {
+          "section_no": "34B",
+          "section_title": "Interest, etc. on dues of banking company",
+          "body": ""
+        },
+        {
+          "section_no": "35",
+          "section_title": "Costs",
+          "body": ""
+        },
+        {
+          "section_no": "35A",
+          "section_title": "Adjournment cost",
+          "body": ""
+        },
+        {
+          "section_no": "35B",
+          "section_title": "Special costs",
+          "body": ""
+        },
+        {
+          "section_no": "35C",
+          "section_title": "General provisions as to costs",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "PART II EXECUTION GENERAL",
+      "sections": [
+        {
+          "section_no": "36",
+          "section_title": "Application to orders",
+          "body": ""
+        },
+        {
+          "section_no": "37",
+          "section_title": "Definition of Court which passed a decree",
+          "body": ""
+        },
+        {
+          "section_no": "38",
+          "section_title": "Court by which decree may be executed",
+          "body": ""
+        },
+        {
+          "section_no": "39",
+          "section_title": "Transfer of decree",
+          "body": ""
+        },
+        {
+          "section_no": "40",
+          "section_title": "Transfer of decree to Court in another Province",
+          "body": ""
+        },
+        {
+          "section_no": "41",
+          "section_title": "Results of execution proceeding to be certified",
+          "body": ""
+        },
+        {
+          "section_no": "42",
+          "section_title": "Powers of Court in executing transferred decree",
+          "body": ""
+        },
+        {
+          "section_no": "43",
+          "section_title": "Execution of decrees passed by British Courts in places to which this Part does not extend or in foreign territory",
+          "body": ""
+        },
+        {
+          "section_no": "44",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "44A",
+          "section_title": "Execution of decrees passed by Courts in the United Kingdom and other reciprocating territory",
+          "body": ""
+        },
+        {
+          "section_no": "45",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "46",
+          "section_title": "Precepts",
+          "body": ""
+        },
+        {
+          "section_no": "47",
+          "section_title": "Questions to be determined by the Court executing decree",
+          "body": ""
+        },
+        {
+          "section_no": "48",
+          "section_title": "Execution barred in certain cases",
+          "body": ""
+        },
+        {
+          "section_no": "49",
+          "section_title": "Transferee",
+          "body": ""
+        },
+        {
+          "section_no": "50",
+          "section_title": "Legal representative",
+          "body": ""
+        },
+        {
+          "section_no": "51",
+          "section_title": "Powers of Court to enforce execution",
+          "body": ""
+        },
+        {
+          "section_no": "52",
+          "section_title": "Enforcement of decree against legal representative",
+          "body": ""
+        },
+        {
+          "section_no": "53",
+          "section_title": "Liability of ancestral property",
+          "body": ""
+        },
+        {
+          "section_no": "54",
+          "section_title": "Partition of estate of separation of share",
+          "body": ""
+        },
+        {
+          "section_no": "55",
+          "section_title": "Arrest and detention",
+          "body": ""
+        },
+        {
+          "section_no": "56",
+          "section_title": "Prohibition of arrest or detention of women in execution of decree for money",
+          "body": ""
+        },
+        {
+          "section_no": "57",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "58",
+          "section_title": "Release from detention",
+          "body": ""
+        },
+        {
+          "section_no": "59",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "60",
+          "section_title": "Property liable to attachment and sale in execution of decree",
+          "body": ""
+        },
+        {
+          "section_no": "61",
+          "section_title": "Partial exemption of agricultural produce",
+          "body": ""
+        },
+        {
+          "section_no": "62",
+          "section_title": "Seizure of property in dwelling-house",
+          "body": ""
+        },
+        {
+          "section_no": "63",
+          "section_title": "Property attached in execution of decrees of several Courts",
+          "body": ""
+        },
+        {
+          "section_no": "64",
+          "section_title": "Private alienation of property after attachment to be void",
+          "body": ""
+        },
+        {
+          "section_no": "65",
+          "section_title": "Purchaser’s title",
+          "body": ""
+        },
+        {
+          "section_no": "66",
+          "section_title": "Suit against purchaser not maintainable on ground of purchase being on behalf of plaintiff",
+          "body": ""
+        },
+        {
+          "section_no": "67",
+          "section_title": "Power for Provincial Government to make rules as to sales of land in execution of decrees for payment of money",
+          "body": ""
+        },
+        {
+          "section_no": "68",
+          "section_title": "Power to prescribe rules for transferring to Collector execution of certain decrees",
+          "body": ""
+        },
+        {
+          "section_no": "69",
+          "section_title": "Provisions of Third Schedule to apply",
+          "body": ""
+        },
+        {
+          "section_no": "70",
+          "section_title": "Rules of procedure",
+          "body": ""
+        },
+        {
+          "section_no": "71",
+          "section_title": "Collector deemed to be acting judicially",
+          "body": ""
+        },
+        {
+          "section_no": "72",
+          "section_title": "Where Court may authorize Collector to stay public sale of land",
+          "body": ""
+        },
+        {
+          "section_no": "73",
+          "section_title": "Proceeds of execution sale to be rateably distributed among decree-holders",
+          "body": ""
+        },
+        {
+          "section_no": "74",
+          "section_title": "Resistance to execution",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "PART III INCIDENTAL PROCEEDINGS COMMISSIONS",
+      "sections": [
+        {
+          "section_no": "75",
+          "section_title": "Power of Court to issue commissions",
+          "body": ""
+        },
+        {
+          "section_no": "75A",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "76",
+          "section_title": "Commission to another Court",
+          "body": ""
+        },
+        {
+          "section_no": "77",
+          "section_title": "Letter of request",
+          "body": ""
+        },
+        {
+          "section_no": "78",
+          "section_title": "Commissions issued by foreign Courts",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "PART V SUITS IN PARTICULAR CASES SUITS BY OR AGAINST THE GOVERNMENT OR PUBLIC OFFICERS IN THEIR OFFICIAL CAPACITY",
+      "sections": [
+        {
+          "section_no": "79",
+          "section_title": "Suits by or against the Government",
+          "body": ""
+        },
+        {
+          "section_no": "80",
+          "section_title": "Notice",
+          "body": ""
+        },
+        {
+          "section_no": "81",
+          "section_title": "Exemption from arrest and personal appearance",
+          "body": ""
+        },
+        {
+          "section_no": "82",
+          "section_title": "Execution of decree",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "Suits By Aliens and By or Against Foreign Rulers, Ambassadors And Envoys",
+      "sections": [
+        {
+          "section_no": "83",
+          "section_title": "When aliens may sue",
+          "body": ""
+        },
+        {
+          "section_no": "84",
+          "section_title": "When foreign States may sue",
+          "body": ""
+        },
+        {
+          "section_no": "85",
+          "section_title": "Persons specially appointed by Government to prosecute or defend for Ruler of foreign State",
+          "body": ""
+        },
+        {
+          "section_no": "86",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "86A",
+          "section_title": "Suits against diplomatic agents",
+          "body": ""
+        },
+        {
+          "section_no": "87",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "87A",
+          "section_title": "[Omitted]",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "Interpleader",
+      "sections": [
+        {
+          "section_no": "88",
+          "section_title": "Where inter pleader suit may be instituted",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "PART V SPECIAL PROCEEDINGS ARBITRATION",
+      "sections": [
+        {
+          "section_no": "89",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "89A",
+          "section_title": "Alternate dispute resolution",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "Special Case",
+      "sections": [
+        {
+          "section_no": "90",
+          "section_title": "Power to state case for opinion of Court",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "Suits Relating to Public Matters",
+      "sections": [
+        {
+          "section_no": "91",
+          "section_title": "Public nuisances",
+          "body": ""
+        },
+        {
+          "section_no": "92",
+          "section_title": "Public charities",
+          "body": ""
+        },
+        {
+          "section_no": "93",
+          "section_title": "Exercise of powers of Advocate General",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "PART VI Supplemental proceedings",
+      "sections": [
+        {
+          "section_no": "94",
+          "section_title": "Supplemental Proceedings",
+          "body": ""
+        },
+        {
+          "section_no": "95",
+          "section_title": "Compensation, for obtaining arrest, attachment or injunction on insufficient grounds",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "PART VII APPEALS",
+      "sections": [
+        {
+          "section_no": "96",
+          "section_title": "Appeal from original decree",
+          "body": ""
+        },
+        {
+          "section_no": "97",
+          "section_title": "Appeal from final decree where no appeal from preliminary decree",
+          "body": ""
+        },
+        {
+          "section_no": "98",
+          "section_title": "Decision where appeal heard by two or more Judges",
+          "body": ""
+        },
+        {
+          "section_no": "99",
+          "section_title": "No decree to be reversed or modified for error or irregularity not affecting merits or jurisdiction",
+          "body": ""
+        },
+        {
+          "section_no": "100",
+          "section_title": "Second appeal",
+          "body": ""
+        },
+        {
+          "section_no": "101",
+          "section_title": "Second appeal on no other grounds",
+          "body": ""
+        },
+        {
+          "section_no": "102",
+          "section_title": "No second appeal in certain cases",
+          "body": ""
+        },
+        {
+          "section_no": "103",
+          "section_title": "Power of High Court to determine issues of fact",
+          "body": ""
+        },
+        {
+          "section_no": "104",
+          "section_title": "Orders from which appeal lies",
+          "body": ""
+        },
+        {
+          "section_no": "105",
+          "section_title": "Others order",
+          "body": ""
+        },
+        {
+          "section_no": "106",
+          "section_title": "What Courts to hear appeals",
+          "body": ""
+        },
+        {
+          "section_no": "107",
+          "section_title": "Powers of Appellate Court",
+          "body": ""
+        },
+        {
+          "section_no": "108",
+          "section_title": "Procedure in appeals from appellate decrees and orders",
+          "body": ""
+        },
+        {
+          "section_no": "109",
+          "section_title": "When appeals, lie to the Supreme Court",
+          "body": ""
+        },
+        {
+          "section_no": "110",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "111",
+          "section_title": "Bar of certain appeals",
+          "body": ""
+        },
+        {
+          "section_no": "111A",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "112",
+          "section_title": "Savings",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "PART VIII REFERENCE, REVIEW AND REVISION",
+      "sections": [
+        {
+          "section_no": "113",
+          "section_title": "Reference to High Court",
+          "body": ""
+        },
+        {
+          "section_no": "114",
+          "section_title": "Review",
+          "body": ""
+        },
+        {
+          "section_no": "115",
+          "section_title": "Revision",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "PART IX SPECIAL PROVISION RELATING TO HIGH COURTS",
+      "sections": [
+        {
+          "section_no": "116",
+          "section_title": "Part to apply only to certain High Courts",
+          "body": ""
+        },
+        {
+          "section_no": "117",
+          "section_title": "Application of Code to High Courts",
+          "body": ""
+        },
+        {
+          "section_no": "118",
+          "section_title": "Execution of decree before ascertainment of costs",
+          "body": ""
+        },
+        {
+          "section_no": "119",
+          "section_title": "Unauthorised persons not to address Courts",
+          "body": ""
+        },
+        {
+          "section_no": "120",
+          "section_title": "Provisions not applicable to High Court in original civil jurisdiction",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "PART X RULES",
+      "sections": [
+        {
+          "section_no": "121",
+          "section_title": "Effect of rules in First Schedule",
+          "body": ""
+        },
+        {
+          "section_no": "122",
+          "section_title": "Power of certain High Courts to make rules",
+          "body": ""
+        },
+        {
+          "section_no": "123",
+          "section_title": "Constitution of Rules Committees in certain Provinces",
+          "body": ""
+        },
+        {
+          "section_no": "124",
+          "section_title": "Committee to report to High Court",
+          "body": ""
+        },
+        {
+          "section_no": "125",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "126",
+          "section_title": "Rules to be subject to approval",
+          "body": ""
+        },
+        {
+          "section_no": "127",
+          "section_title": "Publication of rules",
+          "body": ""
+        },
+        {
+          "section_no": "128",
+          "section_title": "Matters for which rules may provide",
+          "body": ""
+        },
+        {
+          "section_no": "129",
+          "section_title": "Power of the High Courts to make rules as to their original civil procedure",
+          "body": ""
+        },
+        {
+          "section_no": "130",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "131",
+          "section_title": "Publication of rules",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "PART XI MISCELLANEOUS",
+      "sections": [
+        {
+          "section_no": "132",
+          "section_title": "Exemption of certain women from personal appearance",
+          "body": ""
+        },
+        {
+          "section_no": "133",
+          "section_title": "Exemption of other persons",
+          "body": ""
+        },
+        {
+          "section_no": "134",
+          "section_title": "Arrest other than in execution of decree",
+          "body": ""
+        },
+        {
+          "section_no": "135",
+          "section_title": "Exemption from arrest under civil process",
+          "body": ""
+        },
+        {
+          "section_no": "135A",
+          "section_title": "Exemption of members of Legislative bodies from arrest and detention under civil process",
+          "body": ""
+        },
+        {
+          "section_no": "136",
+          "section_title": "Procedure where person to be arrested or property to be attached is outside district",
+          "body": ""
+        },
+        {
+          "section_no": "137",
+          "section_title": "Language of subordinate Courts",
+          "body": ""
+        },
+        {
+          "section_no": "138",
+          "section_title": "Power of High Court to require evidence to be recorded in English",
+          "body": ""
+        },
+        {
+          "section_no": "139",
+          "section_title": "Oath on affidavit by whom to be administered",
+          "body": ""
+        },
+        {
+          "section_no": "140",
+          "section_title": "Assessors in causes of savages, etc",
+          "body": ""
+        },
+        {
+          "section_no": "141",
+          "section_title": "Miscellaneous proceedings",
+          "body": ""
+        },
+        {
+          "section_no": "142",
+          "section_title": "Orders and notices to be in writing",
+          "body": ""
+        },
+        {
+          "section_no": "143",
+          "section_title": "Postage",
+          "body": ""
+        },
+        {
+          "section_no": "144",
+          "section_title": "Application for restitution",
+          "body": ""
+        },
+        {
+          "section_no": "145",
+          "section_title": "Enforcement of liability of surety",
+          "body": ""
+        },
+        {
+          "section_no": "146",
+          "section_title": "Proceedings by or against representatives",
+          "body": ""
+        },
+        {
+          "section_no": "147",
+          "section_title": "Consent or agreement by person under disability",
+          "body": ""
+        },
+        {
+          "section_no": "148",
+          "section_title": "Enlargement of time",
+          "body": ""
+        },
+        {
+          "section_no": "149",
+          "section_title": "Power to make up deficiency of court-fees",
+          "body": ""
+        },
+        {
+          "section_no": "150",
+          "section_title": "Transfer of business",
+          "body": ""
+        },
+        {
+          "section_no": "151",
+          "section_title": "Saving of inherent powers of Court",
+          "body": ""
+        },
+        {
+          "section_no": "152",
+          "section_title": "Amendment of judgments, decrees or orders",
+          "body": ""
+        },
+        {
+          "section_no": "153",
+          "section_title": "General power to amend",
+          "body": ""
+        },
+        {
+          "section_no": "154",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "155",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "156",
+          "section_title": "[Repealed]",
+          "body": ""
+        },
+        {
+          "section_no": "157",
+          "section_title": "Continuance of orders under repealed enactments",
+          "body": ""
+        },
+        {
+          "section_no": "158",
+          "section_title": "Reference to Code of Civil Procedure and other repealed enactments",
+          "body": ""
+        },
+        {
+          "section_no": "159",
+          "section_title": "Saving of proceedings",
+          "body": ""
+        }
+      ]
+    }
+  ],
+  "source_file": "administrator6598dabbad120033d4d42d717dcf9755.txt"
+}

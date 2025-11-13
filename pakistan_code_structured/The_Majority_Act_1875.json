@@ -1,0 +1,32 @@
+{
+  "law_name": "The Majority Act",
+  "year": 1875,
+  "chapters": [
+    {
+      "chapter_title": "Contents",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title, Local extent, Commencement and operation",
+          "body": "This Act may be called the Majority Act, 1875. It extends to the whole of Pakistan; and it shall come into force and have effect only on the expiration of three months from the passing thereof."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Savings",
+          "body": "Nothing herein contained shall affect the capacity of any person to act in the following matters (namely), marriage, dower, divorce and adoption; the religion or religious rites and usages of any class of citizens of Pakistan."
+        },
+        {
+          "section_no": "3",
+          "section_title": "Age of majority of persons domiciled in Pakistan",
+          "body": "Every minor of whose person or property or both a guardian has been or shall be appointed or declared by any Court of Justice before the minor has attained the age of eighteen years shall be deemed to have attained his majority when he shall have completed his age of twenty-one years and not before. Every other person domiciled in Pakistan shall be deemed to have attained his majority when he shall have completed his age of eighteen years and not before."
+        },
+        {
+          "section_no": "4",
+          "section_title": "Age of majority how computed",
+          "body": "In computing the age of any person, the day on which he was born is to be included as a whole day, and he shall be deemed to have attained majority at the beginning of the twenty-first anniversary of that day if he falls within the first paragraph of section 3, and at the beginning of the eighteenth anniversary of that day if he falls within the second paragraph of section 3."
+        }
+      ]
+    }
+  ],
+  "source_file": "administrator48b083e7f2c44e28f6eb0a73477e8297.txt"
+}

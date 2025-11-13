@@ -1,0 +1,47 @@
+{
+  "law_name": "THE MUNICIPAL TAXATION ACT",
+  "year": 1881,
+  "chapters": [
+    {
+      "chapter_title": "Municipal Taxation Act",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title",
+          "body": "This Act may be called the Municipal Taxation Act, 1881. Local extent. It extends to the whole of Pakistan."
+        },
+        {
+          "section_no": "2",
+          "section_title": "“Municipal Committee” defined",
+          "body": "In this Act “Municipal Committee” includes a Municipal Corporation or a body of Municipal Commissioners constituted by or under the provisions of any enactment for the time being in force."
+        },
+        {
+          "section_no": "3",
+          "section_title": "Power to prohibit Levy of tax",
+          "body": "(1) Notwithstanding anything contained in any enactment for the time being in force, the Federal Government may, by an order in writing, prohibit the levy by a Municipal Committee of any specified tax payable by any person subject to the Pakistan Army Act, 1952 (XXXIX of 1952), the Pakistan Navy Ordinance, 1961 (XXXV of 1961), or the Pakistan Air Force Act, 1953 (VI of 1953), who is compelled by the exigencies of military, naval or airforce duty to reside within the limits of a municipality. (2) The Federal Government may, by a like order, rescind any such prohibition."
+        },
+        {
+          "section_no": "3A",
+          "section_title": "Power of Provincial Government to prohibit levy of taxes on it",
+          "body": "Notwithstanding anything in any enactment for the time being in force, the Provincial Government may by an order in writing prohibit the levy by a Municipal Committee of any specified tax payable by the Provincial Government and may by a like order rescind any such prohibition."
+        },
+        {
+          "section_no": "4",
+          "section_title": "Federal Government to pay taxes referred to in section 3",
+          "body": "So long as any order made under section 3, prohibiting the levy of a tax on any person mentioned in that section remains in force, the Federal Government shall be liable to pay to the Municipal Committee mentioned in the order the amount which otherwise would have been payable to such Committee by such person: Provided that the Federal Government shall not be liable to pay any sum in respect of any horse which such person is bound, by the regulations of the service to which he belongs, to keep."
+        },
+        {
+          "section_no": "5",
+          "section_title": "Payments to be made in lieu of taxes referred to in section 3A",
+          "body": "So long as any order made under section 3A prohibiting the levy of any tax payable by the Provincial Government remains in force, the said Provincial Government shall be liable to pay to the Municipal Committee, in lieu of such tax, such sums (if any) as an officer from time to time appointed in this behalf by the Provincial Government may, having regard to all the circumstances of the case, from time to time determine to be fair and reasonable."
+        },
+        {
+          "section_no": "6",
+          "section_title": "Decision of questions arising under this Act",
+          "body": "If any question arises whether any duty is military, naval or air-force duty within the meaning of this Act, the decision of the Federal Government thereon shall be conclusive. If any question arises whether any person is compelled as aforesaid to reside within the limits of a municipality or is bound as aforesaid to keep any horse, the decision thereon of such authority as the Federal Government may, from time to time, appoint in this behalf shall be conclusive."
+        }
+      ]
+    }
+  ],
+  "source_file": "administrator34bbdadf07d30e64a884a488c00cbe92.txt"
+}

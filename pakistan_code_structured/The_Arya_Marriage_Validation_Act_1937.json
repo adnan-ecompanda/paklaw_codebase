@@ -1,0 +1,22 @@
+{
+  "law_name": "The Arya Marriage Validation Act",
+  "year": 1937,
+  "chapters": [
+    {
+      "chapter_title": "Contents",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title and extent",
+          "body": "(1) This Act may be called the Arya Marriage Validation Act, 1937. (2) It extends to the whole of Pakistan and applies also to all citizens of Pakistan wherever they may be."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Marriage between Arya Samajists not to be invalid",
+          "body": "Notwithstanding any provision of Hindu Law, usage or custom to the contrary no marriage contracted whether before or after the commencement of this Act between two persons being at the time of the marriage Arya Samajists shall be invalid or shall be deemed ever to have been invalid by reason only of the fact that the parties at any time belonged to different castes or different sub-castes of Hindus or that either or both of the parties at any time before the marriage belonged to a religion other than Hinduism."
+        }
+      ]
+    }
+  ],
+  "source_file": "administratora87de87dd0dd5cb80b7fa3c2d4aa7a89.txt"
+}

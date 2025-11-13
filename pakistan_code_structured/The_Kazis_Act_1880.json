@@ -1,0 +1,32 @@
+{
+  "law_name": "The Kazis Act",
+  "year": 1880,
+  "chapters": [
+    {
+      "chapter_title": "Contents",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title Local extent",
+          "body": "This Act may be called the Kazis Act, 1880. The Provincial Government may from time to time, by notification in the official Gazette, extend it to the whole or any part of the territories under its administration."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Power to appoint Kazis for any local area",
+          "body": "Wherever it appears to the Provincial Government that any considerable number of the Muslims resident in any local area desire that one or more Kazis should be appointed for such local area, the Provincial Government may, if it thinks fit, after consulting the principal Muslim residents of such local area, select one or more fit persons and appoint him or them to be Kazis for such local area. If any question arises whether any person has been rightly appointed Kazi under this section, the decision thereof by the Provincial Government shall be conclusive. The Provincial Government may, if it thinks fit, suspend or remove any Kazi appointed under this section who is guilty of any misconduct in the execution of his office, or who is for a continuous period of six months absent from the local area for which he is appointed, or leaves such local area for the purpose of residing elsewhere, or is declared an insolvent, or desires to be discharged from the office, or who refuses or becomes in the opinion of the Provincial Government unfit, or personally incapable, to discharge the duties of the office."
+        },
+        {
+          "section_no": "3",
+          "section_title": "Naib Kazis",
+          "body": "Any Kazi appointed under this Act may appoint one or more persons as his naib or naibs to act in his place in all or any of the matters appertaining to his office throughout the whole or in any portion of the local area for which he is appointed, and may suspend or remove any naib so appointed. When any Kazi is suspended or removed under section 2, his naib or naibs (if any) shall be deemed to be suspended or removed, as the case may be."
+        },
+        {
+          "section_no": "4",
+          "section_title": "Nothing in act to confer judicial or administrative powers; or to render the presence of Kazi necessary; or to prevent any one acting as Kazi",
+          "body": "Nothing herein contained, and no appointment made hereunder, shall be deemed to confer any judicial or administrative powers on any Kazi or Naib Kazi appointed hereunder; or to render the presence of a Kazi or Naib Kazi necessary at the celebration of any marriage or the performance of any rite or ceremony; or to prevent any person discharging any of the functions of a Kazi."
+        }
+      ]
+    }
+  ],
+  "source_file": "administrator845215725b052c222802dd5c9b149092.txt"
+}

@@ -1,0 +1,27 @@
+{
+  "law_name": "THE SHORT TITLES ACT",
+  "year": 1973,
+  "chapters": [
+    {
+      "chapter_title": "Short Title and Commencement",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title and commencement",
+          "body": "(1) This Act may be called the Short Titles Act, 1973. (2) It shall come into force at once."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Citation of laws",
+          "body": "The laws specified in the first two columns of the Schedule to this Act, being laws specified in the First and the Seventh Schedules to the Interim Constitution, shall be cited and referred to by the short titles mentioned against each in the third column of the Schedule to this Act."
+        },
+        {
+          "section_no": "3",
+          "section_title": "Omitted",
+          "body": "1[Omitted]"
+        }
+      ]
+    }
+  ],
+  "source_file": "administratorf3d6af77e272b22613d8e5f54ee51db4.txt"
+}

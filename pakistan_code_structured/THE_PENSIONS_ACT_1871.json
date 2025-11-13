@@ -1,0 +1,102 @@
+{
+  "law_name": "THE PENSIONS ACT",
+  "year": 1871,
+  "chapters": [
+    {
+      "chapter_title": "PRELIMINARY",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title. Extent of Act",
+          "body": "This Act may be called the Pensions Act, 1871. It extends to the whole of Pakistan."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Enactments repealed. Saving of Rules",
+          "body": "Rep. by the Repealing Act, 1938 (I of 1938)."
+        },
+        {
+          "section_no": "3",
+          "section_title": "Interpretation section",
+          "body": "In this Act, the expression 'grant of money or land revenue' includes anything payable on the part of Government in respect of any right, privilege, perquisite or office."
+        },
+        {
+          "section_no": "3A",
+          "section_title": "Definition",
+          "body": "The expression 'the appropriate Government' means, in relation to Federal pensions, the Federal Government and in relation to other pensions, the Provincial Government."
+        }
+      ]
+    },
+    {
+      "chapter_title": "RIGHTS TO PENSIONS",
+      "sections": [
+        {
+          "section_no": "4",
+          "section_title": "Bar of suits relating to pensions",
+          "body": "Except as hereinafter provided, no Civil Court shall entertain any suit relating to any pension or grant of money or land-revenue conferred or made by the Federal Government or any Provincial Government or any former Government."
+        },
+        {
+          "section_no": "5",
+          "section_title": "Claims to be made to collector or other authorized officer",
+          "body": "Any person having a claim relating to any such pension or grant may prefer such claim to the Collector of the District or Deputy Commissioner or other officer authorized in this behalf by the appropriate Government."
+        },
+        {
+          "section_no": "6",
+          "section_title": "Civil Court empowered to take cognizance of such claims",
+          "body": "A Civil Court, otherwise competent to try the same, shall take cognizance of any such claim upon receiving a certificate from such Collector, Deputy Commissioner or other officer authorized in that behalf."
+        },
+        {
+          "section_no": "7",
+          "section_title": "Pensions for lands held under grants in perpetuity",
+          "body": "Nothing in sections 4 and 6 applies to pensions heretofore granted by Government in the territories subject to the Lieutenant Governor of Bengal."
+        }
+      ]
+    },
+    {
+      "chapter_title": "MODE OF PAYMENT",
+      "sections": [
+        {
+          "section_no": "8",
+          "section_title": "Payment to be made by Collector or other authorized officer",
+          "body": "All pensions or grants by Government of money or land-revenue shall be paid by the Collector or the Deputy Commissioner or other authorized officer."
+        },
+        {
+          "section_no": "9",
+          "section_title": "Saving of rights of grantees of land-revenue",
+          "body": "Nothing in sections 4 and 8 shall affect the right of a grantee of land-revenue, whose claim to such grant is admitted by Government."
+        },
+        {
+          "section_no": "10",
+          "section_title": "Commutation of pension",
+          "body": "The appropriate Government may, with the consent of the holder, order the whole or any part of his pension or grant of money or land-revenue to be commuted for a lump sum on such terms as may seem fit."
+        }
+      ]
+    },
+    {
+      "chapter_title": "MISCELLANEOUS",
+      "sections": [
+        {
+          "section_no": "11",
+          "section_title": "Exemption of pension from attachment",
+          "body": "No pension granted or continued by Government on political considerations, or on account of past services or present infirmities or as a compassionate allowance, shall be liable to seizure, attachment or sequestration by process of any Court in Pakistan."
+        },
+        {
+          "section_no": "12",
+          "section_title": "Assignments etc., in anticipation of pension, to be void",
+          "body": "All assignments, agreements, orders, sales and securities of every kind made by the person entitled to any pension, pay or allowance mentioned in section 11, are null and void."
+        },
+        {
+          "section_no": "13",
+          "section_title": "Reward to informers",
+          "body": "Whoever proves to the satisfaction of the appropriate Government that any pension is fraudulently or unduly received shall be entitled to a reward equivalent to the amount of such pension for the period of six months."
+        },
+        {
+          "section_no": "14",
+          "section_title": "Power to make rules",
+          "body": "In each Province the Chief Controlling Revenue authority may, with the consent of the appropriate Government, from time to time make rules consistent with this Act."
+        }
+      ]
+    }
+  ],
+  "source_file": "administratorede62fb0012b42c5d1aab4166249809a.txt"
+}

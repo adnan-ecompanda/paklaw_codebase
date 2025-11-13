@@ -1,0 +1,27 @@
+{
+  "law_name": "THE RAILWAY STORES (UNLAWFUL POSSESSION) ORDINANCE",
+  "year": 1944,
+  "chapters": [
+    {
+      "chapter_title": "Contents",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title, extent and commencement",
+          "body": "(1) This Ordinance may be called the Railway Stores (Unlawful Possession) Ordinance, 1944. (2) It extends to the whole of Pakistan. (3) It shall come into force at once."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Definitions",
+          "body": "In this Ordinance, 'railway stores' includes any article used or intended to be used in the construction, operation or maintenance of a railway."
+        },
+        {
+          "section_no": "3",
+          "section_title": "Unlawful possession of railway Stores",
+          "body": "Whoever is found or is proved to have been in possession of any article of railway stores shall, if the Court sees reasonable grounds for believing such article to be or to have been the property of the administration of any railway, unless he proves that the article came into his possession lawfully, be punishable with imprisonment for a term which may extend to five years or with fine or with both."
+        }
+      ]
+    }
+  ],
+  "source_file": "administrator62c1ed39158cce35c09320d9bb9a7f36.txt"
+}

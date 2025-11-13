@@ -1,0 +1,47 @@
+{
+  "law_name": "THE FISHERIES ACT",
+  "year": 1897,
+  "chapters": [
+    {
+      "chapter_title": "Fisheries Act, 1897",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Title and extent",
+          "body": "(1) This Act may be called the Fisheries Act, 1897. (2) It extends to the whole of Pakistan."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Act to be read as supplemental to other Fisheries Laws",
+          "body": "Subject to the provisions of sections 4 and 26 of the General Clauses Act, 1887 (I of 1887), this Act shall be read as supplemental to any other enactment for the time being in force relating to fisheries in any part of Pakistan."
+        },
+        {
+          "section_no": "3",
+          "section_title": "Definitions",
+          "body": "In this Act, unless there is anything repugnant in the subject or context, (1) 'fish' includes shell-fish; (2) 'fixed engine' means any net, cage, trap or other contrivance for taking fish, fixed in the soil or made stationary in any other way; and (3) 'private water' means water which is the exclusive property of any person or in which any person has for the time being an exclusive right of fishery whether as owner, lessee or in any other capacity."
+        },
+        {
+          "section_no": "4",
+          "section_title": "Destruction of fish by explosives in inland waters and on coasts",
+          "body": "(1) If any person uses any dynamite or other explosive substance in any water with intent thereby to catch or destroy any of the fish that may be therein, he shall be punishable with imprisonment for a term which may extend to two months, or with fine which may extend to two hundred rupees."
+        },
+        {
+          "section_no": "5",
+          "section_title": "Destruction of fish by poising waters",
+          "body": "(1) If any person puts any poison, lime or noxious material into any water with intent thereby to catch or destroy any fish, he shall be punishable with imprisonment for a term which may extend to two months, or with fine which may extend to two hundred rupees. (2) The Provincial Government may, by notification in the official Gazette, suspend the operation of this section in any specified area, and may in like manner modify or cancel any such notification."
+        },
+        {
+          "section_no": "6",
+          "section_title": "Protection of fish in selected waters by rules of Provincial Government",
+          "body": "(1) The Provincial Government may make rules for the purposes hereinafter in this section mentioned, and may by notification in the official Gazette apply all or any of such rules to such waters, not being private waters, as the Provincial Government may specify in the said notification. (2) The Provincial Government may also, by a like notification, apply such rules or any of them to any private water with the consent in writing of the owner thereof and of all persons having for the time being any exclusive right of fishery therein. (3) Such rules may prohibit or regulate all or any of the following matters, that is to say- (a) the erection and use of fixed engines; (b) the construction of weirs; and (c) the dimension and kind of the nets to be used and the modes of using them. (4) Such rules may also prohibit all fishing in any specified water for a period not exceeding two years. (5) In making any rule under this section the Provincial Government may- (a) direct that a breach of it shall be punishable with fine which may extend to one hundred rupees, and, when the breach is a continuing breach, with a further fine which may extend to ten rupees for every day after the date of the first conviction during which the breach is proved to have been persisted in; and (b) provide for- (i) the seizure, forfeiture and removal of fixed engines, erected, or used, or nets used, in contravention of the rule, and (ii) the forfeiture of any fish taken by means of any such fixed engine or net."
+        },
+        {
+          "section_no": "7",
+          "section_title": "Arrest without warrant for offences under this Act",
+          "body": "(1) Any police-officer, or other person specially empowered by the provincial Government in this behalf, either by name or as holding any office, for the time being, may, without an order from a Magistrate and without warrant, arrest any person committing in his view any offence punishable under section 4 or 5 or under any rule under section 6 (a) if the name and address of the person are unknown to him, and (b) if the person declines to give his name and address, or if there is reason to doubt the accuracy of the name and address if given. (2) A person arrested under this section may be detained until his name and address have been correctly ascertained: Provided that no person so arrested shall be detained longer than may be necessary for bringing him before a Magistrate, except under the order of a Judicial Magistrate for his detention."
+        }
+      ]
+    }
+  ],
+  "source_file": "administrator06b1dbf48a2c60132bc6e65ad3241ba1.txt"
+}

@@ -1,0 +1,42 @@
+{
+  "law_name": "THE EYE SURGERY (RESTRICTION) ORDINANCE",
+  "year": 1960,
+  "chapters": [
+    {
+      "chapter_title": "Contents",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title, extent and commencement",
+          "body": "(1) This Ordinance may be called the Eye Surgery (Restriction) Ordinance, 1960. (2) It extends to the whole of Pakistan. (3) It shall come into force at once."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Definitions",
+          "body": "In this Ordinance, unless there is anything repugnant in the subject or context: (1) “complete blindness” means absence of sight through total loss of perception of light in both eyes; (2) “eye surgery” means any surgical operation performed on or in relation to the eye by means of any instrument of whatever kind; (3) “partial blindness” means total loss of perception of light in one eye or subtotal loss of perception of light in both eyes resulting in restriction of visual field and acuity; and (4) “registered medical practitioner” means a person who is, for the time being, registered under any law relating to the registration of medical practitioners in Pakistan."
+        },
+        {
+          "section_no": "3",
+          "section_title": "Punishment for performing eye surgery in certain cases",
+          "body": "(1) Any person, not being a registered medical practitioner, who performs eye surgery upon another, whether with or without the latter's consent, shall be punishable with imprisonment for a term which may extend to one year, and with fine which may extend to one thousand rupees. (2) The term of imprisonment under sub-section (1) may extend (a) to three years, if the offence results in partial blindness, and (b) to seven years, if the offence results in complete blindness."
+        },
+        {
+          "section_no": "4",
+          "section_title": "Punishment for unlawful practice or holding out",
+          "body": "Any person not being a registered medical practitioner who practises, or holds himself out, whether directly or by implication, as practising, or as being prepared to practise, eye surgery shall be punishable with imprisonment for a term which may extend to six months, and with fine which may extend to five hundred rupees."
+        },
+        {
+          "section_no": "5",
+          "section_title": "Offences to be cognizable",
+          "body": "An offence punishable under sub-section (1) of section 3 or under section 4 shall be a cognizable offence for the purposes of the Code of Criminal Procedure, 1898 (Act V of 1898), notwithstanding anything to the contrary contained therein."
+        },
+        {
+          "section_no": "6",
+          "section_title": "Trial of offences",
+          "body": "No court inferior to that of a Magistrate of the first class shall try any offence punishable under this Ordinance."
+        }
+      ]
+    }
+  ],
+  "source_file": "administratorf7eb59fbb35317f59e951c912ac8095f.txt"
+}

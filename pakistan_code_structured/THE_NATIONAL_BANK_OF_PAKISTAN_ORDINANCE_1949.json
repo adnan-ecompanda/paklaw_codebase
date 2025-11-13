@@ -1,0 +1,152 @@
+{
+  "law_name": "THE NATIONAL BANK OF PAKISTAN ORDINANCE",
+  "year": 1949,
+  "chapters": [
+    {
+      "chapter_title": "PRELIMINARY",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title, extent and commencement.",
+          "body": "(1) This Ordinance may be called the National Bank of Pakistan Ordinance, 1949. (2) It extends to the whole of Pakistan. (3) It shall come into force at once."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Definitions.",
+          "body": "In this Ordinance, unless there is anything repugnant in the subject or context, various definitions are provided for terms such as 'the Bank', 'the Central Board', 'Local Board', 'Director', 'Member', 'dividend', 'goods', 'general meeting', 'local meeting', 'meeting', 'prescribed', 'Managing Director', 'special meeting', 'special local meeting', 'special resolution', and 'special local resolution'."
+        }
+      ]
+    },
+    {
+      "chapter_title": "ESTABLISHMENT, INCORPORATION AND SHARE CAPITAL OF THE NATIONAL BANK OF PAKISTAN",
+      "sections": [
+        {
+          "section_no": "3",
+          "section_title": "Establishment and incorporation of the Bank.",
+          "body": "(1) As soon as may be after the commencement of this Ordinance, there shall be constituted a bank to be called the National Bank of Pakistan. (2) The Bank shall be a body corporate having perpetual succession and a common seal."
+        },
+        {
+          "section_no": "4",
+          "section_title": "Share Capital.",
+          "body": "(1) Subject to the provisions of this Ordinance the authorised Capital of the Bank shall be specified by the Federal Government and divided into Ordinary shares of ten rupees each. (2) The liability of the shareholders of the Bank shall be limited to the amount not fully paid up on their shares."
+        }
+      ]
+    },
+    {
+      "chapter_title": "SHARES",
+      "sections": [
+        {
+          "section_no": "5",
+          "section_title": "Nature of shares.",
+          "body": "The shares of the Bank shall be movable property and each share shall be distinguished by its appropriate number."
+        },
+        {
+          "section_no": "6",
+          "section_title": "Principal register of shareholders.",
+          "body": "The Bank shall maintain a principal register of all shareholders at its Head Office."
+        },
+        {
+          "section_no": "7",
+          "section_title": "Branch registers.",
+          "body": "The Bank shall maintain branch registers of the shareholders at the offices of its Local Boards."
+        },
+        {
+          "section_no": "8",
+          "section_title": "Qualifications of shareholders.",
+          "body": "No person shall be qualified to be registered as a shareholder who is not competent to enter into any contract."
+        },
+        {
+          "section_no": "9",
+          "section_title": "Central Government a shareholder.",
+          "body": "The Central Government shall be a shareholder of the Bank and shall purchase at par not less than twenty-five percent of the shares issued by the Bank."
+        },
+        {
+          "section_no": "10",
+          "section_title": "No notice to be taken of trusts.",
+          "body": "No notice of any trust shall be entered on the principal or any branch register."
+        }
+      ]
+    },
+    {
+      "chapter_title": "MANAGEMENT",
+      "sections": [
+        {
+          "section_no": "11",
+          "section_title": "Head office of the Bank.",
+          "body": "The Head Office of the Bank shall be at Karachi."
+        },
+        {
+          "section_no": "12",
+          "section_title": "Central Board.",
+          "body": "The general superintendence and direction of the affairs and business of the Bank shall be entrusted to the Central Board."
+        },
+        {
+          "section_no": "13",
+          "section_title": "Local Boards.",
+          "body": "Two Local Boards shall be established for the areas mentioned in section 8."
+        },
+        {
+          "section_no": "14",
+          "section_title": "Constitution of the Central Board.",
+          "body": "The Central Board shall consist of the Managing Director and other Directors as specified."
+        }
+      ]
+    },
+    {
+      "chapter_title": "BUSINESS OF THE BANK",
+      "sections": [
+        {
+          "section_no": "25",
+          "section_title": "Business which the Bank is authorised to transact.",
+          "body": "The Bank is authorised to transact business as specified in this Ordinance."
+        },
+        {
+          "section_no": "26",
+          "section_title": "Business which the Bank is not authorised to transact.",
+          "body": "The Bank is not authorised to transact business as specified in this Ordinance."
+        },
+        {
+          "section_no": "26 A",
+          "section_title": "Exceptions.",
+          "body": "Exceptions to the business the Bank is not authorised to transact."
+        }
+      ]
+    },
+    {
+      "chapter_title": "MISCELLANEOUS",
+      "sections": [
+        {
+          "section_no": "27",
+          "section_title": "Auditors.",
+          "body": "Provisions regarding auditors of the Bank."
+        },
+        {
+          "section_no": "28",
+          "section_title": "Government Auditors.",
+          "body": "Provisions regarding government auditors."
+        },
+        {
+          "section_no": "29",
+          "section_title": "Rights and duties of auditors.",
+          "body": "Rights and duties of auditors are specified."
+        },
+        {
+          "section_no": "30",
+          "section_title": "Acceptance of liabilities.",
+          "body": "Provisions regarding acceptance of liabilities."
+        },
+        {
+          "section_no": "31",
+          "section_title": "Liquidation of the Bank.",
+          "body": "Provisions regarding the liquidation of the Bank."
+        },
+        {
+          "section_no": "32",
+          "section_title": "Power of the Central Board to make bye laws.",
+          "body": "The Central Board has the power to make bye laws."
+        }
+      ]
+    }
+  ],
+  "source_file": "administratorb3773d0bd821991632eb6c517251e76c.txt"
+}

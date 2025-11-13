@@ -1,0 +1,807 @@
+{
+  "law_name": "The Railways Act",
+  "year": 1890,
+  "chapters": [
+    {
+      "chapter_title": "Preliminary",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Title, extent and commencement",
+          "body": "(1) This Act may be called the Railways Act, 1890. (2) It extends to the whole of Pakistan and applies also to all citizens of Pakistan wherever they may be. (3) It shall come into force on the first day of May, 1890."
+        },
+        {
+          "section_no": "2",
+          "section_title": "[Repealed]",
+          "body": ""
+        },
+        {
+          "section_no": "3",
+          "section_title": "Definitions",
+          "body": "In this Act, unless there is anything repugnant in the subject or context, (a) “accident” means as defined in the Ordinance, (b) “Authority” means as defined in the Ordinance, (c) “Collector” means the chief officer in charge of the land-revenue administration of a district, and includes any officer specially appointed by the Provincial Government to discharge the functions of a Collector under this Act; (d) “ferry” includes a bridge of boats, pontoons or rafts, a swing bridge, a flying bridge and a temporary bridge, and the approaches to, and landing places of, a ferry; (e) “goods” means as defined in the Ordinance."
+        }
+      ]
+    },
+    {
+      "chapter_title": "Inspection of Railways",
+      "sections": [
+        {
+          "section_no": "4",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "5",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "6",
+          "section_title": "[Omitted]",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "Construction and Maintenance of Works",
+      "sections": [
+        {
+          "section_no": "7",
+          "section_title": "Authority of Railway Administrations to execute all necessary works",
+          "body": ""
+        },
+        {
+          "section_no": "8",
+          "section_title": "Alteration of pipes, wires and drains",
+          "body": ""
+        },
+        {
+          "section_no": "8A",
+          "section_title": "Protection for Government property",
+          "body": ""
+        },
+        {
+          "section_no": "9",
+          "section_title": "Temporary entry upon land for repairing or preventing accident",
+          "body": ""
+        },
+        {
+          "section_no": "10",
+          "section_title": "Payment of compensation for damage caused by lawful exercise of powers under the foregoing provisions of this Chapter",
+          "body": ""
+        },
+        {
+          "section_no": "11",
+          "section_title": "Accommodation works",
+          "body": ""
+        },
+        {
+          "section_no": "12",
+          "section_title": "Power for owner-occupier or local authority to cause additional accommodation works to be made",
+          "body": ""
+        },
+        {
+          "section_no": "13",
+          "section_title": "Fences, screens, gates and bars",
+          "body": ""
+        },
+        {
+          "section_no": "14",
+          "section_title": "Over and under bridges",
+          "body": ""
+        },
+        {
+          "section_no": "14A",
+          "section_title": "The term licensee",
+          "body": ""
+        },
+        {
+          "section_no": "15",
+          "section_title": "Removal of trees dangerous to or obstructing the working of a railway",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "Opening of Railways",
+      "sections": [
+        {
+          "section_no": "16",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "17",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "18",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "19",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "20",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "21",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "22",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "23",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "24",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "25",
+          "section_title": "[Omitted]",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "Traffic Facilities",
+      "sections": [
+        {
+          "section_no": "26-40",
+          "section_title": "[Repealed]",
+          "body": ""
+        },
+        {
+          "section_no": "41",
+          "section_title": "Bar of jurisdiction of ordinary Courts in certain matters.",
+          "body": ""
+        },
+        {
+          "section_no": "42",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "42A",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "42B",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "43",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "44",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "45",
+          "section_title": "Terminals",
+          "body": ""
+        },
+        {
+          "section_no": "46",
+          "section_title": "Power of Authority to x terminals",
+          "body": ""
+        },
+        {
+          "section_no": "46A",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "46B",
+          "section_title": "[Omitted]",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "Working of Railways",
+      "sections": [
+        {
+          "section_no": "47",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "48",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "49",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "50",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "51",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "51A",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "52",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "53",
+          "section_title": "Maximum load for wagons",
+          "body": ""
+        },
+        {
+          "section_no": "54",
+          "section_title": "Power for Railway Administrations to impose conditions for working traffic",
+          "body": ""
+        },
+        {
+          "section_no": "55",
+          "section_title": "Lien for rates, terminals and other charges",
+          "body": ""
+        },
+        {
+          "section_no": "56",
+          "section_title": "Disposal of unclaimed things on a railway",
+          "body": ""
+        },
+        {
+          "section_no": "57",
+          "section_title": "Power for Railway Administrations to require indemnity on delivery of goods in certain cases",
+          "body": ""
+        },
+        {
+          "section_no": "58",
+          "section_title": "Requisitions for written accounts of description of goods",
+          "body": ""
+        },
+        {
+          "section_no": "59",
+          "section_title": "Dangerous or offensive goods",
+          "body": ""
+        },
+        {
+          "section_no": "60",
+          "section_title": "Exhibition the public of authority for quoted rates",
+          "body": ""
+        },
+        {
+          "section_no": "61",
+          "section_title": "Requisitions on Railway Administrations for details of gross charges",
+          "body": ""
+        },
+        {
+          "section_no": "62",
+          "section_title": "Communication between passengers and railway employees in charge of trains",
+          "body": ""
+        },
+        {
+          "section_no": "63",
+          "section_title": "Maximum number of passengers for each compartment",
+          "body": ""
+        },
+        {
+          "section_no": "64",
+          "section_title": "Reservation compartments for females",
+          "body": ""
+        },
+        {
+          "section_no": "65",
+          "section_title": "Exhibition of time-tables and tables fares at stations",
+          "body": ""
+        },
+        {
+          "section_no": "66",
+          "section_title": "Supply of tickets on payment of fares",
+          "body": ""
+        },
+        {
+          "section_no": "67",
+          "section_title": "Provision for case in which tickets have been issued for trains not having room available for additional passengers",
+          "body": ""
+        },
+        {
+          "section_no": "68",
+          "section_title": "Prohibition against traveling without pass or ticket",
+          "body": ""
+        },
+        {
+          "section_no": "69",
+          "section_title": "Exhibition and surrender of passes and tickets",
+          "body": ""
+        },
+        {
+          "section_no": "70",
+          "section_title": "Prohibition against transfer of certain tickets",
+          "body": ""
+        },
+        {
+          "section_no": "71",
+          "section_title": "Power to refuse to carry persons suffering from infectious or contagious disorder.",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "Limitation of Employment of Railway Servants",
+      "sections": [
+        {
+          "section_no": "71A-71H",
+          "section_title": "[Omitted]",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "Responsibilities of Licensees as Carriers",
+      "sections": [
+        {
+          "section_no": "72",
+          "section_title": "Measure of the general responsibility of a licensee as a carrier of animals and goods",
+          "body": ""
+        },
+        {
+          "section_no": "73",
+          "section_title": "Further provision with respect to the liability of a licensee as a carrier of animals",
+          "body": ""
+        },
+        {
+          "section_no": "74",
+          "section_title": "Further provision with respect to the liability of a licensee as a carrier of luggage",
+          "body": ""
+        },
+        {
+          "section_no": "75",
+          "section_title": "Further provision with respect to the liability of a licensee as a carrier of articles of special value",
+          "body": ""
+        },
+        {
+          "section_no": "76",
+          "section_title": "Burden of proof in suits in respect of loss of animals or goods",
+          "body": ""
+        },
+        {
+          "section_no": "77",
+          "section_title": "Notification of claims of refunds of overcharges and to compensation for losses",
+          "body": ""
+        },
+        {
+          "section_no": "78",
+          "section_title": "Exoneration from responsibility in case of goods falsely described",
+          "body": ""
+        },
+        {
+          "section_no": "79",
+          "section_title": "Settlement of compensation for injuries to officers, soldiers, airmen and followers on duty",
+          "body": ""
+        },
+        {
+          "section_no": "80",
+          "section_title": "Suits for compensation for injury to through booked traffic",
+          "body": ""
+        },
+        {
+          "section_no": "81",
+          "section_title": "[Repealed]",
+          "body": ""
+        },
+        {
+          "section_no": "82",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "82A",
+          "section_title": "Liability of licensee in respect of accidents to trains carrying passengers",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "Accidents",
+      "sections": [
+        {
+          "section_no": "83",
+          "section_title": "Report of the railway accidents",
+          "body": ""
+        },
+        {
+          "section_no": "84",
+          "section_title": "Power to make rules regarding notices of and inquiries into accidents",
+          "body": ""
+        },
+        {
+          "section_no": "85",
+          "section_title": "Submission of return of accidents",
+          "body": ""
+        },
+        {
+          "section_no": "86",
+          "section_title": "Provision for compulsory medical examination of person injured in railway accident",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "Penalties and Offences",
+      "sections": [
+        {
+          "section_no": "87",
+          "section_title": "Penalty for default in compliance with requisition under section 13",
+          "body": ""
+        },
+        {
+          "section_no": "88",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "89",
+          "section_title": "Penalty for not having certain documents kept or exhibited at stations under section 54 or 65",
+          "body": ""
+        },
+        {
+          "section_no": "90",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "91",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "92",
+          "section_title": "Penalty for delay in submitting returns under * * * 85",
+          "body": ""
+        },
+        {
+          "section_no": "93",
+          "section_title": "Penalty for neglect of provisions of section 53 or 63 with respect to carrying capacity of rolling-stock",
+          "body": ""
+        },
+        {
+          "section_no": "94",
+          "section_title": "Penalty for failure to comply with requisition under section 62 for maintenance of means of communication between passengers and railway employees",
+          "body": ""
+        },
+        {
+          "section_no": "95",
+          "section_title": "Penalty for failure to reserve compartments for females under section 64",
+          "body": ""
+        },
+        {
+          "section_no": "96",
+          "section_title": "Penalty for omitting to give the notices of accidents required by section 83 and under section 84",
+          "body": ""
+        },
+        {
+          "section_no": "97",
+          "section_title": "Recovery of penalties",
+          "body": ""
+        },
+        {
+          "section_no": "98",
+          "section_title": "Alternative or supplementary character of remedies afforded by the foregoing provisions of this Chapter",
+          "body": ""
+        },
+        {
+          "section_no": "99",
+          "section_title": "Breach of duty imposed by section 60.",
+          "body": ""
+        },
+        {
+          "section_no": "100",
+          "section_title": "Drunkenness",
+          "body": ""
+        },
+        {
+          "section_no": "101",
+          "section_title": "Endangering the safety of persons",
+          "body": ""
+        },
+        {
+          "section_no": "102",
+          "section_title": "Compelling passengers to enter carriages already full.",
+          "body": ""
+        },
+        {
+          "section_no": "103",
+          "section_title": "Omission to give notice of accident",
+          "body": ""
+        },
+        {
+          "section_no": "104",
+          "section_title": "Obstructing level-crossings",
+          "body": ""
+        },
+        {
+          "section_no": "105",
+          "section_title": "False returns",
+          "body": ""
+        },
+        {
+          "section_no": "106",
+          "section_title": "Giving false account of goods",
+          "body": ""
+        },
+        {
+          "section_no": "107",
+          "section_title": "Unlawfully bringing dangerous or offensive goods upon a railway",
+          "body": ""
+        },
+        {
+          "section_no": "108",
+          "section_title": "Needlessly interfering with means of communication in a train",
+          "body": ""
+        },
+        {
+          "section_no": "109",
+          "section_title": "Entering compartment reserved or already full or resisting entry into a compartment not full",
+          "body": ""
+        },
+        {
+          "section_no": "110",
+          "section_title": "Smoking",
+          "body": ""
+        },
+        {
+          "section_no": "111",
+          "section_title": "Defacing public notices",
+          "body": ""
+        },
+        {
+          "section_no": "112",
+          "section_title": "Fraudulently traveling or attempting to travel without proper pass or ticket",
+          "body": ""
+        },
+        {
+          "section_no": "113",
+          "section_title": "Travelling without pass or ticket or with insufficient pass or ticket or beyond authorized distance",
+          "body": ""
+        },
+        {
+          "section_no": "113A",
+          "section_title": "Power to remove persons from railway carriage",
+          "body": ""
+        },
+        {
+          "section_no": "114",
+          "section_title": "Penalty for transfer of tickets",
+          "body": ""
+        },
+        {
+          "section_no": "115",
+          "section_title": "Disposal of fines under the two last foregoing sections",
+          "body": ""
+        },
+        {
+          "section_no": "116",
+          "section_title": "Altering or defacing pass or ticket",
+          "body": ""
+        },
+        {
+          "section_no": "117",
+          "section_title": "Being or suffering person to travel on railway with infectious or contagious disorder",
+          "body": ""
+        },
+        {
+          "section_no": "118",
+          "section_title": "Entering carriage in motion, or otherwise improperly traveling on a railway",
+          "body": ""
+        },
+        {
+          "section_no": "119",
+          "section_title": "Entering carriage or other place reserved for females",
+          "body": ""
+        },
+        {
+          "section_no": "120",
+          "section_title": "Drunkenness or nuisance on a railway",
+          "body": ""
+        },
+        {
+          "section_no": "121",
+          "section_title": "Obstructing railway employee in his duty",
+          "body": ""
+        },
+        {
+          "section_no": "122",
+          "section_title": "Trespass and refusal to desist from trespass",
+          "body": ""
+        },
+        {
+          "section_no": "123",
+          "section_title": "Disobediences of omnibus drivers to directions of railway employee",
+          "body": ""
+        },
+        {
+          "section_no": "124",
+          "section_title": "Opening or not properly shutting gates",
+          "body": ""
+        },
+        {
+          "section_no": "125",
+          "section_title": "Cattle trespass",
+          "body": ""
+        },
+        {
+          "section_no": "126",
+          "section_title": "Maliciously wrecking or attempting to wreck train",
+          "body": ""
+        },
+        {
+          "section_no": "127",
+          "section_title": "Maliciously hurting or attempting to hurt persons travelling by railway or damaging property belonging to railway",
+          "body": ""
+        },
+        {
+          "section_no": "128",
+          "section_title": "Endangering safety of persons travelling by railway by wilful act or omission",
+          "body": ""
+        },
+        {
+          "section_no": "129",
+          "section_title": "Endangering safety of persons travelling by railway by rash or negligent act or omission",
+          "body": ""
+        },
+        {
+          "section_no": "130",
+          "section_title": "Special provision with respect to the commission by children of acts endangering safety of persons travelling by railway",
+          "body": ""
+        },
+        {
+          "section_no": "130A",
+          "section_title": "Power to detain and search in cases of suspected theft",
+          "body": ""
+        },
+        {
+          "section_no": "131",
+          "section_title": "Arrest for offences against certain sections",
+          "body": ""
+        },
+        {
+          "section_no": "131A",
+          "section_title": "Summary trial of certain offences",
+          "body": ""
+        },
+        {
+          "section_no": "132",
+          "section_title": "Arrest of persons likely to abscond or unknown",
+          "body": ""
+        },
+        {
+          "section_no": "133",
+          "section_title": "Magistrates having jurisdiction under Act",
+          "body": ""
+        },
+        {
+          "section_no": "133A",
+          "section_title": "Certain railway servants to have powers of Magistrate",
+          "body": ""
+        },
+        {
+          "section_no": "134",
+          "section_title": "Place of trial",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "Supplemental Provisions",
+      "sections": [
+        {
+          "section_no": "135",
+          "section_title": "Taxation of railways by local authorities",
+          "body": ""
+        },
+        {
+          "section_no": "136",
+          "section_title": "Restriction on execution against railway property",
+          "body": ""
+        },
+        {
+          "section_no": "137",
+          "section_title": "Railway servants to be public servants for the purposes of Chapter IX of the Pakistan Penal Code",
+          "body": ""
+        },
+        {
+          "section_no": "138",
+          "section_title": "Procedure for summary delivery to licensee of property detained by railway employee",
+          "body": ""
+        },
+        {
+          "section_no": "139",
+          "section_title": "[Repealed]",
+          "body": ""
+        },
+        {
+          "section_no": "140",
+          "section_title": "Service of notices on Railway Administrations",
+          "body": ""
+        },
+        {
+          "section_no": "141",
+          "section_title": "Service of notices by Railway Administrations",
+          "body": ""
+        },
+        {
+          "section_no": "142",
+          "section_title": "Presumption where notice is served by post",
+          "body": ""
+        },
+        {
+          "section_no": "143",
+          "section_title": "Provisions with respect of rules",
+          "body": ""
+        },
+        {
+          "section_no": "144",
+          "section_title": "[Omitted]",
+          "body": ""
+        },
+        {
+          "section_no": "145",
+          "section_title": "Representation of Managers and Agents of Railways in Courts",
+          "body": ""
+        },
+        {
+          "section_no": "146",
+          "section_title": "Power to extend Act to certain tramways",
+          "body": ""
+        },
+        {
+          "section_no": "147",
+          "section_title": "Power to exempt railway from the operation of the provisions of the Act",
+          "body": ""
+        },
+        {
+          "section_no": "148",
+          "section_title": "Matters supplemental to the definitions of “railway” and “railway employee”",
+          "body": ""
+        },
+        {
+          "section_no": "149",
+          "section_title": "[Repealed]",
+          "body": ""
+        },
+        {
+          "section_no": "150",
+          "section_title": "[Repealed]",
+          "body": ""
+        }
+      ]
+    }
+  ],
+  "source_file": "administrator2ee5578ca7f0081f5d589a84de29b868.txt"
+}

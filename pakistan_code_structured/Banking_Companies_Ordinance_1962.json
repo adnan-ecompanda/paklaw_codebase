@@ -1,0 +1,832 @@
+{
+  "law_name": "Banking Companies Ordinance",
+  "year": 1962,
+  "chapters": [
+    {
+      "chapter_title": "Part I Preliminary",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title, extent and commencement",
+          "body": "(1) This Ordinance may be called the Banking Companies Ordinance, 1962. (2) It extends to the whole of Pakistan. (3) It shall come into force at once."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Application of other laws not barred",
+          "body": "The provisions of this Ordinance shall be in addition to, and not, save as hereinafter expressly provided, in derogation of, the Companies Ordinance, 1984 (XLVII of 1984), and any other law for the time being in force."
+        },
+        {
+          "section_no": "3",
+          "section_title": "Limited application of Ordinance to Cooperative Banks",
+          "body": "[Omitted]"
+        },
+        {
+          "section_no": "3A",
+          "section_title": "Limited application of Ordinance to certain financial institutions",
+          "body": "(1) The provisions of sections 6, 13, 15C, 25, 25A, 29, 31, 32, 33, 40, 41, 41A, 41B, 41C, 41D, 42, 42A, 42B, 42C, 42D, 42E, 42F, 42G, 42I, 51, 58, 83, 84, 93C, 93CA, and 94 shall, with such modification as the State Bank may determine from time to time in relation to activities which have implications for the monetary or credit policies of the State Bank, apply to the Pakistan Industrial Credit and Investment Corporation, the National Development Finance Corporation, the Bankers Equity Limited, the Pak-Libya Holding Company Limited, the Saudi-Pak Industrial and Agricultural Investment Company Limited, The Pak-Oman Investment Company (Pvt) Limited, The Pakistan Kuwait Investment Company Limited and such other companies, corporations or institutions or class of companies, corporations or institutions, as the Federal Government in consultation with the State Bank, for time to time, by notification in the official Gazette, specify in the behalf."
+        },
+        {
+          "section_no": "4",
+          "section_title": "Power to suspend operation of Ordinance",
+          "body": "(1) The Federal Government, if on a representation made by the State Bank in this behalf is satisfied that it is expedient so to do, may by notification in the Official Gazette suspend for such period, not exceeding sixty days, as may be specified in the notification, the operation of all or any of the provisions of this Ordinance, either generally or in relation to any specified banking company."
+        },
+        {
+          "section_no": "5",
+          "section_title": "Definitions",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "6",
+          "section_title": "Ordinance to override memorandum, articles, etc.",
+          "body": "[Body not provided]"
+        }
+      ]
+    },
+    {
+      "chapter_title": "Part II Business of Banking Companies",
+      "sections": [
+        {
+          "section_no": "7",
+          "section_title": "Form of business in which banking companies may engage",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "8",
+          "section_title": "Use of the word 'Bank' or any of its derivatives",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "9",
+          "section_title": "Prohibition of trading",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "10",
+          "section_title": "Disposal of non-banking assets",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "11",
+          "section_title": "Prohibition of employment of managing agents and restrictions on certain forms of employment",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "12",
+          "section_title": "Restrictions on removal of records and documents",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "13",
+          "section_title": "Requirement as to minimum paid-up capital and reserves",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "14",
+          "section_title": "Regulation of paid-up capital, subscribed capital and authorized capital and voting rights of share-holders",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "15",
+          "section_title": "Election of new directors",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "15A",
+          "section_title": "Appointment of director by the State Bank",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "15B",
+          "section_title": "[Omitted]",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "15C",
+          "section_title": "Fitness and propriety",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "16",
+          "section_title": "Restriction on commission, brokerage, discount, etc. on sale of shares",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "17",
+          "section_title": "Prohibition of charge on unpaid capital",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "18",
+          "section_title": "Prohibition of floating charge on assets",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "19",
+          "section_title": "Restrictions as to payment of dividend",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "20",
+          "section_title": "Prohibition of common directors",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "21",
+          "section_title": "Reserve Fund",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "22",
+          "section_title": "Cash Reserve",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "23",
+          "section_title": "Restriction on the nature of subsidiary companies",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "24",
+          "section_title": "Restrictions on loans and advances",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "25",
+          "section_title": "Power of State Bank to control advances by banking companies",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "25A",
+          "section_title": "Power of the State Bank to collect and furnish credit information",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "25AA",
+          "section_title": "[Omitted]",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "25B",
+          "section_title": "Recovery of certain dues of banking companies as arrears of land revenue",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "26",
+          "section_title": "Power of State Bank to prohibit acceptance of deposits by banking companies incorporated outside Pakistan",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "26A",
+          "section_title": "Deposits",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "27",
+          "section_title": "Licensing of banking companies",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "27A",
+          "section_title": "Prohibition of advertising for deposits and collection",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "27B",
+          "section_title": "Disruptive union activities",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "28",
+          "section_title": "Restrictions on opening of new, and transfer of existing places of business",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "29",
+          "section_title": "Maintenance of liquid assets",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "30",
+          "section_title": "Assets in Pakistan",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "31",
+          "section_title": "Unclaimed deposits and articles of value",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "32",
+          "section_title": "Half-yearly returns and power to call for other returns and information",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "33",
+          "section_title": "Power to publish information",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "33A",
+          "section_title": "Fidelity and secrecy",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "33B",
+          "section_title": "Guidelines by the State Bank",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "34",
+          "section_title": "Accounts and balance sheet",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "35",
+          "section_title": "Audit",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "36",
+          "section_title": "Submission of returns",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "37",
+          "section_title": "Copies of Balance Sheets and Accounts to be sent to Registrar",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "38",
+          "section_title": "Display of audited balance sheet by banking companies incorporated outside Pakistan",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "39",
+          "section_title": "Accounting provisions of this Ordinance not retrospective",
+          "body": "[Body not provided]"
+        }
+      ]
+    },
+    {
+      "chapter_title": "Part IIA Islamic Banking",
+      "sections": [
+        {
+          "section_no": "39A",
+          "section_title": "Scope and application",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "39B",
+          "section_title": "Definitions",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "39C",
+          "section_title": "Business",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "39D",
+          "section_title": "Relationship between an Islamic banking institution or Islamic financial institution and its customers",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "39E",
+          "section_title": "Shariah Governance",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "39F",
+          "section_title": "Priority of payments to Islamic deposit account holders, investment account holders and other claimants",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "39G",
+          "section_title": "Charity",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "39H",
+          "section_title": "Separate Regulatory Instructions",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "39I",
+          "section_title": "Conversion and Establishment of Islamic Banking Subsidiary",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "39J",
+          "section_title": "Penalties",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "39K",
+          "section_title": "Other provisions relating to Islamic banking",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "39L",
+          "section_title": "Savings",
+          "body": "[Body not provided]"
+        }
+      ]
+    },
+    {
+      "chapter_title": "Part IIB Supervision",
+      "sections": [
+        {
+          "section_no": "40",
+          "section_title": "Inspection",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "40A",
+          "section_title": "Responsibility of State Bank",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "41",
+          "section_title": "Power of the State Bank to give directions",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "41A",
+          "section_title": "Power of the State Bank to remove directors or other managerial persons from office",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "41B",
+          "section_title": "Power of the State Bank to supersede Board of Directors of a banking company",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "41C",
+          "section_title": "Limitations",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "41D",
+          "section_title": "Prosecution of directors, chief executives or other officers",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "42",
+          "section_title": "Intervention triggers and powers of the State Bank",
+          "body": "[Body not provided]"
+        }
+      ]
+    },
+    {
+      "chapter_title": "Part IIC Resolution of Banking Companies",
+      "sections": [
+        {
+          "section_no": "42A",
+          "section_title": "Resolution authority",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "42B",
+          "section_title": "Resolution objectives",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "42C",
+          "section_title": "Resolution planning",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "42D",
+          "section_title": "Resolution triggers",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "42E",
+          "section_title": "Resolution powers",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "42F",
+          "section_title": "Order of moratorium",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "42G",
+          "section_title": "Powers of State Bank to prepare scheme of reconstruction or amalgamation",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "42H",
+          "section_title": "Bridge bank",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "42I",
+          "section_title": "Temporary Public Funding for Resolution",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "43",
+          "section_title": "Certain provisions of the Ordinance not to apply to certain banking companies",
+          "body": "[Body not provided]"
+        }
+      ]
+    },
+    {
+      "chapter_title": "Part II-D Transaction of Banking Business Illegally by Companies, etc.",
+      "sections": [
+        {
+          "section_no": "43A",
+          "section_title": "Power to call for certain information, etc",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "43AA",
+          "section_title": "Special provisions",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "43B",
+          "section_title": "Power to make declaration",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "43C",
+          "section_title": "Consequences of a declaration under section 43B",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "43D",
+          "section_title": "Deposit of cash and preservation of assets, etc.",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "43E",
+          "section_title": "Statement of assets and liabilities to be submitted to State Bank",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "43F",
+          "section_title": "Consequential provisions for winding up, etc.",
+          "body": "[Body not provided]"
+        }
+      ]
+    },
+    {
+      "chapter_title": "Part III Suspension of Business and Winding Up of Banking Companies",
+      "sections": [
+        {
+          "section_no": "44",
+          "section_title": "High Court defined",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "45",
+          "section_title": "Restriction on stay order",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "46",
+          "section_title": "Restriction on compromise or arrangement between banking companies and creditors",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "47",
+          "section_title": "[Omitted]",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "48",
+          "section_title": "Procedure for amalgamation of banking companies",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "49",
+          "section_title": "Winding up by High Court",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "50",
+          "section_title": "Court Liquidator",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "51",
+          "section_title": "State Bank to be official liquidator",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "52",
+          "section_title": "Application of Companies Act to liquidators",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "53",
+          "section_title": "Stay of proceedings",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "54",
+          "section_title": "Preliminary report by official liquidator",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "55",
+          "section_title": "Notice to preferential claimants and secured and unsecured creditors",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "56",
+          "section_title": "Power to dispense with meetings of creditors, etc.",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "57",
+          "section_title": "Booked depositors’ credits to be deemed proved",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "58",
+          "section_title": "Priority payments to depositors",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "59",
+          "section_title": "Restriction on voluntary winding up",
+          "body": "[Body not provided]"
+        }
+      ]
+    },
+    {
+      "chapter_title": "Part IV Special Provisions for Speedy Disposal of Winding Up Processing",
+      "sections": [
+        {
+          "section_no": "60",
+          "section_title": "Part IV to override other laws",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "61",
+          "section_title": "Power of High Court to decide all claims in respect of banking companies",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "62",
+          "section_title": "Transfer of pending proceedings",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "63",
+          "section_title": "Settlement of list of debtors",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "64",
+          "section_title": "Special provisions to make calls on contributories",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "65",
+          "section_title": "Documents of banking company to be evidence",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "66",
+          "section_title": "Public examination of directors and auditors",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "67",
+          "section_title": "Special provisions for assessing damages against delinquent directors, etc.",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "68",
+          "section_title": "Duty of directors and officers of banking company to assist in the realization of property",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "69",
+          "section_title": "Special provisions for punishing offences in relation to banking companies being wound up",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "70",
+          "section_title": "Public examination of directors and auditors etc., in respect of a banking company under scheme of arrangement",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "71",
+          "section_title": "Special provisions for banking companies working under schemes of arrangement at the commencement of the Ordinance",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "72",
+          "section_title": "Appeals",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "73",
+          "section_title": "Special period of limitation",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "74",
+          "section_title": "State Bank to tender advice in winding up proceedings",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "75",
+          "section_title": "Power to inspect",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "76",
+          "section_title": "Power to call for returns and information",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "77",
+          "section_title": "District Magistrate to assist official liquidator in taking charge of property of banking company being wound up",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "78",
+          "section_title": "Enforcement of orders and decisions of High Court",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "79",
+          "section_title": "Power of High Court to make rules",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "80",
+          "section_title": "References to directors, etc., shall be construed as including references to past directors, etc.",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "81",
+          "section_title": "Part II not to apply to banking companies being wound up",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "82",
+          "section_title": "Validation of certain proceedings",
+          "body": "[Body not provided]"
+        }
+      ]
+    },
+    {
+      "chapter_title": "Part IV-A Banking Mohtasib",
+      "sections": [
+        {
+          "section_no": "82A",
+          "section_title": "Appointment of Mohtasib",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "82B",
+          "section_title": "Terms and conditions of the Banking Mohtasib",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "82C",
+          "section_title": "Reference to Banking Mohtasib by Court",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "82D",
+          "section_title": "Procedure for making complaints",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "82E",
+          "section_title": "Recommendations for implementation",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "82F",
+          "section_title": "Power to call for information",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "82G",
+          "section_title": "Report of Banking Mohtasib",
+          "body": "[Body not provided]"
+        }
+      ]
+    },
+    {
+      "chapter_title": "Part V Miscellaneous",
+      "sections": [
+        {
+          "section_no": "83",
+          "section_title": "Penalties",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "83A",
+          "section_title": "Dishonest removal of pledged goods",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "84",
+          "section_title": "Cognizance of offences, etc.",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "85",
+          "section_title": "Application of fines",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "86",
+          "section_title": "Special provisions for private banking companies",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "87",
+          "section_title": "Restriction on acceptance of deposits withdrawable by cheques",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "88",
+          "section_title": "Change of name by a banking company",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "89",
+          "section_title": "Alteration of memorandum of a banking company",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "90",
+          "section_title": "Certain claims for compensation barred",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "91",
+          "section_title": "Application of certain provisions to banking company incorporated by special enactments of the Federal Legislature",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "91A",
+          "section_title": "Application of other laws barred",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "91B",
+          "section_title": "Removal of difficulties",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "92",
+          "section_title": "Power of Federal Government to make rules",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "93",
+          "section_title": "Power to exempt in certain cases",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "93A",
+          "section_title": "Exemption of officers, etc. from liability",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "93B",
+          "section_title": "Exemption from requirement of licence",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "93C",
+          "section_title": "Exchange of information",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "93CA",
+          "section_title": "Co-operation with other authorities",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "93D",
+          "section_title": "Continuance of charge and priority",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "94",
+          "section_title": "Protection of action taken in good faith and indemnity",
+          "body": "[Body not provided]"
+        },
+        {
+          "section_no": "95",
+          "section_title": "Repeals",
+          "body": "[Omitted]"
+        }
+      ]
+    }
+  ],
+  "source_file": "administrator53b33d7c0ff80d13e0b8f5e4bd578970.txt"
+}

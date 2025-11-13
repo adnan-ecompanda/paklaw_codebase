@@ -1,0 +1,27 @@
+{
+  "law_name": "THE GOVERNMENT GRANTS ACT",
+  "year": 1895,
+  "chapters": [
+    {
+      "chapter_title": "Government Grants Act, 1895",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Title and extent",
+          "body": "(1) This Act may be called the Government Grants Act, 1895. (2) It extends to the whole of Pakistan."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Transfer of Property Act, 1882, not to apply to Government grants",
+          "body": "Nothing in the Transfer of Property Act, 1882, contained shall apply or be deemed ever to have applied to any grant or other transfer of land or of any interest therein heretofore made or hereafter to be made by or on behalf of the Government to, or in favour of, any person whomsoever; but every such grant and transfer shall be construed and take effect as if the said Act had not been passed."
+        },
+        {
+          "section_no": "3",
+          "section_title": "Government grants to take effect according to their tenor",
+          "body": "All provisions, restrictions, conditions and limitations over contained in any such grant or transfer as aforesaid shall be valid and take effect according to their tenor, any rule of law, statute or enactment of the Legislature to the contrary notwithstanding."
+        }
+      ]
+    }
+  ],
+  "source_file": "administrator115eb4cdf42e26de22d5b390f8e63d51.txt"
+}

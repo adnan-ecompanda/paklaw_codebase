@@ -1,0 +1,87 @@
+{
+  "law_name": "THE MARRIED WOMEN'S PROPERTY ACT",
+  "year": 1874,
+  "chapters": [
+    {
+      "chapter_title": "PRELIMINARY",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title",
+          "body": "This Act may be called the Married Women’s Property Act, 1874."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Extent and Application",
+          "body": "It extends to the whole of Pakistan. But nothing herein contained applies to any married woman who at the time of her marriage professed the Hindu, Muslim, Buddhist, Sikh or Jaina religion, or whose husband, at the time of such marriage, professed any of those religions."
+        },
+        {
+          "section_no": "3",
+          "section_title": "Repealed",
+          "body": "Rep. by the Repealing Act, 1876 (XII of 1876)."
+        }
+      ]
+    },
+    {
+      "chapter_title": "MARRIED WOMEN'S WAGES AND EARNINGS",
+      "sections": [
+        {
+          "section_no": "4",
+          "section_title": "Married women's earnings to be their separate property",
+          "body": "The wages and earnings of any married woman acquired or gained by her after the passing of this Act, in any employment, occupation or trade carried on by her and not by her husband, and also any money or other property so acquired by her through the exercise of any literary, artistic or scientific skill, and all savings from and investments of such wages, earnings and property, shall be deemed to be her separate property."
+        }
+      ]
+    },
+    {
+      "chapter_title": "INSURANCE BY WIVES AND HUSBANDS",
+      "sections": [
+        {
+          "section_no": "5",
+          "section_title": "Married woman may effect policy of insurance",
+          "body": "Any married woman may effect a policy of insurance on her own behalf and independently of her husband; and the same and all benefit thereof, if expressed on the face of it to be so effected shall ensure as her separate property."
+        },
+        {
+          "section_no": "6",
+          "section_title": "Insurance by husband for benefit of wife",
+          "body": "A policy of insurance effected by any married man on his own life, and expressed on the face of it to be for the benefit of his wife, or of his wife and children, or any of them, shall ensure and be deemed to be a trust for the benefit of his wife, or of his wife and children, or any of them."
+        }
+      ]
+    },
+    {
+      "chapter_title": "LEGAL PROCEEDINGS BY AND AGAINST MARRIED WOMEN",
+      "sections": [
+        {
+          "section_no": "7",
+          "section_title": "Married Woman may take legal proceedings",
+          "body": "A married woman may maintain a suit in her own name for the recovery of property of any description which by force of the said Succession Act, 1925 or of this Act, is her separate property."
+        },
+        {
+          "section_no": "8",
+          "section_title": "Wife's liability for postnuptial debts",
+          "body": "If a married woman possesses separate property, and if any person enters into a contract with her with reference to such property, such person shall be entitled to sue her, and, to the extent of her separate property, to recover against her."
+        }
+      ]
+    },
+    {
+      "chapter_title": "HUSBAND'S LIABILITY FOR WIFE'S DEBTS",
+      "sections": [
+        {
+          "section_no": "9",
+          "section_title": "Husband not Liable for Wife's antenuptial Debts",
+          "body": "A husband married after the thirty-first day of December, 1865, shall not by reason only of such marriage be liable to the debts of his wife contracted before marriage."
+        }
+      ]
+    },
+    {
+      "chapter_title": "HUSBAND'S LIABILITY FOR WIFE'S BREACH OF TRUST OR DEVASTATION",
+      "sections": [
+        {
+          "section_no": "10",
+          "section_title": "Extent of husband's liability for wife's breach of trust or devastation",
+          "body": "Where a woman is a trustee, executrix or administratrix, her husband shall not, unless he acts or intermeddles in the trust or administration, be liable for any breach of trust committed by her."
+        }
+      ]
+    }
+  ],
+  "source_file": "administrator838fddea2bd84054cde358506b537096.txt"
+}

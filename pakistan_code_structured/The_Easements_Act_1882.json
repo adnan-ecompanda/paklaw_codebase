@@ -1,0 +1,357 @@
+{
+  "law_name": "The Easements Act",
+  "year": 1882,
+  "chapters": [
+    {
+      "chapter_title": "Preliminary",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title",
+          "body": "This Act may be called the Easements Act, 1882."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Savings",
+          "body": "Nothing herein contained shall be deemed to affect any law not hereby expressly repealed; or to derogate from any right of the Government to regulate the collection, retention and distribution of the water of rivers and streams flowing in natural channels, and of natural lakes and ponds, or of the water flowing, collected, retained or distributed in or by any channel or other work constructed at the public expense for irrigation; or any customary or other right (not being a license) in or over immoveable property which the Government, the public or any person may possess irrespective of other immoveable property; or any right acquired, or arising out of a relation created, before this Act comes into force."
+        }
+      ]
+    },
+    {
+      "chapter_title": "Chapter I Of Easements Generally",
+      "sections": [
+        {
+          "section_no": "4",
+          "section_title": "Easement defined",
+          "body": "An easement is a right which the owner or occupier of certain land possesses, as such, for the beneficial enjoyment of that land, to do and continue to do something, or to prevent and continue to prevent something being done, in or upon, or in respect of, certain other land not his own."
+        },
+        {
+          "section_no": "5",
+          "section_title": "Continuous and discontinuous, apparent and non-apparent, easements",
+          "body": "Easements are either continuous or discontinuous, apparent or non-apparent. A continuous easement is one whose enjoyment is, or may be, continual without the act of man. A discontinuous easement is one that needs the act of man for its enjoyment. An apparent easement is one the existence of which is shown by some permanent sign which, upon careful inspection by a competent person, would be visible to him. A non-apparent easement is one that has no such sign."
+        },
+        {
+          "section_no": "6",
+          "section_title": "Easement for limited time or on condition",
+          "body": "An easement may be permanent, or for a term of years or other limited period, or subject to periodical interruption, or exercisable only at a certain place, or at certain times, or between certain hours, or for a particular purpose, or on condition that it shall commence or become void or voidable the happening of a specified event or the performance or non-performance of a specified act."
+        },
+        {
+          "section_no": "7",
+          "section_title": "Easements restrictive of certain rights",
+          "body": "Easements are restrictions of one or other of the following rights: (a) Exclusive right to enjoy. (b) Rights to advantages arising from situation."
+        }
+      ]
+    },
+    {
+      "chapter_title": "Chapter II The Imposition, Acquisition and Transfer of Easements",
+      "sections": [
+        {
+          "section_no": "8",
+          "section_title": "Who may impose easements",
+          "body": ""
+        },
+        {
+          "section_no": "9",
+          "section_title": "Servant owners",
+          "body": ""
+        },
+        {
+          "section_no": "10",
+          "section_title": "Lessor and mortgagor",
+          "body": ""
+        },
+        {
+          "section_no": "11",
+          "section_title": "Lessee",
+          "body": ""
+        },
+        {
+          "section_no": "12",
+          "section_title": "Who may acquire easements",
+          "body": ""
+        },
+        {
+          "section_no": "13",
+          "section_title": "Easements of necessity and quasi easements",
+          "body": ""
+        },
+        {
+          "section_no": "14",
+          "section_title": "Direction of way of necessity",
+          "body": ""
+        },
+        {
+          "section_no": "15",
+          "section_title": "Acquisition by prescription",
+          "body": ""
+        },
+        {
+          "section_no": "16",
+          "section_title": "Exclusion in favour of reversioner of servient heritage",
+          "body": ""
+        },
+        {
+          "section_no": "17",
+          "section_title": "Rights which cannot be acquired by prescription",
+          "body": ""
+        },
+        {
+          "section_no": "18",
+          "section_title": "Customary easements",
+          "body": ""
+        },
+        {
+          "section_no": "19",
+          "section_title": "Transfer of dominant heritage passes easement",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "Chapter III The Incidents of Easements",
+      "sections": [
+        {
+          "section_no": "20",
+          "section_title": "Rules controlled by contract or title",
+          "body": ""
+        },
+        {
+          "section_no": "21",
+          "section_title": "Bar to use unconnected with enjoyment",
+          "body": ""
+        },
+        {
+          "section_no": "22",
+          "section_title": "Exercise of easement. Confinement of exercise of easement",
+          "body": ""
+        },
+        {
+          "section_no": "23",
+          "section_title": "Right to alter mode of enjoyment",
+          "body": ""
+        },
+        {
+          "section_no": "24",
+          "section_title": "Right to do acts to secure enjoyment",
+          "body": ""
+        },
+        {
+          "section_no": "25",
+          "section_title": "Liability for expenses necessary for preservation of easement",
+          "body": ""
+        },
+        {
+          "section_no": "26",
+          "section_title": "Liability for damage from want of repair",
+          "body": ""
+        },
+        {
+          "section_no": "27",
+          "section_title": "Servient owner not bound to do anything",
+          "body": ""
+        },
+        {
+          "section_no": "28",
+          "section_title": "Extent of easements",
+          "body": ""
+        },
+        {
+          "section_no": "29",
+          "section_title": "Increase of easement",
+          "body": ""
+        },
+        {
+          "section_no": "30",
+          "section_title": "Partition of dominant heritage",
+          "body": ""
+        },
+        {
+          "section_no": "31",
+          "section_title": "Obstruction in case of excessive user",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "Chapter IV The Disturbance of Easements",
+      "sections": [
+        {
+          "section_no": "32",
+          "section_title": "Right to enjoyment without disturbance",
+          "body": ""
+        },
+        {
+          "section_no": "33",
+          "section_title": "Suit for disturbance of easement",
+          "body": ""
+        },
+        {
+          "section_no": "34",
+          "section_title": "When cause of action arises for removal of support",
+          "body": ""
+        },
+        {
+          "section_no": "35",
+          "section_title": "Injunction to restrain disturbance",
+          "body": ""
+        },
+        {
+          "section_no": "36",
+          "section_title": "Abatement of obstruction of easement",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "Chapter V The Extinction, Suspension and Revival of Easements",
+      "sections": [
+        {
+          "section_no": "37",
+          "section_title": "Extinction by dissolution of right of servant owner",
+          "body": ""
+        },
+        {
+          "section_no": "38",
+          "section_title": "Extinction by release",
+          "body": ""
+        },
+        {
+          "section_no": "39",
+          "section_title": "Extinction by revocation",
+          "body": ""
+        },
+        {
+          "section_no": "40",
+          "section_title": "Extinction on expiration of limited period or happening of dissolving condition",
+          "body": ""
+        },
+        {
+          "section_no": "41",
+          "section_title": "Extinction on termination of necessity",
+          "body": ""
+        },
+        {
+          "section_no": "42",
+          "section_title": "Extinction of useless easement",
+          "body": ""
+        },
+        {
+          "section_no": "43",
+          "section_title": "Extinction by permanent change in dominant heritage",
+          "body": ""
+        },
+        {
+          "section_no": "44",
+          "section_title": "Extinction on permanent alteration of servient heritage by superior force",
+          "body": ""
+        },
+        {
+          "section_no": "45",
+          "section_title": "Extinction by destruction of either heritage",
+          "body": ""
+        },
+        {
+          "section_no": "46",
+          "section_title": "Extinction by unity of ownership",
+          "body": ""
+        },
+        {
+          "section_no": "47",
+          "section_title": "Extinction by non-enjoyment",
+          "body": ""
+        },
+        {
+          "section_no": "48",
+          "section_title": "Extinction of accessory rights",
+          "body": ""
+        },
+        {
+          "section_no": "49",
+          "section_title": "Suspension of easement",
+          "body": ""
+        },
+        {
+          "section_no": "50",
+          "section_title": "Servient owner not entitled to require continuance",
+          "body": ""
+        },
+        {
+          "section_no": "51",
+          "section_title": "Revival of easement",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "Chapter VI Licenses",
+      "sections": [
+        {
+          "section_no": "52",
+          "section_title": "License defined",
+          "body": ""
+        },
+        {
+          "section_no": "53",
+          "section_title": "Who may grant license",
+          "body": ""
+        },
+        {
+          "section_no": "54",
+          "section_title": "Grant may be express or implied",
+          "body": ""
+        },
+        {
+          "section_no": "55",
+          "section_title": "Accessory licenses annexed by law",
+          "body": ""
+        },
+        {
+          "section_no": "56",
+          "section_title": "License when transferable",
+          "body": ""
+        },
+        {
+          "section_no": "57",
+          "section_title": "Grantor’s duty to disclose defects",
+          "body": ""
+        },
+        {
+          "section_no": "58",
+          "section_title": "Grantor’s duty not to render property unsafe",
+          "body": ""
+        },
+        {
+          "section_no": "59",
+          "section_title": "Grantor’s transferee not bound by license",
+          "body": ""
+        },
+        {
+          "section_no": "60",
+          "section_title": "License when revocable",
+          "body": ""
+        },
+        {
+          "section_no": "61",
+          "section_title": "Revocation express or implied",
+          "body": ""
+        },
+        {
+          "section_no": "62",
+          "section_title": "License when deemed revoked",
+          "body": ""
+        },
+        {
+          "section_no": "63",
+          "section_title": "Licensee’s rights on revocation",
+          "body": ""
+        },
+        {
+          "section_no": "64",
+          "section_title": "Licensee’s rights on eviction",
+          "body": ""
+        }
+      ]
+    }
+  ],
+  "source_file": "administrator60670d614d75e2e43264070cfeefe0cb.txt"
+}

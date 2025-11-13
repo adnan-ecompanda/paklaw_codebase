@@ -1,0 +1,657 @@
+{
+  "law_name": "The Patents Ordinance",
+  "year": 2000,
+  "chapters": [
+    {
+      "chapter_title": "PRELIMINARY",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title, extent and commencement.",
+          "body": "(1) This Ordinance may be called the Patents Ordinance, 2000. (2) It extends to the whole of Pakistan. (3) It shall come into force at once except the provisions relating to examination, sealing, grant and post-grant matters of the patents relating to chemical products intended for use in agriculture and medicines, but excluding the grant of exclusive marketing rights therefore and mail box filings which shall come into force on and from the first day of January, 2005."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Definitions.",
+          "body": "In this Ordinance, unless there is anything repugnant in the subject or context, (a) “assignee” includes the legal representative of deceased assignee and references to the assignee of any person includes references to the assignee of the legal representative or assignee of that person; (b) “Controller” means the Controller of Patents appointed under section 3; (c) “Convention application” means an application made in Pakistan within twelve months after the date of an application made in a Convention country, whether claiming single or multiple priorities from such application; (d) “Convention country” means a member country of the World Trade Organization or a country declared as such under section 86; (e) “date of advertisement”, wherever appearing in this Ordinance, shall be the date on which the patents’ journal is published or uploaded on website of the Intellectual Property Organization of Pakistan or printed in hard form in relevant part of the official Gazette, whichever is earlier; (f) “date of filing”, in relation to an application for a patent, means- (i) in case of an application which is post-dated or ante-dated under this Ordinance, the date to which it is so post-dated or ante-dated; and (ii) the date on which it is filed at the Patent Office or its branch office; (g) “District Court” has the meaning assigned to that expression by the Code of Civil Procedure, 1908 (Act V of 1908); (h) “exclusive licence” means a licence from a proprietor of, or an applicant of, a patent which confers on the licensee, or on the licensee and persons authorized by him, to the exclusion of all other persons, including the proprietor or applicant, any right in respect of the invention, to which the patent or application relates, and “exclusive licensee” and “non-exclusive licensee” shall be construed accordingly; (i) “invention” means any new and useful product or process, in any field of technology and includes any new and useful improvement of either of them; (j) “inventor” means the actual devisor of an invention, and joint inventor shall be construed accordingly; (k) “legal representative” means a person who in law represents the estate of a deceased person; (l) “patent agent” means an advocate or a person for the time being registered under this Ordinance as a patent agent; (m) “patentee” in relation to a patent, means the person or persons for the time being entered on the Register as the grantee or proprietor of the patent and includes any subsequent assignee or successor-in-interest of a patent recordal of whose name on the Register is pending with the Controller; (n) “patent of addition” means a patent of addition granted in accordance with section 39; (o) “Patent Office” means the Patent Office established, or deemed to have been established, under section 4; (p) “person” means any natural or juridical person and includes any association or body of individuals, whether incorporated or not; (q) “person interested” includes a person engaged in, or in promoting, research in the same field as that to which the invention relates; (r) “prescribed” means prescribed by rules made under this Ordinance; (s) “process” means any art, process or method or manner of new manufacture of a product; (t) “product” means any substance, article, apparatus or machine; (u) “published” means made available to the public whether in Pakistan or elsewhere and a document shall be taken to be published under any provision of this Ordinance, if it can be inspected as of right at any place in Pakistan by members of public, whether on payment or free of cost; (v) “Register” means the Register of Patents maintained under section 54; and (w) “rules” means rules made under this Ordinance."
+        }
+      ]
+    },
+    {
+      "chapter_title": "ADMINISTRATION",
+      "sections": [
+        {
+          "section_no": "3",
+          "section_title": "Appointment of Controller and other officers.",
+          "body": "(1) For the purposes of this Ordinance, the Federal Government shall, by notification in the official Gazette, appoint a Controller of Patents and such other officers as it may deem necessary for the efficient administration of this Ordinance."
+        },
+        {
+          "section_no": "4",
+          "section_title": "Patent Office.",
+          "body": "The Federal Government shall establish a Patent Office for the purpose of this Ordinance."
+        },
+        {
+          "section_no": "5",
+          "section_title": "Officers and employees incapable of an interest in a patent.",
+          "body": "No officer or employee of the Patent Office shall have any interest in any patent or application for a patent."
+        },
+        {
+          "section_no": "6",
+          "section_title": "Officers and employees not to divulge certain information or advise in certain matters.",
+          "body": "No officer or employee of the Patent Office shall divulge any information obtained in the course of his duties or advise any person in relation to any matter concerning a patent."
+        }
+      ]
+    },
+    {
+      "chapter_title": "PATENTABILITY",
+      "sections": [
+        {
+          "section_no": "7",
+          "section_title": "Patentable inventions.",
+          "body": "An invention shall be patentable if it is new, involves an inventive step and is capable of industrial application."
+        },
+        {
+          "section_no": "8",
+          "section_title": "Novelty.",
+          "body": "An invention is considered new if it is not anticipated by prior art."
+        },
+        {
+          "section_no": "9",
+          "section_title": "Inventive step.",
+          "body": "An invention involves an inventive step if it is not obvious to a person skilled in the art."
+        },
+        {
+          "section_no": "10",
+          "section_title": "Industrial application.",
+          "body": "An invention is capable of industrial application if it can be made or used in any kind of industry."
+        }
+      ]
+    },
+    {
+      "chapter_title": "APPLICATIONS",
+      "sections": [
+        {
+          "section_no": "11",
+          "section_title": "Persons entitled to make an application for patent.",
+          "body": "Any person who is the inventor or his assignee may make an application for a patent."
+        },
+        {
+          "section_no": "12",
+          "section_title": "Right to patent for invention made by employee.",
+          "body": "An employee shall have the right to a patent for an invention made in the course of his employment unless otherwise agreed."
+        },
+        {
+          "section_no": "13",
+          "section_title": "Application for patent.",
+          "body": "An application for a patent shall be made in the prescribed form and shall be accompanied by the prescribed fee."
+        },
+        {
+          "section_no": "14",
+          "section_title": "Complete and provisional application.",
+          "body": "An applicant may file a complete application or a provisional application."
+        },
+        {
+          "section_no": "15",
+          "section_title": "Contents of specification.",
+          "body": "The specification shall disclose the invention in a manner sufficiently clear and complete for it to be performed by a person skilled in the art."
+        }
+      ]
+    },
+    {
+      "chapter_title": "EXAMINATION OF APPLICATIONS",
+      "sections": [
+        {
+          "section_no": "16",
+          "section_title": "Examination of application.",
+          "body": "The Controller shall examine the application and may require the applicant to furnish additional information."
+        },
+        {
+          "section_no": "17",
+          "section_title": "Reference to other patent.",
+          "body": "The Controller may refer to other patents in the examination of the application."
+        },
+        {
+          "section_no": "18",
+          "section_title": "Substitution of applicants, etc.",
+          "body": "The Controller may allow substitution of applicants or other changes in the application."
+        },
+        {
+          "section_no": "19",
+          "section_title": "Time for putting application in order of acceptance.",
+          "body": "[Omitted]"
+        },
+        {
+          "section_no": "20",
+          "section_title": "Power of Controller to require certain information and documents relating to foreign application.",
+          "body": "The Controller may require the applicant to provide information and documents relating to any foreign application."
+        },
+        {
+          "section_no": "21",
+          "section_title": "Acceptance of complete Specification.",
+          "body": "The Controller shall accept the complete specification if it meets the requirements of this Ordinance."
+        },
+        {
+          "section_no": "22",
+          "section_title": "Effect of acceptance of complete Specification.",
+          "body": "The acceptance of a complete specification shall confer certain rights on the applicant."
+        }
+      ]
+    },
+    {
+      "chapter_title": "OPPOSITION TO GRANT OF PATENT",
+      "sections": [
+        {
+          "section_no": "23",
+          "section_title": "Opposition to the grant of patent.",
+          "body": "Any person may oppose the grant of a patent by filing a notice of opposition."
+        },
+        {
+          "section_no": "24",
+          "section_title": "Third Party Observations on Patentability.",
+          "body": "Any third party may submit observations regarding the patentability of an invention."
+        }
+      ]
+    },
+    {
+      "chapter_title": "PROVISIONS FOR SECRECY OF CERTAIN INVENTIONS",
+      "sections": [
+        {
+          "section_no": "25",
+          "section_title": "Information prejudicial to defence of Pakistan or safety of public.",
+          "body": "The Controller may withhold information relating to inventions that are prejudicial to the defence of Pakistan or public safety."
+        },
+        {
+          "section_no": "26",
+          "section_title": "Residents not to apply outside Pakistan without permission.",
+          "body": "No resident of Pakistan shall apply for a patent outside Pakistan without the permission of the Controller."
+        }
+      ]
+    },
+    {
+      "chapter_title": "GRANT AND SEALING OF PATENT",
+      "sections": [
+        {
+          "section_no": "27",
+          "section_title": "Grant and sealing of patent.",
+          "body": "The Controller shall grant and seal a patent if the application meets the requirements of this Ordinance."
+        },
+        {
+          "section_no": "28",
+          "section_title": "Amendment of patent granted to a deceased person.",
+          "body": "The Controller may amend a patent granted to a deceased person."
+        },
+        {
+          "section_no": "29",
+          "section_title": "Date of patent.",
+          "body": "The date of a patent shall be the date on which the application is filed."
+        },
+        {
+          "section_no": "30",
+          "section_title": "Rights conferred by patent.",
+          "body": "A patent shall confer on the patentee the right to exclude others from making, using, selling, or distributing the patented invention."
+        },
+        {
+          "section_no": "31",
+          "section_title": "Term of patent.",
+          "body": "The term of a patent shall be twenty years from the date of filing."
+        },
+        {
+          "section_no": "32",
+          "section_title": "Grant of patents to be subjected to certain conditions.",
+          "body": "The grant of a patent shall be subject to conditions as prescribed."
+        }
+      ]
+    },
+    {
+      "chapter_title": "MISCELLANEOUS PROVISIONS AS TO RIGHTS IN INVENTIONS",
+      "sections": [
+        {
+          "section_no": "33",
+          "section_title": "Priority date in case of invention obtained from other person.",
+          "body": "The priority date for an invention obtained from another person shall be the date of the application made by that person."
+        },
+        {
+          "section_no": "34",
+          "section_title": "Grant of patent to two or more persons.",
+          "body": "A patent may be granted to two or more persons jointly."
+        },
+        {
+          "section_no": "35",
+          "section_title": "Power of Controller to give directions to co-owners.",
+          "body": "The Controller may give directions to co-owners of a patent regarding the exercise of their rights."
+        },
+        {
+          "section_no": "36",
+          "section_title": "Power of Controller or Court to determine the matter in dispute between employer and employee.",
+          "body": "The Controller or the Court may determine disputes regarding rights to a patent between an employer and employee."
+        },
+        {
+          "section_no": "37",
+          "section_title": "Avoidance of restrictive condition in contracts.",
+          "body": "Any condition in a contract that restricts the rights of a patentee shall be void."
+        },
+        {
+          "section_no": "38",
+          "section_title": "Determination of certain contracts.",
+          "body": "The Controller may determine the validity of certain contracts related to patents."
+        }
+      ]
+    },
+    {
+      "chapter_title": "PATENTS OF ADDITION",
+      "sections": [
+        {
+          "section_no": "39",
+          "section_title": "Patents of addition.",
+          "body": "A patent of addition may be granted for an improvement or modification of an existing patent."
+        },
+        {
+          "section_no": "40",
+          "section_title": "Term of patents of addition.",
+          "body": "The term of a patent of addition shall be the same as the term of the main patent."
+        },
+        {
+          "section_no": "41",
+          "section_title": "Patent of addition not to be refused, etc.",
+          "body": "A patent of addition shall not be refused on the ground that the main patent is invalid."
+        }
+      ]
+    },
+    {
+      "chapter_title": "AMENDMENT OF SPECIFICATION",
+      "sections": [
+        {
+          "section_no": "42",
+          "section_title": "Amendment of specification with leave of Controller.",
+          "body": "A specification may be amended with the leave of the Controller."
+        },
+        {
+          "section_no": "43",
+          "section_title": "Amendment of specification with leave of High Court.",
+          "body": "A specification may be amended with the leave of the High Court."
+        },
+        {
+          "section_no": "44",
+          "section_title": "Supplementary provisions as to amendment of specification.",
+          "body": "The Controller may make rules regarding the amendment of specifications."
+        }
+      ]
+    },
+    {
+      "chapter_title": "RESTORATION OF LAPSED PATENTS",
+      "sections": [
+        {
+          "section_no": "45",
+          "section_title": "Restoration of lapsed patents.",
+          "body": "A lapsed patent may be restored under the conditions prescribed."
+        }
+      ]
+    },
+    {
+      "chapter_title": "REVOCATION AND SURRENDER OF PATENTS",
+      "sections": [
+        {
+          "section_no": "46",
+          "section_title": "Revocation of patent by High Court.",
+          "body": "The High Court may revoke a patent on certain grounds."
+        },
+        {
+          "section_no": "47",
+          "section_title": "Revocation of patent by Controller.",
+          "body": "The Controller may revoke a patent if it is found to be invalid."
+        },
+        {
+          "section_no": "48",
+          "section_title": "Revocation of patent by the Federal Government.",
+          "body": "The Federal Government may revoke a patent in the public interest."
+        },
+        {
+          "section_no": "49",
+          "section_title": "Revocation of surrendered patent by Controller.",
+          "body": "The Controller may revoke a patent that has been surrendered."
+        }
+      ]
+    },
+    {
+      "chapter_title": "POWERS OF CONTROLLER",
+      "sections": [
+        {
+          "section_no": "50",
+          "section_title": "Controller to have certain powers of a civil court.",
+          "body": "The Controller shall have the powers of a civil court for the purposes of this Ordinance."
+        },
+        {
+          "section_no": "51",
+          "section_title": "Power of Controller to correct clerical errors.",
+          "body": "The Controller may correct clerical errors in any document."
+        },
+        {
+          "section_no": "52",
+          "section_title": "Evidence before Controller.",
+          "body": "The Controller may require evidence to be presented in any matter before him."
+        },
+        {
+          "section_no": "53",
+          "section_title": "Exercise of discretionary powers by Controller.",
+          "body": "The Controller shall exercise his discretionary powers in accordance with the provisions of this Ordinance."
+        }
+      ]
+    },
+    {
+      "chapter_title": "REGISTER OF PATENTS",
+      "sections": [
+        {
+          "section_no": "54",
+          "section_title": "Register of Patents.",
+          "body": "The Controller shall maintain a Register of Patents."
+        },
+        {
+          "section_no": "55",
+          "section_title": "Registration of assignments, transmissions, etc.",
+          "body": "The Controller shall register assignments and transmissions of patents."
+        },
+        {
+          "section_no": "56",
+          "section_title": "Power of High Court regarding rectification of the Register.",
+          "body": "The High Court may order the rectification of the Register."
+        },
+        {
+          "section_no": "57",
+          "section_title": "Inspection of, and extracts from, the Register, etc.",
+          "body": "Any person may inspect the Register and obtain extracts from it."
+        }
+      ]
+    },
+    {
+      "chapter_title": "COMPULSORY LICENCES, LICENCES OF RIGHT, EXPLOITING OF PATENTS AND REVOCATION",
+      "sections": [
+        {
+          "section_no": "58",
+          "section_title": "Exploitation by a Government agency or third person.",
+          "body": "A Government agency or third person may exploit a patent under certain conditions."
+        },
+        {
+          "section_no": "59",
+          "section_title": "Powers of Controller in granting compulsory licenses.",
+          "body": "The Controller may grant compulsory licenses under the conditions prescribed."
+        }
+      ]
+    },
+    {
+      "chapter_title": "PROCEEDINGS FOR INFRINGEMENT OF PATENTS",
+      "sections": [
+        {
+          "section_no": "60",
+          "section_title": "Suit for infringement of a patent.",
+          "body": "A patentee may file a suit for infringement of his patent."
+        },
+        {
+          "section_no": "61",
+          "section_title": "Reliefs in suits for infringement.",
+          "body": "The Court may grant reliefs in suits for infringement as prescribed."
+        },
+        {
+          "section_no": "62",
+          "section_title": "Damages not to be awarded against defendant in certain cases.",
+          "body": "Damages shall not be awarded against a defendant in certain cases as prescribed."
+        },
+        {
+          "section_no": "63",
+          "section_title": "Relief for infringement of partially valid specification.",
+          "body": "Relief may be granted for infringement of a partially valid specification."
+        },
+        {
+          "section_no": "64",
+          "section_title": "Proceedings for infringement by exclusive licensee.",
+          "body": "An exclusive licensee may initiate proceedings for infringement."
+        },
+        {
+          "section_no": "65",
+          "section_title": "Certificate of contested validity of specification.",
+          "body": "The Court may issue a certificate regarding the contested validity of a specification."
+        },
+        {
+          "section_no": "66",
+          "section_title": "Remedy for groundless threats of infringement proceedings.",
+          "body": "A remedy shall be available for groundless threats of infringement proceedings."
+        },
+        {
+          "section_no": "67",
+          "section_title": "Power of Court to make declaration as to non infringement.",
+          "body": "The Court may declare that a patent is not infringed."
+        },
+        {
+          "section_no": "68",
+          "section_title": "Power of Court to appoint scientific advisers.",
+          "body": "The Court may appoint scientific advisers in proceedings for infringement."
+        }
+      ]
+    },
+    {
+      "chapter_title": "APPEALS",
+      "sections": [
+        {
+          "section_no": "69",
+          "section_title": "Appeals.",
+          "body": "Any person aggrieved by a decision of the Controller may appeal to the High Court."
+        },
+        {
+          "section_no": "70",
+          "section_title": "Procedure for hearing appeals.",
+          "body": "The procedure for hearing appeals shall be as prescribed."
+        }
+      ]
+    },
+    {
+      "chapter_title": "PENALTIES",
+      "sections": [
+        {
+          "section_no": "71",
+          "section_title": "Penalty for contravention of secrecy provisions relating to certain inventions.",
+          "body": "Any person contravening the secrecy provisions shall be liable to penalties as prescribed."
+        },
+        {
+          "section_no": "72",
+          "section_title": "Penalty for false entry in any register, etc.",
+          "body": "Any person making a false entry in any register shall be liable to penalties."
+        },
+        {
+          "section_no": "73",
+          "section_title": "Penalty for false representation.",
+          "body": "Any person making a false representation shall be liable to penalties."
+        },
+        {
+          "section_no": "74",
+          "section_title": "Penalty for wrongful use of Words “patent office”.",
+          "body": "Any person wrongfully using the words 'patent office' shall be liable to penalties."
+        },
+        {
+          "section_no": "75",
+          "section_title": "Penalty for refusal or failure to supply information.",
+          "body": "Any person refusing or failing to supply information shall be liable to penalties."
+        },
+        {
+          "section_no": "76",
+          "section_title": "Penalty for contravention of section 20.",
+          "body": "Any person contravening section 20 shall be liable to penalties."
+        },
+        {
+          "section_no": "77",
+          "section_title": "Penalty for practice by non-registered patent agents.",
+          "body": "Any non-registered patent agent practicing shall be liable to penalties."
+        },
+        {
+          "section_no": "78",
+          "section_title": "Offences by companies etc.",
+          "body": "Companies committing offences under this Ordinance shall be liable to penalties."
+        }
+      ]
+    },
+    {
+      "chapter_title": "PATENT AGENTS",
+      "sections": [
+        {
+          "section_no": "79",
+          "section_title": "Register of patent agents.",
+          "body": "The Controller shall maintain a register of patent agents."
+        },
+        {
+          "section_no": "80",
+          "section_title": "Registration as patent agent.",
+          "body": "Any person may apply for registration as a patent agent."
+        },
+        {
+          "section_no": "81",
+          "section_title": "Subscription and verification of certain documents by patent agents.",
+          "body": "Patent agents shall subscribe and verify certain documents as prescribed."
+        },
+        {
+          "section_no": "82",
+          "section_title": "Restrictions on practice as patent agent.",
+          "body": "Certain restrictions shall apply to the practice of patent agents."
+        },
+        {
+          "section_no": "83",
+          "section_title": "Removal from register of patent agents and restoration.",
+          "body": "The Controller may remove a patent agent from the register and restore them under certain conditions."
+        },
+        {
+          "section_no": "84",
+          "section_title": "Power of controller to refuse to recognize as agent.",
+          "body": "The Controller may refuse to recognize a person as a patent agent."
+        },
+        {
+          "section_no": "85",
+          "section_title": "Saving in respect of other persons authorize to act as agents.",
+          "body": "Nothing in this Ordinance shall affect the rights of other persons authorized to act as agents."
+        }
+      ]
+    },
+    {
+      "chapter_title": "INTERNATIONAL ARRANGEMENTS",
+      "sections": [
+        {
+          "section_no": "86",
+          "section_title": "Power of the Federal Government to declare a country as Convention country.",
+          "body": "The Federal Government may declare a country as a Convention country."
+        },
+        {
+          "section_no": "87",
+          "section_title": "Supplementary provisions as to Convention application.",
+          "body": "Supplementary provisions shall apply to Convention applications."
+        },
+        {
+          "section_no": "88",
+          "section_title": "Documents to be filed with a Convention application.",
+          "body": "Certain documents shall be required to be filed with a Convention application."
+        }
+      ]
+    },
+    {
+      "chapter_title": "MISCELLANEOUS",
+      "sections": [
+        {
+          "section_no": "89",
+          "section_title": "Fees.",
+          "body": "The fees for applications and other matters shall be as prescribed."
+        },
+        {
+          "section_no": "90",
+          "section_title": "Restrictions upon publication of specifications, etc.",
+          "body": "There shall be restrictions upon the publication of specifications."
+        },
+        {
+          "section_no": "91",
+          "section_title": "Reports of examiners to be confidential.",
+          "body": "Reports of examiners shall be confidential."
+        },
+        {
+          "section_no": "92",
+          "section_title": "Publication of Patented Inventions.",
+          "body": "Patented inventions shall be published as prescribed."
+        },
+        {
+          "section_no": "93",
+          "section_title": "Power of Controller to call for information from patentees.",
+          "body": "The Controller may call for information from patentees as necessary."
+        },
+        {
+          "section_no": "94",
+          "section_title": "Evidence of entries, documents, etc.",
+          "body": "Entries and documents shall be admissible as evidence."
+        },
+        {
+          "section_no": "95",
+          "section_title": "Declaration by infants, lunatics, etc.",
+          "body": "Certain declarations may be made by infants or lunatics as prescribed."
+        },
+        {
+          "section_no": "96",
+          "section_title": "Service of notice, etc., by post.",
+          "body": "Notices may be served by post as prescribed."
+        },
+        {
+          "section_no": "97",
+          "section_title": "Security for cost.",
+          "body": "Security for costs may be required in certain proceedings."
+        },
+        {
+          "section_no": "98",
+          "section_title": "Transmission of orders of High Court or Court to the Controller.",
+          "body": "Orders of the High Court or Court shall be transmitted to the Controller."
+        },
+        {
+          "section_no": "99",
+          "section_title": "Transmission of copies of specifications, etc. and inspection thereof.",
+          "body": "Copies of specifications shall be transmitted and may be inspected."
+        },
+        {
+          "section_no": "100",
+          "section_title": "Information relating to patents.",
+          "body": "Information relating to patents shall be made available as prescribed."
+        },
+        {
+          "section_no": "101",
+          "section_title": "Loss or destruction of patents.",
+          "body": "Provisions shall apply in case of loss or destruction of patents."
+        },
+        {
+          "section_no": "102",
+          "section_title": "Patent to bind the Government.",
+          "body": "Patents shall bind the Government."
+        },
+        {
+          "section_no": "103",
+          "section_title": "Right of the Government to sell or use forfeited articles.",
+          "body": "The Government shall have the right to sell or use forfeited articles."
+        },
+        {
+          "section_no": "104",
+          "section_title": "Power of High Court to make rules.",
+          "body": "The High Court may make rules as necessary."
+        },
+        {
+          "section_no": "105",
+          "section_title": "Power of the Federal Government to make rules.",
+          "body": "The Federal Government may make rules as necessary."
+        },
+        {
+          "section_no": "106",
+          "section_title": "Repeal and savings.",
+          "body": "Provisions shall apply regarding repeal and savings."
+        },
+        {
+          "section_no": "107",
+          "section_title": "Acts done in good faith.",
+          "body": "Acts done in good faith shall not be questioned."
+        },
+        {
+          "section_no": "108",
+          "section_title": "Removal of difficulties.",
+          "body": "Provisions shall apply for the removal of difficulties."
+        }
+      ]
+    }
+  ],
+  "source_file": "administrator6b30eb225e07601de7078671e1cc7022.txt"
+}

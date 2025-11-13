@@ -1,0 +1,127 @@
+{
+  "law_name": "THE VACCINATION ACT",
+  "year": 1880,
+  "chapters": [
+    {
+      "chapter_title": "Preamble",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title. Application",
+          "body": "This Act may be called the Vaccination Act, 1880: and it shall apply only to such municipalities and cantonments situate in the Punjab, the North-West Frontier and the district of Sylhet as it may be extended to in manner hereinafter provided."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Interpretation-clause",
+          "body": "In this Act unless there is something repugnant in the subject or context, (1) 'Municipal Commissioners.' the expression 'Municipal Commissioners' means a body of Municipal Commissioners or a Municipal Committee constituted under the provisions of any enactment for the time being in force: (2) 'parent.' 'parent' means the father of a legitimate child and the mother of an illegitimate child: (3) 'guardian'. 'guardian' includes any person who has accepted or assumed the care or custody of any child: (4) 'unprotected child.' 'unprotected child' means a child who has not been protected from small-pox by having had that disease either naturally or by inoculation, or by having been successfully vaccinated, and who has not been certified under this Act to be insusceptible to vaccination: (5) 'inoculation.' 'inoculation' means any operation performed with the object of producing the disease of small-pox in any person by means of variolous matter."
+        },
+        {
+          "section_no": "3",
+          "section_title": "Extension of Act to municipalities",
+          "body": "A majority in number of the persons present at a meeting of the Municipal Commissioners specially convened in this behalf may apply to the Provincial Government to extend this Act to the whole or any part of a municipality, and thereupon the Provincial Government may, if it thinks fit, by notification published in the official Gazette, declare its intention to extend this Act in the manner proposed."
+        },
+        {
+          "section_no": "4",
+          "section_title": "Extension to cantonments",
+          "body": "The Provincial Government may, by notification in the official Gazette, extend this Act to the whole or any part of a military cantonment."
+        },
+        {
+          "section_no": "5",
+          "section_title": "Power to withdraw local area from operation of Act",
+          "body": "The Provincial Government may, by notification in the official Gazette, withdraw any local area in a municipality or any local area in a cantonment, from the operation of this Act."
+        },
+        {
+          "section_no": "6",
+          "section_title": "Prohibition of inoculation",
+          "body": "In any local area to which the provisions of this Act apply, inoculation shall be prohibited; and no person who has undergone inoculation shall enter such area before the lapse of forty days from the date of the operation, without a certificate from a medical practitioner."
+        },
+        {
+          "section_no": "7",
+          "section_title": "Vaccination circles",
+          "body": "Every local area to which this Act applies shall be a vaccination circle, or shall in manner hereinafter provided be divided into a number of such circles; one or more vaccinators shall be appointed in manner hereinafter provided for each such circle."
+        },
+        {
+          "section_no": "8",
+          "section_title": "Private vaccinators",
+          "body": "The Commissioner may by written licence authorize private vaccinators to perform vaccination in any vaccination-circle, and may suspend or cancel any such licence."
+        },
+        {
+          "section_no": "9",
+          "section_title": "Unprotected children to be vaccinated",
+          "body": "When any unprotected child, having attained the age of 6 months, has resided for a period of one month during the vaccination-season in any local area to which the provisions of this Act apply, the parent or guardian of such child shall take it, or cause it be taken, to a vaccinator to be vaccinated."
+        },
+        {
+          "section_no": "10",
+          "section_title": "Inspection after vaccination",
+          "body": "The parent or guardian of every child which has been vaccinated under section nine shall, on the date of inspection stated in the memorandum, take the child, or cause it to be taken, to a vaccinator for inspection."
+        },
+        {
+          "section_no": "11",
+          "section_title": "Procedure when vaccination is successful",
+          "body": "When it is ascertained at the time of inspecting a child under section ten that the vaccination has been successful, a certificate shall be delivered by the vaccinator to the parent or guardian of such child to that effect."
+        },
+        {
+          "section_no": "12",
+          "section_title": "Procedure when vaccination is unsuccessful",
+          "body": "When it is ascertained as aforesaid that the vaccination has been unsuccessful, the parent or guardian shall, if the vaccinator so direct, cause the child to be forthwith again vaccinated."
+        },
+        {
+          "section_no": "13",
+          "section_title": "Procedure when child is unfit for vaccination",
+          "body": "A certificate granted under section nine showing the unfitness of a child for vaccination shall remain in force for the period stated therein."
+        },
+        {
+          "section_no": "14",
+          "section_title": "Certificates of insusceptibility of successful vaccination",
+          "body": ""
+        },
+        {
+          "section_no": "15",
+          "section_title": "What lymph to be used.",
+          "body": ""
+        },
+        {
+          "section_no": "16",
+          "section_title": "No fee to be charged except by private vaccinator Proviso",
+          "body": ""
+        },
+        {
+          "section_no": "17",
+          "section_title": "Duties of Superintendent of vaccination",
+          "body": "Notice to parent or guardian neglecting to comply with Act."
+        },
+        {
+          "section_no": "18",
+          "section_title": "Order by Magistrate when notice not complied with",
+          "body": "Procedure when order not obeyed."
+        },
+        {
+          "section_no": "19",
+          "section_title": "Power to make rules for municipalities",
+          "body": ""
+        },
+        {
+          "section_no": "20",
+          "section_title": "Power to make rules for cantonments",
+          "body": ""
+        },
+        {
+          "section_no": "21",
+          "section_title": "What rules under sections 19 and 20 may provide for",
+          "body": ""
+        },
+        {
+          "section_no": "22",
+          "section_title": "Punishment of offences",
+          "body": ""
+        },
+        {
+          "section_no": "23",
+          "section_title": "Municipal funds to receive fees and meet expenditure",
+          "body": ""
+        }
+      ]
+    }
+  ],
+  "source_file": "administratorc4adcc448feb6542f54a1507ff2b6809.txt"
+}

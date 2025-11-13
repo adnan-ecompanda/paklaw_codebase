@@ -1,0 +1,962 @@
+{
+  "law_name": "THE NEGOTIABLE INSTRUMENTS ACT",
+  "year": 1881,
+  "chapters": [
+    {
+      "chapter_title": "PRELIMINARY",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title",
+          "body": "This Act may be called the Negotiable Instruments Act, 1881."
+        },
+        {
+          "section_no": "1",
+          "section_title": "Local extent",
+          "body": "It extends to the whole of Pakistan."
+        },
+        {
+          "section_no": "1",
+          "section_title": "Saving of usages relating to hundis, etc.",
+          "body": "Nothing herein contained affects the provisions of sections 24 and 35 of the State Bank of Pakistan Act, 1956 (XXXIII of 1956)."
+        },
+        {
+          "section_no": "1",
+          "section_title": "Commencement",
+          "body": "It shall come into force on the first day of March, 1882."
+        },
+        {
+          "section_no": "1A",
+          "section_title": "Application of the Act",
+          "body": "Every negotiable instrument shall be governed by the provisions of this Act, and no usage or custom at variance with any such provision shall apply to any such instrument."
+        },
+        {
+          "section_no": "2",
+          "section_title": "[Repealed.]",
+          "body": "Rep. by the Amending Act, 1891 (XII of 1891)."
+        },
+        {
+          "section_no": "3",
+          "section_title": "Interpretation clause",
+          "body": "In this Act, unless there is anything repugnant in the subject or context, 'accommodation party' means a person who has signed a negotiable instrument as a maker, drawer, acceptor or indorser without receiving the value thereof and for the purpose of lending his name to some other person."
+        }
+      ]
+    },
+    {
+      "chapter_title": "OF NOTES, BILLS AND CHEQUES",
+      "sections": [
+        {
+          "section_no": "4",
+          "section_title": "Promissory note",
+          "body": ""
+        },
+        {
+          "section_no": "5",
+          "section_title": "Bill of exchange",
+          "body": ""
+        },
+        {
+          "section_no": "6",
+          "section_title": "Cheque",
+          "body": ""
+        },
+        {
+          "section_no": "7",
+          "section_title": "Drawer, Drawee, Drawee in case of need, Acceptor, Acceptor for honour, Payee",
+          "body": ""
+        },
+        {
+          "section_no": "8",
+          "section_title": "Holder",
+          "body": ""
+        },
+        {
+          "section_no": "9",
+          "section_title": "Holder in due course",
+          "body": ""
+        },
+        {
+          "section_no": "10",
+          "section_title": "Payment in due course",
+          "body": ""
+        },
+        {
+          "section_no": "11",
+          "section_title": "Inland instrument",
+          "body": ""
+        },
+        {
+          "section_no": "12",
+          "section_title": "Foreign instrument",
+          "body": ""
+        },
+        {
+          "section_no": "13",
+          "section_title": "Negotiable instrument",
+          "body": ""
+        },
+        {
+          "section_no": "14",
+          "section_title": "Negotiation",
+          "body": ""
+        },
+        {
+          "section_no": "15",
+          "section_title": "Indorsement",
+          "body": ""
+        },
+        {
+          "section_no": "16",
+          "section_title": "Indorsement in blank and in full",
+          "body": ""
+        },
+        {
+          "section_no": "17",
+          "section_title": "Ambiguous instruments",
+          "body": ""
+        },
+        {
+          "section_no": "18",
+          "section_title": "Where amount is stated differently in figures and words",
+          "body": ""
+        },
+        {
+          "section_no": "19",
+          "section_title": "Instruments payable on demand",
+          "body": ""
+        },
+        {
+          "section_no": "20",
+          "section_title": "Inchoate stamped instrument",
+          "body": ""
+        },
+        {
+          "section_no": "21",
+          "section_title": "At sight, On presentment, After sight",
+          "body": ""
+        },
+        {
+          "section_no": "21A",
+          "section_title": "When note or bill payable on demand is overdue",
+          "body": ""
+        },
+        {
+          "section_no": "21B",
+          "section_title": "A note or bill payable at a determinable future time",
+          "body": ""
+        },
+        {
+          "section_no": "21C",
+          "section_title": "Anti-dating and post-dating",
+          "body": ""
+        },
+        {
+          "section_no": "22",
+          "section_title": "Maturity",
+          "body": "Days of grace."
+        },
+        {
+          "section_no": "23",
+          "section_title": "Calculating maturity of bill or note payable so many months after date or sight",
+          "body": ""
+        },
+        {
+          "section_no": "24",
+          "section_title": "Calculating maturity of bill or note payable so many days after date or sight",
+          "body": ""
+        },
+        {
+          "section_no": "25",
+          "section_title": "When day of maturity is a holiday",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "PARTIES TO NOTES, BILL AND CHEQUES",
+      "sections": [
+        {
+          "section_no": "26",
+          "section_title": "Capacity to make, etc., promissory notes, etc.",
+          "body": "Minor."
+        },
+        {
+          "section_no": "27",
+          "section_title": "Agency",
+          "body": ""
+        },
+        {
+          "section_no": "27A",
+          "section_title": "Authority of partners",
+          "body": ""
+        },
+        {
+          "section_no": "28",
+          "section_title": "Liability of agent signing",
+          "body": ""
+        },
+        {
+          "section_no": "28A",
+          "section_title": "Transferor by delivery and transferee",
+          "body": ""
+        },
+        {
+          "section_no": "29",
+          "section_title": "Liability of legal representative signing",
+          "body": ""
+        },
+        {
+          "section_no": "29A",
+          "section_title": "Signature essential to liability",
+          "body": ""
+        },
+        {
+          "section_no": "29B",
+          "section_title": "Forged or unauthorized signature",
+          "body": ""
+        },
+        {
+          "section_no": "29C",
+          "section_title": "Stranger signing instrument presumed to be indorser",
+          "body": ""
+        },
+        {
+          "section_no": "30",
+          "section_title": "Liability of drawer",
+          "body": ""
+        },
+        {
+          "section_no": "31",
+          "section_title": "Liability of drawee of cheque",
+          "body": ""
+        },
+        {
+          "section_no": "32",
+          "section_title": "Liability of maker of note and acceptor of bill",
+          "body": ""
+        },
+        {
+          "section_no": "33",
+          "section_title": "Only drawee can be acceptor except in need or for honour",
+          "body": ""
+        },
+        {
+          "section_no": "34",
+          "section_title": "Acceptance by several drawees not partners",
+          "body": ""
+        },
+        {
+          "section_no": "35",
+          "section_title": "Liability of indorser",
+          "body": ""
+        },
+        {
+          "section_no": "36",
+          "section_title": "Liability of prior parties to holder in due course",
+          "body": ""
+        },
+        {
+          "section_no": "37",
+          "section_title": "Maker, drawer and acceptor principals",
+          "body": ""
+        },
+        {
+          "section_no": "38",
+          "section_title": "Prior party a principal in respect on each subsequent party",
+          "body": ""
+        },
+        {
+          "section_no": "38A",
+          "section_title": "Liability of accommodation party and position of accommodation party",
+          "body": ""
+        },
+        {
+          "section_no": "39",
+          "section_title": "Suretyship",
+          "body": ""
+        },
+        {
+          "section_no": "40",
+          "section_title": "Discharge of indorser’s liability",
+          "body": ""
+        },
+        {
+          "section_no": "41",
+          "section_title": "Acceptor bound although indorsement forged",
+          "body": ""
+        },
+        {
+          "section_no": "42",
+          "section_title": "Acceptance of bill drawn in fictitious name",
+          "body": ""
+        },
+        {
+          "section_no": "43",
+          "section_title": "Negotiable instrument made, etc., without consideration",
+          "body": ""
+        },
+        {
+          "section_no": "44",
+          "section_title": "Partial absence or failure of money consideration",
+          "body": ""
+        },
+        {
+          "section_no": "45",
+          "section_title": "Partial failure of consideration not consisting of money",
+          "body": ""
+        },
+        {
+          "section_no": "45A",
+          "section_title": "Holder’s right to duplicate of lost bill",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "OF NEGOTIATION",
+      "sections": [
+        {
+          "section_no": "46",
+          "section_title": "Delivery",
+          "body": ""
+        },
+        {
+          "section_no": "47",
+          "section_title": "Negotiation by delivery",
+          "body": ""
+        },
+        {
+          "section_no": "48",
+          "section_title": "Negotiation by indorsement",
+          "body": ""
+        },
+        {
+          "section_no": "49",
+          "section_title": "Conversion of indorsement in blank into indorsement in full",
+          "body": ""
+        },
+        {
+          "section_no": "50",
+          "section_title": "Effect of indorsement",
+          "body": ""
+        },
+        {
+          "section_no": "51",
+          "section_title": "Who may negotiate",
+          "body": ""
+        },
+        {
+          "section_no": "52",
+          "section_title": "Indorser who excludes his own liability or makes it conditional",
+          "body": ""
+        },
+        {
+          "section_no": "53",
+          "section_title": "Holder claiming through holder in due course",
+          "body": ""
+        },
+        {
+          "section_no": "53A",
+          "section_title": "Rights of holder in due course",
+          "body": ""
+        },
+        {
+          "section_no": "54",
+          "section_title": "Instrument indorsed in blank",
+          "body": ""
+        },
+        {
+          "section_no": "55",
+          "section_title": "Conversion of indorsement in blank into indorsement in full",
+          "body": ""
+        },
+        {
+          "section_no": "56",
+          "section_title": "Requisites of indorsement",
+          "body": ""
+        },
+        {
+          "section_no": "57",
+          "section_title": "Legal representative cannot by delivery only negotiate instrument indorsed by deceased",
+          "body": ""
+        },
+        {
+          "section_no": "57A",
+          "section_title": "Negotiation of instrument to party already liable thereon",
+          "body": ""
+        },
+        {
+          "section_no": "57B",
+          "section_title": "Rights of holder",
+          "body": ""
+        },
+        {
+          "section_no": "58",
+          "section_title": "Defective title",
+          "body": ""
+        },
+        {
+          "section_no": "59",
+          "section_title": "Instrument acquired after dishonour or when overdue",
+          "body": "Accommodation note or bill."
+        },
+        {
+          "section_no": "60",
+          "section_title": "Instrument negotiable till payment or satisfaction",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "OF PRESENTMENT",
+      "sections": [
+        {
+          "section_no": "61",
+          "section_title": "Presentment or acceptance",
+          "body": ""
+        },
+        {
+          "section_no": "62",
+          "section_title": "Presentment of promissory note for sight",
+          "body": ""
+        },
+        {
+          "section_no": "63",
+          "section_title": "Drawee’s time for deliberation",
+          "body": ""
+        },
+        {
+          "section_no": "64",
+          "section_title": "Presentment for payment",
+          "body": ""
+        },
+        {
+          "section_no": "65",
+          "section_title": "Hours for presentment",
+          "body": ""
+        },
+        {
+          "section_no": "66",
+          "section_title": "Presentment for payment of instrument payable after date or sight",
+          "body": ""
+        },
+        {
+          "section_no": "67",
+          "section_title": "Presentment for payment of promissory note payable by instalments",
+          "body": ""
+        },
+        {
+          "section_no": "68",
+          "section_title": "Presentment for payment of instrument payable at specified place and not elsewhere.",
+          "body": ""
+        },
+        {
+          "section_no": "69",
+          "section_title": "Instrument payable at specified place",
+          "body": ""
+        },
+        {
+          "section_no": "70",
+          "section_title": "Presentment where no exclusive place specified",
+          "body": ""
+        },
+        {
+          "section_no": "71",
+          "section_title": "Presentment when maker, etc., has no known place of business or residence",
+          "body": ""
+        },
+        {
+          "section_no": "71A",
+          "section_title": "What constitutes valid presentment and mode of presentment",
+          "body": ""
+        },
+        {
+          "section_no": "72",
+          "section_title": "Presentment of cheque to charge drawer",
+          "body": ""
+        },
+        {
+          "section_no": "73",
+          "section_title": "Presentment of cheque to charge any other person",
+          "body": ""
+        },
+        {
+          "section_no": "74",
+          "section_title": "Presentment of instrument payable on demand",
+          "body": ""
+        },
+        {
+          "section_no": "75",
+          "section_title": "Presentment by or to agent, representative of deceased, or assignee of insolvent",
+          "body": ""
+        },
+        {
+          "section_no": "75A",
+          "section_title": "Excuse for delay in presentment for acceptance or payment",
+          "body": ""
+        },
+        {
+          "section_no": "76",
+          "section_title": "When presentment unnecessary",
+          "body": ""
+        },
+        {
+          "section_no": "77",
+          "section_title": "Liability of banker for negligently dealing with bill presented for payment",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "OF PAYMENT AND INTEREST",
+      "sections": [
+        {
+          "section_no": "78",
+          "section_title": "To whom payment should be made",
+          "body": ""
+        },
+        {
+          "section_no": "79",
+          "section_title": "Interest or return in any other form when rate specified or not specified",
+          "body": ""
+        },
+        {
+          "section_no": "80",
+          "section_title": "Interest when no rate specified",
+          "body": ""
+        },
+        {
+          "section_no": "81",
+          "section_title": "Delivery of instrument on payment, or indemnity in case of loss",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "OF DISCHARGE FROM LIABILITY ON NOTES, BILLS AND CHEQUES",
+      "sections": [
+        {
+          "section_no": "82",
+          "section_title": "Discharge from liability",
+          "body": ""
+        },
+        {
+          "section_no": "83",
+          "section_title": "Discharge by allowing drawee more than forty-eight hours to accept",
+          "body": ""
+        },
+        {
+          "section_no": "84",
+          "section_title": "When cheque not duly presented and drawer damaged thereby",
+          "body": ""
+        },
+        {
+          "section_no": "85",
+          "section_title": "Cheque payable to order",
+          "body": ""
+        },
+        {
+          "section_no": "85A",
+          "section_title": "s drawn by one branch of a bank on another payable to order",
+          "body": ""
+        },
+        {
+          "section_no": "86",
+          "section_title": "Parties not consenting discharged by qualified or limited acceptance",
+          "body": ""
+        },
+        {
+          "section_no": "87",
+          "section_title": "Effect of material alteration",
+          "body": "Alteration by indorsee."
+        },
+        {
+          "section_no": "88",
+          "section_title": "Acceptor or indorser bound notwithstanding previous alteration",
+          "body": ""
+        },
+        {
+          "section_no": "89",
+          "section_title": "Payment of instrument on which alteration is not apparent",
+          "body": ""
+        },
+        {
+          "section_no": "90",
+          "section_title": "Extinguishment of rights of action on bill in acceptor’s hands",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "OF NOTICE OF DISHONOUR",
+      "sections": [
+        {
+          "section_no": "91",
+          "section_title": "Dishonour by non-acceptance",
+          "body": ""
+        },
+        {
+          "section_no": "92",
+          "section_title": "Dishonour by non-payment",
+          "body": ""
+        },
+        {
+          "section_no": "93",
+          "section_title": "By and to whom notice should be given",
+          "body": ""
+        },
+        {
+          "section_no": "94",
+          "section_title": "Mode in which notice may be given",
+          "body": ""
+        },
+        {
+          "section_no": "95",
+          "section_title": "Party receiving must transmit notice of dishonour",
+          "body": ""
+        },
+        {
+          "section_no": "96",
+          "section_title": "Agent for presentment",
+          "body": ""
+        },
+        {
+          "section_no": "97",
+          "section_title": "When party to whom notice given is dead",
+          "body": ""
+        },
+        {
+          "section_no": "98",
+          "section_title": "When notice of dishonour is unnecessary",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "OF NOTING AND PROTEST",
+      "sections": [
+        {
+          "section_no": "99",
+          "section_title": "Noting",
+          "body": ""
+        },
+        {
+          "section_no": "100",
+          "section_title": "Protest",
+          "body": "Protest for better security."
+        },
+        {
+          "section_no": "101",
+          "section_title": "Contents of protest",
+          "body": ""
+        },
+        {
+          "section_no": "102",
+          "section_title": "Notice of protest",
+          "body": ""
+        },
+        {
+          "section_no": "103",
+          "section_title": "Protest for non-payment after dishonour by non-acceptance",
+          "body": ""
+        },
+        {
+          "section_no": "104",
+          "section_title": "Protest of foreign bills",
+          "body": ""
+        },
+        {
+          "section_no": "104A",
+          "section_title": "When noting equivalent to protest",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "OF REASONABLE TIME",
+      "sections": [
+        {
+          "section_no": "105",
+          "section_title": "Reasonable time",
+          "body": ""
+        },
+        {
+          "section_no": "106",
+          "section_title": "Reasonable time of giving notice of dishonour",
+          "body": ""
+        },
+        {
+          "section_no": "107",
+          "section_title": "Reasonable time for transmitting such notice",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "OF ACCEPTANCE AND PAYMENT FOR HONOUR AND REFERENCE IN CASE OF NEED",
+      "sections": [
+        {
+          "section_no": "108",
+          "section_title": "Acceptance for honour",
+          "body": ""
+        },
+        {
+          "section_no": "109",
+          "section_title": "How acceptance for honour must be made",
+          "body": ""
+        },
+        {
+          "section_no": "110",
+          "section_title": "Acceptance not specifying for whose honour it is made",
+          "body": ""
+        },
+        {
+          "section_no": "111",
+          "section_title": "Liability of acceptor for honour",
+          "body": ""
+        },
+        {
+          "section_no": "112",
+          "section_title": "When acceptor for honour may be charged",
+          "body": ""
+        },
+        {
+          "section_no": "113",
+          "section_title": "Payment for honour",
+          "body": ""
+        },
+        {
+          "section_no": "114",
+          "section_title": "Right of payer for honour",
+          "body": ""
+        },
+        {
+          "section_no": "115",
+          "section_title": "Drawee in case of need",
+          "body": ""
+        },
+        {
+          "section_no": "116",
+          "section_title": "Acceptance and payment without protest",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "OF COMPENSATION",
+      "sections": [
+        {
+          "section_no": "117",
+          "section_title": "Rules as to compensation",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "SPECIAL RULES OF EVIDENCE",
+      "sections": [
+        {
+          "section_no": "118",
+          "section_title": "Presumptions as to negotiable instruments",
+          "body": ""
+        },
+        {
+          "section_no": "119",
+          "section_title": "Presumption on proof of protest",
+          "body": ""
+        },
+        {
+          "section_no": "120",
+          "section_title": "Estoppel against denying original validity of instrument",
+          "body": ""
+        },
+        {
+          "section_no": "121",
+          "section_title": "Estoppel against denying capacity of payee to indorse",
+          "body": ""
+        },
+        {
+          "section_no": "122",
+          "section_title": "Estoppel against denying signature or capacity of prior party",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO CHEQUES",
+      "sections": [
+        {
+          "section_no": "122A",
+          "section_title": "Revocation of Banker’s authority",
+          "body": ""
+        },
+        {
+          "section_no": "123",
+          "section_title": "Cheque crossed generally",
+          "body": ""
+        },
+        {
+          "section_no": "123A",
+          "section_title": "Cheque crossed 'account payee'",
+          "body": ""
+        },
+        {
+          "section_no": "124",
+          "section_title": "Cheque crossed specially",
+          "body": ""
+        },
+        {
+          "section_no": "125",
+          "section_title": "Crossing after issue",
+          "body": ""
+        },
+        {
+          "section_no": "125A",
+          "section_title": "Crossing a material part of a cheque",
+          "body": ""
+        },
+        {
+          "section_no": "126",
+          "section_title": "Payment of cheque crossed generally",
+          "body": ""
+        },
+        {
+          "section_no": "127",
+          "section_title": "Payment of cheque crossed specially",
+          "body": ""
+        },
+        {
+          "section_no": "128",
+          "section_title": "Payment of cheque crossed specially more than once",
+          "body": ""
+        },
+        {
+          "section_no": "129",
+          "section_title": "Payment in due course of crossed cheque",
+          "body": ""
+        },
+        {
+          "section_no": "130",
+          "section_title": "Payment of crossed cheque out of due course",
+          "body": ""
+        },
+        {
+          "section_no": "131",
+          "section_title": "Cheque bearing 'not negotiable'",
+          "body": ""
+        },
+        {
+          "section_no": "131A",
+          "section_title": "Non-liability of banker receiving payment of cheque",
+          "body": ""
+        },
+        {
+          "section_no": "131B",
+          "section_title": "Protection to banker crediting cheque crossed 'account payee'",
+          "body": ""
+        },
+        {
+          "section_no": "131C",
+          "section_title": "Cheque not operating as assignment of funds",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "SPECIAL PROVISIONS RELATING TO BILLS OF EXCHANGE",
+      "sections": [
+        {
+          "section_no": "131D",
+          "section_title": "Several drawees",
+          "body": ""
+        },
+        {
+          "section_no": "131E",
+          "section_title": "In whose favour a bill may be drawn",
+          "body": ""
+        },
+        {
+          "section_no": "131F",
+          "section_title": "When presentment for acceptance is necessary",
+          "body": ""
+        },
+        {
+          "section_no": "l31G",
+          "section_title": "When presentment excused",
+          "body": ""
+        },
+        {
+          "section_no": "131H",
+          "section_title": "Holder’s right of recourse against drawer and indorsers",
+          "body": ""
+        },
+        {
+          "section_no": "131I",
+          "section_title": "Holder may refuse qualified acceptance",
+          "body": ""
+        },
+        {
+          "section_no": "132",
+          "section_title": "Set of bills",
+          "body": ""
+        },
+        {
+          "section_no": "133",
+          "section_title": "Holder of first acquired part entitled to all",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "OF INTERNATIONAL LAW",
+      "sections": [
+        {
+          "section_no": "134",
+          "section_title": "Law governing liability of parties to a foreign instrument",
+          "body": ""
+        },
+        {
+          "section_no": "135",
+          "section_title": "[Omitted.]",
+          "body": ""
+        },
+        {
+          "section_no": "136",
+          "section_title": "Instrument made, etc., outside Pakistan, but in accordance with their law",
+          "body": ""
+        },
+        {
+          "section_no": "137",
+          "section_title": "Presumption as to foreign law",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "NOTARIES PUBLIC",
+      "sections": [
+        {
+          "section_no": "138",
+          "section_title": "Power to appoint notaries public",
+          "body": ""
+        },
+        {
+          "section_no": "139",
+          "section_title": "Power to make rules for notaries public",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "SCHEDULE",
+      "sections": [
+        {
+          "section_no": "[Repealed.]",
+          "section_title": "",
+          "body": ""
+        }
+      ]
+    }
+  ],
+  "source_file": "administrator2bbb145adb573172ec68151f4e70dfb5.txt"
+}

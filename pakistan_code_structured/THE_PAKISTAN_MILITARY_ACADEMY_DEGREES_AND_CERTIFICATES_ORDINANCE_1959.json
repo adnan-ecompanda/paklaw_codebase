@@ -1,0 +1,47 @@
+{
+  "law_name": "THE PAKISTAN MILITARY ACADEMY (DEGREES AND CERTIFICATES) ORDINANCE",
+  "year": 1959,
+  "chapters": [
+    {
+      "chapter_title": "Contents",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title and commencement",
+          "body": "(1) This Ordinance may be called the Pakistan Military Academy (Degrees and Certificates) Ordinance, 1959. (2) It shall come into force at once."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Definition",
+          "body": "In this Ordinance, unless there is anything repugnant in the subject or context, (a) “Academy” means the Pakistan Military Academy at Kakul; (b) “certificate” means a certificate mentioned in Part II of the Schedule; and (c) “degree” means a degree mentioned in Part I of the Schedule."
+        },
+        {
+          "section_no": "3",
+          "section_title": "Conferment of degrees, etc., on cadets and officers",
+          "body": "(1) The Academy shall have the power to confer a degree on, or grant a certificate to, any gentleman cadet of the Academy on his successful completion of the appropriate course at the Academy, and such power shall include the power to confer a degree on, or grant a certificate to, any officer who at any time before the commencement of this Ordinance was commissioned from the Academy. (2) The provisions of sub-section (1) shall apply to those gentlemen cadets of the Academy who, before the commencement of the Pakistan Military Academy (Degrees and Certificates) (Amendment) Ordinance, 1962, had successfully completed their training at the Royal Military Academy, Sandhurst, or who, after such commencement, successfully complete their training at that Academy."
+        },
+        {
+          "section_no": "4",
+          "section_title": "Power to make regulations",
+          "body": "The Academy may, with the previous approval in writing of the Federal Government, make Regulations for carrying out the purposes of this Ordinance."
+        }
+      ]
+    },
+    {
+      "chapter_title": "The Schedule",
+      "sections": [
+        {
+          "section_no": "Part I",
+          "section_title": "Academic Courses",
+          "body": "Name Degree to be awarded 1. Arts Course 1 B.A. (KAKUL ACADEMY). 2. Science Course-1 B.Sc. (KAKUL ACADEMY)."
+        },
+        {
+          "section_no": "Part II",
+          "section_title": "Academic Courses",
+          "body": "Name Certificate to be awarded 1. Arts Course-2 Intermediate in Arts (KAKUL ACADEMY). 2. Science Course 2. Intermediate in Science (KAKUL ACADEMY)."
+        }
+      ]
+    }
+  ],
+  "source_file": "administrator9dbf323a5be197b865503ff4b065b406.txt"
+}

@@ -1,0 +1,47 @@
+{
+  "law_name": "THE MEASURES OF LENGTH ACT",
+  "year": 1889,
+  "chapters": [
+    {
+      "chapter_title": "Measures of Length",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Title, extent and commencement",
+          "body": "(1) This Act may be called the Measures of Length Act, 1889. (2) It extends to the whole of Pakistan; and (3) It shall come into force on such day as the Federal Government may appoint in this behalf."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Standard yard",
+          "body": "The imperial standard yard for the United Kingdom shall be the legal standard measure of length in Pakistan and be called the standard yard."
+        },
+        {
+          "section_no": "3",
+          "section_title": "Measure for determining length of standard yard",
+          "body": "A copy, approved by the Provincial Government, of the imperial standard for determining the length of the imperial standard yard for the United Kingdom shall be kept in such place within the limits of the Province as the Provincial Government may prescribe, and shall be the standard for determining the length of the standard yard."
+        },
+        {
+          "section_no": "4",
+          "section_title": "Standard foot and inch",
+          "body": "One-third part of the standard yard shall be called a standard foot, and one-thirty-sixth part of such a yard shall be called a standard inch."
+        },
+        {
+          "section_no": "5",
+          "section_title": "Presumption in favour of accuracy of certified measures",
+          "body": "Any measure having stamped thereon or affixed thereto a certificate purporting to be made before the first day of April, 1937, under the authority of any Government in Pakistan or on or after that date under the authority of the Provincial Government and stating that the measure is of the length of the standard yard or that a measure marked thereon as a foot or inch is of the length of the standard foot or standard inch, as the case may be, shall, when produced before any Court by any public servant having charge of the measure in pursuance of any direction published in an official Gazette by order of the Provincial Government, or by any person acting under the general or special authority of such a public servant, be deemed to be correct until its inaccuracy is proved."
+        },
+        {
+          "section_no": "6",
+          "section_title": "Inspection of certified measures by the public",
+          "body": "A public servant having in pursuance of such a direction charge of such a measure as is mentioned in the last foregoing section shall allow any person to inspect it free of charge at all reasonable times and to compare therewith or with any measure marked thereon any measure which such person may have in his possession."
+        },
+        {
+          "section_no": "7",
+          "section_title": "Certified measures to be kept by authorities required by existing enactments to keep measures of length",
+          "body": "There shall be kept by the District Magistrate under section 20 of Regulation XII of 1827 of the Bombay Code, such certified measures of the standard yard, standard foot and standard inch as are mentioned in section 5."
+        }
+      ]
+    }
+  ],
+  "source_file": "administrator9140582d8c149f5e3e2cd50cf6b90f13.txt"
+}

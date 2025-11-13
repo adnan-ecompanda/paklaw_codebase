@@ -1,0 +1,113 @@
+{
+  "law_name": "THE OATHS ACT",
+  "year": 1873,
+  "chapters": [
+    {
+      "chapter_title": "PRELIMINARY",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title",
+          "body": "This Act may be called the Oaths Act, 1873. It extends to the whole of Pakistan."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Repeal of enactments",
+          "body": "Rep. by the Repealing Act, 1873 (XII of 1873)."
+        },
+        {
+          "section_no": "3",
+          "section_title": "Saving of certain oaths and affirmations",
+          "body": "Nothing herein contained applies to proceedings before Courts Martial, or to oaths, affirmations or declarations prescribed by or under any law or President’s warrants for the time being in force."
+        }
+      ]
+    },
+    {
+      "chapter_title": "AUTHORITY TO ADMINISTER OATHS AND AFFIRMATIONS",
+      "sections": [
+        {
+          "section_no": "4",
+          "section_title": "Authority to administer oaths and affirmations",
+          "body": "The following Courts and persons are authorized to administer, by themselves or by an officer empowered by them in this behalf, oaths and affirmations in discharge of the duties or in exercise of the powers imposed or conferred upon them respectively by law: (a) all Courts and persons having by law or consent of parties authority to receive evidence; (b) the Commanding Officer of any military, naval or air force station or ship occupied by the Armed Forces of Pakistan, provided that the oath or affirmation is administered within the limits of the station or on the ship."
+        }
+      ]
+    },
+    {
+      "chapter_title": "PERSONS BY WHOM OATHS OR AFFIRMATIONS MUST BE MADE",
+      "sections": [
+        {
+          "section_no": "5",
+          "section_title": "Oaths or affirmations to be made by",
+          "body": "Oaths or affirmations shall be made by the following persons: (a) witnesses; all witnesses, that is to say, all persons who may lawfully be examined, or give, or be required to give, evidence by or before any Court or person having by law or consent of parties authority to examine such persons or to receive evidence; (b) interpreters; interpreters of questions put to, and evidence given by, witnesses. Provided that where the witness is a child under twelve years of age, and the Court or person having authority to examine such witness is of opinion that, though he understands the duty of speaking the truth, he does not understand the nature of an oath or affirmation, the foregoing provisions of this section and the provisions of section 6 shall not apply to such witness."
+        },
+        {
+          "section_no": "6",
+          "section_title": "Oath by a muslim or by a non-muslim who has no abjection",
+          "body": "(1) Where the witness or interpreter is a Muslim, he shall make an oath. (2) Where the witness or interpreter is not a Muslim, he shall make an oath or, if he has an objection to making an oath, an affirmation."
+        }
+      ]
+    },
+    {
+      "chapter_title": "FORMS OF OATHS AND AFFIRMATIONS",
+      "sections": [
+        {
+          "section_no": "7",
+          "section_title": "Forms of oaths and affirmations",
+          "body": "All oaths and affirmations made under section 5 shall be administered according to such forms as the High Court may from time to time prescribe."
+        },
+        {
+          "section_no": "8",
+          "section_title": "Power of court to tender certain oaths",
+          "body": "If any party to, or witness in, any judicial proceeding offers to give evidence on oath or solemn affirmation in any form common amongst, or held binding by, persons of the race or persuasion to which he belongs, and not repugnant to justice or decency, and not purporting to affect any third person, the Court may, if it thinks fit, notwithstanding anything herein before contained, tender such oath or affirmation to him."
+        },
+        {
+          "section_no": "9",
+          "section_title": "Court may ask party or witness whether he will make oath proposed by opposite party",
+          "body": "If any party to any judicial proceeding offers to be bound by any such oath or solemn affirmation as is mentioned in section 8, the Court may, if it thinks fit, ask such party or witness, or cause him to be asked, whether or not he will make the oath or affirmation."
+        },
+        {
+          "section_no": "10",
+          "section_title": "Administration of oath if accepted",
+          "body": "If such party or witness agrees to make such oath or affirmation, the Court may proceed to administer it, or, if it is of such a nature that it may be more conveniently made out of Court, the Court may issue a commission to any person to administer it."
+        },
+        {
+          "section_no": "11",
+          "section_title": "Evidence conclusive as against person offering to be bound",
+          "body": "The evidence so given shall, as against the person who offered to be bound as aforesaid, be conclusive proof of the matter stated."
+        },
+        {
+          "section_no": "12",
+          "section_title": "Procedure in case of refusal to make oath",
+          "body": "If the party or witness refuses to make the oath or solemn affirmation referred to in section 8, he shall not be compelled to make it, but the Court shall record, as part of the proceedings, the nature of the oath or affirmation proposed, the facts that he was asked whether he would make it, and that he refused it."
+        }
+      ]
+    },
+    {
+      "chapter_title": "MISCELLANEOUS",
+      "sections": [
+        {
+          "section_no": "13",
+          "section_title": "Proceedings and evidence not invalidated by omission of oath or irregularity",
+          "body": "No omission to take any oath or make any affirmation, no substitution of anyone for any other of them, and no irregularity whatever, in the form in which anyone of them is administered, shall invalidate any proceeding or render inadmissible any evidence whatever."
+        },
+        {
+          "section_no": "14",
+          "section_title": "Persons giving evidence bound to state the truth",
+          "body": "Every person giving evidence on any subject before any Court or person hereby authorized to administer oaths and affirmations shall be bound to state the truth on such subject."
+        },
+        {
+          "section_no": "15",
+          "section_title": "Amendment of penal code, ss. 178 and 181",
+          "body": "Rep. by the Repealing Act, 1938 (I of 1938)."
+        },
+        {
+          "section_no": "16",
+          "section_title": "Official oaths abolished",
+          "body": "Subject to the provisions of sections 3 and 5, no person appointed to any office shall, before entering on the execution of the duties of his office, be required to make any oath, or to make or subscribe any affirmation or declaration whatever."
+        }
+      ]
+    }
+  ],
+  "source_file": "administrator0158e1a02138a940073e102386a7525a.txt",
+  "parse_quality": "high"
+}

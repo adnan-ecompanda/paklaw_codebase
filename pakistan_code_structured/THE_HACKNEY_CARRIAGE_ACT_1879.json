@@ -1,0 +1,62 @@
+{
+  "law_name": "THE HACKNEY-CARRIAGE ACT",
+  "year": 1879,
+  "chapters": [
+    {
+      "chapter_title": "Hackney-Carriage Act, 1879",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title",
+          "body": "This Act may be called the Hackney-carriage Act, 1879."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Interpretation clause",
+          "body": "In this Act 'hackney-carriage' means any wheeled vehicle drawn by animals and used for the conveyance of passengers which is kept, or offered, or plies for hire; and 'committee' means a municipal committee, or a body of municipal commissioners, constituted under the provisions of any enactment for the time being in force."
+        },
+        {
+          "section_no": "3",
+          "section_title": "Application of Act to municipalities",
+          "body": "The Provincial Government concerned may, by notification in the official Gazette, apply this Act to any municipalities in the Punjab or the District of Sylhet in East Pakistan. Power of committees to make rules. When this Act has been so applied to any municipality, the committee of such municipality may, from time to time, make rules for the regulation and control of hackney-carriages within the limits of such municipality."
+        },
+        {
+          "section_no": "4",
+          "section_title": "Power to make rules for cantonments",
+          "body": "[Repeal]"
+        },
+        {
+          "section_no": "5",
+          "section_title": "Power to extend operation of rule beyond limits of municipality or cantonment",
+          "body": "The authority making any rules under this Act may, with the sanction of the Commissioner, extend their operation to any railway-station, or specified part of a road, not more than six miles from the local limits of the municipality."
+        },
+        {
+          "section_no": "6",
+          "section_title": "What rules under section 3 may provide for",
+          "body": "The rules to be made under section 3 may, among other matters, direct that no hackney-carriage shall be let to hire, or taken to ply, or offered for hire, except under a license granted in that behalf; and provide for the issue of the licenses, prescribe the conditions on which such licenses shall be granted, and fix the fees to be paid therefor."
+        },
+        {
+          "section_no": "7",
+          "section_title": "Penalty for breach of rules",
+          "body": "Any person breaking any rule made under this Act shall be punished with fine which may extend to fifty rupees."
+        },
+        {
+          "section_no": "8",
+          "section_title": "Disposal of fees and payment of expenses",
+          "body": "The amount of any fees received and the amount of any expenses incurred in giving effect to this Act shall be credited and debited respectively to the municipal fund."
+        },
+        {
+          "section_no": "9",
+          "section_title": "Power of Magistrate to decide disputes regarding fares",
+          "body": "If any dispute arises between the hirer of any hackney-carriage and the owner or driver of such carriage as to the amount of the fare payable, such dispute shall be heard and determined by any Magistrate or Bench of Magistrates within the local limits of whose jurisdiction such dispute has arisen."
+        },
+        {
+          "section_no": "10",
+          "section_title": "In case of dispute, hirer may require driver to take him to Court",
+          "body": "If, at the time any dispute mentioned in section 9 arises, any Magistrate or Bench of Magistrates having jurisdiction is sitting within the local limits, the hirer may require the driver to take him to the Court of such Magistrate or Bench."
+        }
+      ]
+    }
+  ],
+  "source_file": "administrator5d6b74fcde759f340d6d706574476e01.txt"
+}

@@ -1,0 +1,32 @@
+{
+  "law_name": "THE POLICE ACT",
+  "year": 1888,
+  "chapters": [
+    {
+      "chapter_title": "Contents",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Title and extent",
+          "body": "(1) This Act may be called the Police Act, 1888."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Constitution of police forces for special purposes",
+          "body": "(1) Notwithstanding anything in the Police Act, 1861 (V of 1861), the Federal Government may, by notification in the official Gazette, create a special police district embracing parts of two or more Provinces, and extend to every part of the said district the powers and jurisdiction of members of a police force belonging to any part of Pakistan specified in the notification."
+        },
+        {
+          "section_no": "3",
+          "section_title": "Employment of police officers beyond the province to which they belong",
+          "body": "Notwithstanding anything in any of the Acts mentioned or referred to in the last foregoing section, but subject to any orders which the Federal Government may make in this behalf, a member of the police force of any Province may discharge the functions of a police-officer in any part of Pakistan beyond the limits of the Province."
+        },
+        {
+          "section_no": "4",
+          "section_title": "Consent of Provincial Government to exercise of powers and jurisdiction",
+          "body": "Nothing in this Act shall be deemed to enable the police of one Province to exercise powers and jurisdiction in any area within another Province, not being a railway area, without the consent of the Government of that other Province."
+        }
+      ]
+    }
+  ],
+  "source_file": "administrator0d542ced233234c414aadc7686500a54.txt"
+}

@@ -1,0 +1,762 @@
+{
+  "law_name": "THE TRANSFER OF PROPERTY ACT",
+  "year": 1882,
+  "chapters": [
+    {
+      "chapter_title": "PRELIMINARY",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title",
+          "body": "This Act may be called the Transfer of Property Act, 1882. It shall come into force on the first day of July, 1882."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Repeal of Acts",
+          "body": "In the territories to which this Act extends for the time being the enactments specified in the schedule hereto annexed shall be repealed to the extent therein mentioned. But nothing herein contained shall be deemed to affect (a) the provisions of any enactment not hereby expressly repealed: (b) any terms or incidents of any contract or constitution of property which are consistent with the provisions of this Act, and are allowed by the law for the time being in force: (c) any right or liability arising out of a legal relation constituted before this Act comes into force, or any relief in respect of any such right or liability: or (d) save as provided by section 57 and Chapter IV of this Act, any transfer by operation of law or by, or in execution of, a decree or order of a Court of competent jurisdiction."
+        },
+        {
+          "section_no": "3",
+          "section_title": "Interpretation clause",
+          "body": "In this Act, unless there is something repugnant in the subject or context, 'immoveable property' does not include standing timber, growing crops or grass."
+        },
+        {
+          "section_no": "4",
+          "section_title": "Enactments relating to contracts to be taken as part of Contract Act",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "OF TRANSFERS OF PROPERTY BY ACT OF PARTIES",
+      "sections": [
+        {
+          "section_no": "5",
+          "section_title": "'Transfer of property' defined",
+          "body": ""
+        },
+        {
+          "section_no": "6",
+          "section_title": "What may be transferred",
+          "body": ""
+        },
+        {
+          "section_no": "7",
+          "section_title": "Persons competent to transfer",
+          "body": ""
+        },
+        {
+          "section_no": "8",
+          "section_title": "Operation of transfer",
+          "body": ""
+        },
+        {
+          "section_no": "9",
+          "section_title": "Oral transfer",
+          "body": ""
+        },
+        {
+          "section_no": "10",
+          "section_title": "Condition restraining alienation",
+          "body": ""
+        },
+        {
+          "section_no": "11",
+          "section_title": "Restriction repugnant to interest created",
+          "body": ""
+        },
+        {
+          "section_no": "12",
+          "section_title": "Condition making interest determinable on insolvency or attempted alienation",
+          "body": ""
+        },
+        {
+          "section_no": "13",
+          "section_title": "Transfer for benefit of unborn person",
+          "body": ""
+        },
+        {
+          "section_no": "14",
+          "section_title": "Rule against perpetuity",
+          "body": ""
+        },
+        {
+          "section_no": "15",
+          "section_title": "Transfer to class some of whom come under sections 13 and 14",
+          "body": ""
+        },
+        {
+          "section_no": "16",
+          "section_title": "Transfer to take effect on failure of prior interest",
+          "body": ""
+        },
+        {
+          "section_no": "17",
+          "section_title": "Direction for accumulation",
+          "body": ""
+        },
+        {
+          "section_no": "18",
+          "section_title": "Transfer in perpetuity for benefit of public",
+          "body": ""
+        },
+        {
+          "section_no": "19",
+          "section_title": "Vested interest",
+          "body": ""
+        },
+        {
+          "section_no": "20",
+          "section_title": "When unborn person acquires vested interest on transfer for his benefit",
+          "body": ""
+        },
+        {
+          "section_no": "21",
+          "section_title": "Contingent interest",
+          "body": ""
+        },
+        {
+          "section_no": "22",
+          "section_title": "Transfer to members of a class who attain a particular age",
+          "body": ""
+        },
+        {
+          "section_no": "23",
+          "section_title": "Transfer contingent on happening of specified uncertain event",
+          "body": ""
+        },
+        {
+          "section_no": "24",
+          "section_title": "Transfer to such of certain persons as survive at some period not specified",
+          "body": ""
+        },
+        {
+          "section_no": "25",
+          "section_title": "Conditional transfer",
+          "body": ""
+        },
+        {
+          "section_no": "26",
+          "section_title": "Fulfilment of condition precedent",
+          "body": ""
+        },
+        {
+          "section_no": "27",
+          "section_title": "Conditional transfer to one person coupled with transfer to another on failure of prior disposition",
+          "body": ""
+        },
+        {
+          "section_no": "28",
+          "section_title": "Ulterior transfer conditional on happening or not happening of specified event",
+          "body": ""
+        },
+        {
+          "section_no": "29",
+          "section_title": "Fulfilment of condition subsequent",
+          "body": ""
+        },
+        {
+          "section_no": "30",
+          "section_title": "Prior disposition not affected by invalidity of ulterior disposition",
+          "body": ""
+        },
+        {
+          "section_no": "31",
+          "section_title": "Condition that transfer shall cease to have effect in case specified uncertain event happens or does not happen",
+          "body": ""
+        },
+        {
+          "section_no": "32",
+          "section_title": "Such condition must not be invalid",
+          "body": ""
+        },
+        {
+          "section_no": "33",
+          "section_title": "Transfer conditional on performance of act, no time being specified for performance",
+          "body": ""
+        },
+        {
+          "section_no": "34",
+          "section_title": "Transfer conditional on performance of act, time being specified",
+          "body": ""
+        },
+        {
+          "section_no": "35",
+          "section_title": "Election when necessary",
+          "body": ""
+        },
+        {
+          "section_no": "36",
+          "section_title": "Apportionment of periodical payments on determination of interest of person entitled",
+          "body": ""
+        },
+        {
+          "section_no": "37",
+          "section_title": "Apportionment of benefit of obligation on severance",
+          "body": ""
+        },
+        {
+          "section_no": "38",
+          "section_title": "Transfer by person authorized only under certain circumstances to transfer",
+          "body": ""
+        },
+        {
+          "section_no": "39",
+          "section_title": "Transfer where third person is entitled to maintenance",
+          "body": ""
+        },
+        {
+          "section_no": "40",
+          "section_title": "Burden of obligation imposing restriction on use of land, or of obligation annexed to ownership but not amounting to interest or easement",
+          "body": ""
+        },
+        {
+          "section_no": "41",
+          "section_title": "Transfer by ostensible owner",
+          "body": ""
+        },
+        {
+          "section_no": "42",
+          "section_title": "Transfer by person having authority to revoke former transfer",
+          "body": ""
+        },
+        {
+          "section_no": "43",
+          "section_title": "Transfer by unauthorized person who subsequently acquires interest in property transferred",
+          "body": ""
+        },
+        {
+          "section_no": "44",
+          "section_title": "Transfer by one co-owner",
+          "body": ""
+        },
+        {
+          "section_no": "45",
+          "section_title": "Joint transfer for consideration",
+          "body": ""
+        },
+        {
+          "section_no": "46",
+          "section_title": "Transfer for consideration by persons having distinct interests",
+          "body": ""
+        },
+        {
+          "section_no": "47",
+          "section_title": "Transfer by co-owner of share in common property",
+          "body": ""
+        },
+        {
+          "section_no": "48",
+          "section_title": "Priority of rights created by transfer",
+          "body": ""
+        },
+        {
+          "section_no": "49",
+          "section_title": "Transferee's right under policy",
+          "body": ""
+        },
+        {
+          "section_no": "50",
+          "section_title": "Rent bona-fide paid to holder under defective title",
+          "body": ""
+        },
+        {
+          "section_no": "51",
+          "section_title": "Improvements made by bona fide holders under defective titles",
+          "body": ""
+        },
+        {
+          "section_no": "52",
+          "section_title": "Transfer of property pending suit relating thereto",
+          "body": ""
+        },
+        {
+          "section_no": "53",
+          "section_title": "Fradulent transfer",
+          "body": ""
+        },
+        {
+          "section_no": "53A",
+          "section_title": "Part performance",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "OF SALES OF IMMOVEABLE PROPERTY",
+      "sections": [
+        {
+          "section_no": "54",
+          "section_title": "'Sale' defined",
+          "body": "Sale how made Contract for sale"
+        },
+        {
+          "section_no": "55",
+          "section_title": "Rights and liabilities of buyer and seller",
+          "body": ""
+        },
+        {
+          "section_no": "56",
+          "section_title": "Marshalling by subsequent purchaser",
+          "body": ""
+        },
+        {
+          "section_no": "57",
+          "section_title": "Provision by court for incumbrance and sale freed therefrom",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "OF MORTGAGES OF IMMOVEABLE PROPERTY AND CHARGES",
+      "sections": [
+        {
+          "section_no": "58",
+          "section_title": "'Mortgage,' 'mortgagor,' 'mortgagee,' 'mortgage-money' and 'mortgage-deed' defined",
+          "body": ""
+        },
+        {
+          "section_no": "59",
+          "section_title": "Mortgage when to be by assurance",
+          "body": ""
+        },
+        {
+          "section_no": "59A",
+          "section_title": "References to mortgagors and mortgagees to include persons deriving title from them",
+          "body": ""
+        },
+        {
+          "section_no": "60",
+          "section_title": "Right of mortgagor to redeem",
+          "body": ""
+        },
+        {
+          "section_no": "60A",
+          "section_title": "Obligation to transfer to third party instead of re-transference to Mortgagor",
+          "body": ""
+        },
+        {
+          "section_no": "60B",
+          "section_title": "Right to inspection and production of documents",
+          "body": ""
+        },
+        {
+          "section_no": "61",
+          "section_title": "Right to redeem separately or simultaneously",
+          "body": ""
+        },
+        {
+          "section_no": "62",
+          "section_title": "Right of usufructuary mortgagor to recover possession",
+          "body": ""
+        },
+        {
+          "section_no": "63",
+          "section_title": "Accession to mortgaged property",
+          "body": "Accession acquired in virtue of transferred ownership"
+        },
+        {
+          "section_no": "63A",
+          "section_title": "Improvements to mortgaged property",
+          "body": ""
+        },
+        {
+          "section_no": "64",
+          "section_title": "Renewal of mortgaged lease",
+          "body": ""
+        },
+        {
+          "section_no": "65",
+          "section_title": "Implied contracts by mortgagor",
+          "body": ""
+        },
+        {
+          "section_no": "65A",
+          "section_title": "Mortgagor's power to lease",
+          "body": ""
+        },
+        {
+          "section_no": "66",
+          "section_title": "Waste by mortgagor in possession",
+          "body": ""
+        },
+        {
+          "section_no": "67",
+          "section_title": "Right to foreclosure or sale",
+          "body": ""
+        },
+        {
+          "section_no": "67A",
+          "section_title": "Mortgagee when bound to bring one suit on several mortgages",
+          "body": ""
+        },
+        {
+          "section_no": "68",
+          "section_title": "Right to sue for mortgage-money",
+          "body": ""
+        },
+        {
+          "section_no": "69",
+          "section_title": "Power of sale when valid.",
+          "body": ""
+        },
+        {
+          "section_no": "69A",
+          "section_title": "Appointment of receiver",
+          "body": ""
+        },
+        {
+          "section_no": "70",
+          "section_title": "Accession to mortgaged property",
+          "body": ""
+        },
+        {
+          "section_no": "71",
+          "section_title": "Renewal of mortgaged lease",
+          "body": ""
+        },
+        {
+          "section_no": "72",
+          "section_title": "Rights of mortgagee in possession",
+          "body": ""
+        },
+        {
+          "section_no": "73",
+          "section_title": "Right to proceeds of revenue sale or compensation on acquisition",
+          "body": ""
+        },
+        {
+          "section_no": "74-75",
+          "section_title": "[Repealed]",
+          "body": ""
+        },
+        {
+          "section_no": "76",
+          "section_title": "Liabilities of mortgagee in possession",
+          "body": "Loss occasioned by his default"
+        },
+        {
+          "section_no": "77",
+          "section_title": "Receipts in lieu of interest",
+          "body": ""
+        },
+        {
+          "section_no": "78",
+          "section_title": "Postponement of prior mortgagee",
+          "body": ""
+        },
+        {
+          "section_no": "79",
+          "section_title": "Mortgage to secure uncertain amount when maximum is expressed",
+          "body": ""
+        },
+        {
+          "section_no": "80",
+          "section_title": "[Repealed]",
+          "body": ""
+        },
+        {
+          "section_no": "81",
+          "section_title": "Marshalling securities",
+          "body": ""
+        },
+        {
+          "section_no": "82",
+          "section_title": "Contribution to mortgage-debt",
+          "body": ""
+        },
+        {
+          "section_no": "83",
+          "section_title": "Power to deposit in Court money due on mortgage",
+          "body": "Right to money deposited by mortgagor"
+        },
+        {
+          "section_no": "84",
+          "section_title": "Cessation of interest",
+          "body": ""
+        },
+        {
+          "section_no": "85-90",
+          "section_title": "[Repealed]",
+          "body": ""
+        },
+        {
+          "section_no": "91",
+          "section_title": "Persons who may sue for redemption",
+          "body": ""
+        },
+        {
+          "section_no": "92",
+          "section_title": "Subrogation",
+          "body": ""
+        },
+        {
+          "section_no": "93",
+          "section_title": "Prohibition of tacking",
+          "body": ""
+        },
+        {
+          "section_no": "94",
+          "section_title": "Rights of mesne mortgagee",
+          "body": ""
+        },
+        {
+          "section_no": "95",
+          "section_title": "Right of redeeming co-mortgagor to expenses",
+          "body": ""
+        },
+        {
+          "section_no": "96",
+          "section_title": "Mortgage by deposit of title-deeds",
+          "body": ""
+        },
+        {
+          "section_no": "97",
+          "section_title": "[Repealed]",
+          "body": ""
+        },
+        {
+          "section_no": "98",
+          "section_title": "Rights and liabilities of parties to anomalous mortgages",
+          "body": ""
+        },
+        {
+          "section_no": "99",
+          "section_title": "[Repealed]",
+          "body": ""
+        },
+        {
+          "section_no": "100",
+          "section_title": "Charges",
+          "body": ""
+        },
+        {
+          "section_no": "101",
+          "section_title": "No merger in case of subsequent encumbrance",
+          "body": ""
+        },
+        {
+          "section_no": "102",
+          "section_title": "Service or tender on or to agent",
+          "body": ""
+        },
+        {
+          "section_no": "103",
+          "section_title": "Notice, etc., to or by person incompetent to contract",
+          "body": ""
+        },
+        {
+          "section_no": "104",
+          "section_title": "Power to make rules",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "OF LEASES OF IMMOVEABLE PROPERTY",
+      "sections": [
+        {
+          "section_no": "105",
+          "section_title": "Lease defined",
+          "body": "Lessor, lessee, premium and rent defined"
+        },
+        {
+          "section_no": "106",
+          "section_title": "Duration of certain leases in absence of written contract or local usage",
+          "body": ""
+        },
+        {
+          "section_no": "107",
+          "section_title": "Leases how made",
+          "body": ""
+        },
+        {
+          "section_no": "108",
+          "section_title": "Rights and liabilities of lessor and lessee",
+          "body": ""
+        },
+        {
+          "section_no": "109",
+          "section_title": "Rights of lessors’ transferee",
+          "body": ""
+        },
+        {
+          "section_no": "110",
+          "section_title": "Exclusion of day on which term commences",
+          "body": ""
+        },
+        {
+          "section_no": "111",
+          "section_title": "Determination of lease",
+          "body": ""
+        },
+        {
+          "section_no": "112",
+          "section_title": "Waiver of forfeiture",
+          "body": ""
+        },
+        {
+          "section_no": "113",
+          "section_title": "Waiver of notice to quit",
+          "body": ""
+        },
+        {
+          "section_no": "114",
+          "section_title": "Relief against forfeiture for non-payment of rent",
+          "body": ""
+        },
+        {
+          "section_no": "114A",
+          "section_title": "Relief against forfeiture in certain other cases",
+          "body": ""
+        },
+        {
+          "section_no": "115",
+          "section_title": "Effect of surrender and forfeiture on under-leases",
+          "body": ""
+        },
+        {
+          "section_no": "116",
+          "section_title": "Effect of holding over",
+          "body": ""
+        },
+        {
+          "section_no": "117",
+          "section_title": "Exemption of leases for agricultural purposes",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "OF EXCHANGES",
+      "sections": [
+        {
+          "section_no": "118",
+          "section_title": "'Exchange' defined",
+          "body": ""
+        },
+        {
+          "section_no": "119",
+          "section_title": "Right of party deprived of thing received in exchange",
+          "body": ""
+        },
+        {
+          "section_no": "120",
+          "section_title": "Rights and liabilities of parties",
+          "body": ""
+        },
+        {
+          "section_no": "121",
+          "section_title": "Exchange of money",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "OF GIFTS",
+      "sections": [
+        {
+          "section_no": "122",
+          "section_title": "'Gift' defined",
+          "body": ""
+        },
+        {
+          "section_no": "123",
+          "section_title": "Acceptance when to be made",
+          "body": ""
+        },
+        {
+          "section_no": "124",
+          "section_title": "Transfer how effected",
+          "body": ""
+        },
+        {
+          "section_no": "125",
+          "section_title": "Gift of existing and future property",
+          "body": ""
+        },
+        {
+          "section_no": "126",
+          "section_title": "Gift to several of whom one does not accept",
+          "body": ""
+        },
+        {
+          "section_no": "127",
+          "section_title": "When gift may be suspended or revoked",
+          "body": ""
+        },
+        {
+          "section_no": "128",
+          "section_title": "Onerous gift",
+          "body": "Onerous gift to disqualified person"
+        },
+        {
+          "section_no": "129",
+          "section_title": "Universal donee",
+          "body": ""
+        },
+        {
+          "section_no": "130",
+          "section_title": "Saving of donations mortis casua and Muslim law",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "OF TRANSFERS OF ACTIONABLE CLAIMS",
+      "sections": [
+        {
+          "section_no": "130",
+          "section_title": "Transfer of actionable claim",
+          "body": ""
+        },
+        {
+          "section_no": "130A",
+          "section_title": "[Repealed]",
+          "body": ""
+        },
+        {
+          "section_no": "131",
+          "section_title": "Notice to be in writing, signed",
+          "body": ""
+        },
+        {
+          "section_no": "132",
+          "section_title": "Liability of transferee of actionable claim",
+          "body": ""
+        },
+        {
+          "section_no": "133",
+          "section_title": "Warranty of solvency of debtor",
+          "body": ""
+        },
+        {
+          "section_no": "134",
+          "section_title": "Mortgaged debt",
+          "body": ""
+        },
+        {
+          "section_no": "135",
+          "section_title": "Assignment of rights under policy of insurance against fire",
+          "body": ""
+        },
+        {
+          "section_no": "135A",
+          "section_title": "[Repealed]",
+          "body": ""
+        },
+        {
+          "section_no": "136",
+          "section_title": "Incapacity of officers connected with Courts of Justice",
+          "body": ""
+        },
+        {
+          "section_no": "137",
+          "section_title": "Saving of negotiable instruments, etc.",
+          "body": ""
+        }
+      ]
+    }
+  ],
+  "source_file": "administrator77923ce792b475e339e1f46ba0442da3.txt"
+}

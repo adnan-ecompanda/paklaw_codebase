@@ -1,0 +1,92 @@
+{
+  "law_name": "THE STATE BANK OF PAKISTAN ACT",
+  "year": 1956,
+  "chapters": [
+    {
+      "chapter_title": "Preliminary",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title, extent and commencement",
+          "body": "(1) This Act may be cited as the State Bank of Pakistan Act, 1956. (2) It extends to the whole of Pakistan. (3) It shall come into force at once and except section 46, shall be deemed to have taken effect on and from the twelfth day of May 1948."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Definitions",
+          "body": "In this Act, unless there is anything repugnant in the subject or context, (a) 'advanced degree' means a postgraduate qualification; (b) 'approved foreign exchange' means currencies declared as such by any notification under section 19; (c) 'the Bank' means the State Bank of Pakistan; (d) 'bank notes' means notes made and issued by the Bank in accordance with section 24 and include currency notes of the Government of Pakistan issued by the Bank; (e) 'Board' means the Board of Directors of the Bank; (f) 'Co‑operative Bank' means a society registered under the Co‑operative Societies Act, 1912; (g) 'Director' means a Director for the time being of the Board; (h) 'Governor' and 'Deputy Governor' mean respectively the Governor and Deputy Governor of the Bank; (i) 'international reserves' mean the Bank’s foreign exchange reserves; (j) 'scheduled bank' means a bank for the time being included in the list of Banks maintained under subsection (1) of section 37; (k) 'Government' means the Federal or a Provincial Government or a Local Government, as the case may be."
+        }
+      ]
+    },
+    {
+      "chapter_title": "Establishment, Incorporation and Share Capital of the Bank",
+      "sections": [
+        {
+          "section_no": "3",
+          "section_title": "Establishment and incorporation of the Bank",
+          "body": "(1) As soon as may be after the commencement of this Act, steps shall be taken to establish, in accordance with the provisions of this Act, a bank to be called the State Bank of Pakistan for the purposes of taking over, as from the first day of July, 1948, the management of the currency from the Reserve Bank of India. (2) The Bank shall be a body corporate by the name of the State Bank of Pakistan, having perpetual succession and a common seal."
+        },
+        {
+          "section_no": "4",
+          "section_title": "Share capital",
+          "body": "(1) The authorized capital of the Bank shall be five hundred billion Rupees, divided into five billion shares of one hundred Rupees each. (2) The paid-up capital of the Bank shall be one hundred billion Rupees, divided into one billion shares of one hundred Rupees each. (3) The capital shall be fully paid-up and held exclusively by the Federal Government."
+        },
+        {
+          "section_no": "4A",
+          "section_title": "Re-capitalization",
+          "body": "In the event that in the audited annual financial statements of the Bank, the sum of paid-up capital and general reserves falls below zero, then the Board shall examine and prepare a report on the causes and extent of the shortfall."
+        },
+        {
+          "section_no": "4B",
+          "section_title": "Objectives",
+          "body": "(1) The primary objective of the Bank shall be to achieve and maintain domestic price stability."
+        }
+      ]
+    },
+    {
+      "chapter_title": "Management",
+      "sections": [
+        {
+          "section_no": "9",
+          "section_title": "Board of Directors",
+          "body": "The Board of Directors shall be responsible for the overall management of the Bank."
+        },
+        {
+          "section_no": "10",
+          "section_title": "Governor and Deputy Governors",
+          "body": "The Governor and Deputy Governors shall be appointed by the Federal Government."
+        }
+      ]
+    },
+    {
+      "chapter_title": "Business and Functions of the Bank",
+      "sections": [
+        {
+          "section_no": "17",
+          "section_title": "Business which the Bank may transact",
+          "body": "The Bank may transact business as specified in this Act."
+        },
+        {
+          "section_no": "24",
+          "section_title": "Sole right to issue bank notes",
+          "body": "The Bank shall have the sole right to issue bank notes."
+        }
+      ]
+    },
+    {
+      "chapter_title": "General",
+      "sections": [
+        {
+          "section_no": "41",
+          "section_title": "General reserve, unrealized revaluation reserve and special reserve",
+          "body": "The Bank shall maintain a general reserve."
+        },
+        {
+          "section_no": "46",
+          "section_title": "The Bank and its officers to be public officers",
+          "body": "The Bank and its officers shall be deemed to be public officers."
+        }
+      ]
+    }
+  ],
+  "source_file": "administrator156987c962fa6c15532c4e3a382980b8.txt"
+}

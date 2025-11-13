@@ -1,0 +1,1657 @@
+{
+  "law_name": "THE CANTONMENTS ORDINANCE",
+  "year": 2002,
+  "chapters": [
+    {
+      "chapter_title": "PRELIMINARY",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title, extent and commencement.",
+          "body": ""
+        },
+        {
+          "section_no": "2",
+          "section_title": "Definitions.",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "DECLARATION OF CANTONMENTS AND DELIMITATION OF LOCAL AREAS",
+      "sections": [
+        {
+          "section_no": "3",
+          "section_title": "Definition of cantonments.",
+          "body": ""
+        },
+        {
+          "section_no": "4",
+          "section_title": "Alteration of limits of cantonments.",
+          "body": ""
+        },
+        {
+          "section_no": "5",
+          "section_title": "Effect of including area in cantonment.",
+          "body": ""
+        },
+        {
+          "section_no": "6",
+          "section_title": "Disposal of cantonment fund when area ceases to be a cantonment.",
+          "body": ""
+        },
+        {
+          "section_no": "7",
+          "section_title": "Disposal of cantonment fund when area ceases to be a part of cantonment.",
+          "body": ""
+        },
+        {
+          "section_no": "8",
+          "section_title": "Application of funds and property transferred under section 6 or 7.",
+          "body": ""
+        },
+        {
+          "section_no": "9",
+          "section_title": "Limitation of operation of ordinance LOCAL AREAS",
+          "body": ""
+        },
+        {
+          "section_no": "10",
+          "section_title": "Local area.",
+          "body": ""
+        },
+        {
+          "section_no": "11",
+          "section_title": "Delimitation of wards of a Cantonment.",
+          "body": ""
+        },
+        {
+          "section_no": "12",
+          "section_title": "Local Governments for local areas.",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "CANTONMENT ADMINISTRATION",
+      "sections": [
+        {
+          "section_no": "13",
+          "section_title": "Cantonment Administrator.",
+          "body": ""
+        },
+        {
+          "section_no": "14",
+          "section_title": "Composition of Cantonment Administration.",
+          "body": ""
+        },
+        {
+          "section_no": "15",
+          "section_title": "Structure of Cantonment Administration.",
+          "body": ""
+        },
+        {
+          "section_no": "16",
+          "section_title": "Functions and powers of Cantonment Administration.",
+          "body": ""
+        },
+        {
+          "section_no": "17",
+          "section_title": "Omitted.",
+          "body": ""
+        },
+        {
+          "section_no": "18",
+          "section_title": "Source of induction of officers.",
+          "body": ""
+        },
+        {
+          "section_no": "19",
+          "section_title": "Cantonment Officer.",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "CANTONMENT BOARD",
+      "sections": [
+        {
+          "section_no": "20",
+          "section_title": "Composition of Cantonment Board.",
+          "body": ""
+        },
+        {
+          "section_no": "21",
+          "section_title": "Oath or affirmation by the nominated members.",
+          "body": ""
+        },
+        {
+          "section_no": "22",
+          "section_title": "Resignation.",
+          "body": ""
+        },
+        {
+          "section_no": "23",
+          "section_title": "Removal of nominated member.",
+          "body": ""
+        },
+        {
+          "section_no": "24",
+          "section_title": "Nominations, resignations etc; to be notified.",
+          "body": ""
+        },
+        {
+          "section_no": "25",
+          "section_title": "Liability of members.",
+          "body": ""
+        },
+        {
+          "section_no": "26",
+          "section_title": "Functions and powers of the Cantonment Board.",
+          "body": ""
+        },
+        {
+          "section_no": "27",
+          "section_title": "Conduct of business of the Board.",
+          "body": ""
+        },
+        {
+          "section_no": "28",
+          "section_title": "Recall of Vice-President.",
+          "body": ""
+        },
+        {
+          "section_no": "29",
+          "section_title": "Joint Committees of Councils.",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "UNION ADMINISTRATION",
+      "sections": [
+        {
+          "section_no": "30",
+          "section_title": "Composition of Union Administration.",
+          "body": ""
+        },
+        {
+          "section_no": "31",
+          "section_title": "Structure of Union Administration.",
+          "body": ""
+        },
+        {
+          "section_no": "32",
+          "section_title": "Functions of the Union Administration.",
+          "body": ""
+        },
+        {
+          "section_no": "33",
+          "section_title": "Entrustment of functions by Cantonment Administration, etc.",
+          "body": ""
+        },
+        {
+          "section_no": "34",
+          "section_title": "Government to prescribe powers of Union Administration.",
+          "body": ""
+        },
+        {
+          "section_no": "35",
+          "section_title": "Functions of Union Nazim.",
+          "body": ""
+        },
+        {
+          "section_no": "36",
+          "section_title": "Personal responsibility of Union Nazim.",
+          "body": ""
+        },
+        {
+          "section_no": "37",
+          "section_title": "Setting aside decisions of Union Nazim.",
+          "body": ""
+        },
+        {
+          "section_no": "38",
+          "section_title": "Resignation by Union Nazim.",
+          "body": ""
+        },
+        {
+          "section_no": "39",
+          "section_title": "External recall of Union Nazim.",
+          "body": ""
+        },
+        {
+          "section_no": "40",
+          "section_title": "Internal recall of Union Nazim.",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "UNION COUNCILS",
+      "sections": [
+        {
+          "section_no": "41",
+          "section_title": "Composition of Union Councils in Cantonment.",
+          "body": ""
+        },
+        {
+          "section_no": "42",
+          "section_title": "Functions of the Union Council.",
+          "body": ""
+        },
+        {
+          "section_no": "43",
+          "section_title": "Conduct of the business of the Union Council.",
+          "body": ""
+        },
+        {
+          "section_no": "44",
+          "section_title": "Address of Union Nazim.",
+          "body": ""
+        },
+        {
+          "section_no": "45",
+          "section_title": "Resignation by Naib Union Nazim.",
+          "body": ""
+        },
+        {
+          "section_no": "46",
+          "section_title": "Recall of Naib Union Nazim.",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "CITIZEN COMMUNITY BOARD",
+      "sections": [
+        {
+          "section_no": "47",
+          "section_title": "Composition of Citizen Community Board.",
+          "body": ""
+        },
+        {
+          "section_no": "48",
+          "section_title": "Personal responsibility of the head of the Citizen Community Board and Executive Committee and its officers.",
+          "body": ""
+        },
+        {
+          "section_no": "49",
+          "section_title": "Raising of funds by Citizen Community Board.",
+          "body": ""
+        },
+        {
+          "section_no": "50",
+          "section_title": "Citizen Community Board to be a non-profit Organization.",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "INSAAF COMMITTEE AND MUSALIHAT ANJUMAN",
+      "sections": [
+        {
+          "section_no": "51",
+          "section_title": "Composition of Insaaf Committee.",
+          "body": ""
+        },
+        {
+          "section_no": "52",
+          "section_title": "Constitution of Musalihat Anjuman.",
+          "body": ""
+        },
+        {
+          "section_no": "53",
+          "section_title": "Encouragement for amicable settlement of disputes.",
+          "body": ""
+        },
+        {
+          "section_no": "54",
+          "section_title": "Courts may refer cases to Musalihat Anjuman.",
+          "body": ""
+        },
+        {
+          "section_no": "55",
+          "section_title": "Appointment of Musaleh (Conciliator) for individual cases.",
+          "body": ""
+        },
+        {
+          "section_no": "56",
+          "section_title": "Procedure of settlement of disputes.",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "CANTONMENT LOCAL GOVERNMENT ELECTIONS",
+      "sections": [
+        {
+          "section_no": "57",
+          "section_title": "Franchise.",
+          "body": ""
+        },
+        {
+          "section_no": "58",
+          "section_title": "Authority for local government elections.",
+          "body": ""
+        },
+        {
+          "section_no": "59",
+          "section_title": "Indirect elections.",
+          "body": ""
+        },
+        {
+          "section_no": "60",
+          "section_title": "Qualifications for candidates and elected members.",
+          "body": ""
+        },
+        {
+          "section_no": "61",
+          "section_title": "Non-party elections.",
+          "body": ""
+        },
+        {
+          "section_no": "62",
+          "section_title": "Joint candidacy and elections.",
+          "body": ""
+        },
+        {
+          "section_no": "63",
+          "section_title": "Election to vacant seats.",
+          "body": ""
+        },
+        {
+          "section_no": "64",
+          "section_title": "Electoral rolls.",
+          "body": ""
+        },
+        {
+          "section_no": "65",
+          "section_title": "Validity of electoral rolls etc; not affected by reason of any mistake.",
+          "body": ""
+        },
+        {
+          "section_no": "66",
+          "section_title": "Bar against dual membership, etc.",
+          "body": ""
+        },
+        {
+          "section_no": "67",
+          "section_title": "Term of office.",
+          "body": ""
+        },
+        {
+          "section_no": "68",
+          "section_title": "Oath of office.",
+          "body": ""
+        },
+        {
+          "section_no": "69",
+          "section_title": "Removals.",
+          "body": ""
+        },
+        {
+          "section_no": "70",
+          "section_title": "Resignations of elected members.",
+          "body": ""
+        },
+        {
+          "section_no": "71",
+          "section_title": "Ineligibility for re-election.",
+          "body": ""
+        },
+        {
+          "section_no": "72",
+          "section_title": "Notification to be issued.",
+          "body": ""
+        },
+        {
+          "section_no": "73",
+          "section_title": "Corrupt practices.",
+          "body": ""
+        },
+        {
+          "section_no": "74",
+          "section_title": "Bribery.",
+          "body": ""
+        },
+        {
+          "section_no": "75",
+          "section_title": "Personating.",
+          "body": ""
+        },
+        {
+          "section_no": "76",
+          "section_title": "Undue influence.",
+          "body": ""
+        },
+        {
+          "section_no": "77",
+          "section_title": "Illegal practices.",
+          "body": ""
+        },
+        {
+          "section_no": "78",
+          "section_title": "Prohibition of canvassing.",
+          "body": ""
+        },
+        {
+          "section_no": "79",
+          "section_title": "Disorderly conduct near polling station.",
+          "body": ""
+        },
+        {
+          "section_no": "80",
+          "section_title": "Tampering with papers.",
+          "body": ""
+        },
+        {
+          "section_no": "81",
+          "section_title": "Interference with the secrecy.",
+          "body": ""
+        },
+        {
+          "section_no": "82",
+          "section_title": "Failure to maintain secrecy.",
+          "body": ""
+        },
+        {
+          "section_no": "83",
+          "section_title": "Conduct of officials.",
+          "body": ""
+        },
+        {
+          "section_no": "84",
+          "section_title": "Breach of official duty.",
+          "body": ""
+        },
+        {
+          "section_no": "85",
+          "section_title": "Assistance by Government servants.",
+          "body": ""
+        },
+        {
+          "section_no": "86",
+          "section_title": "Summary trial.",
+          "body": ""
+        },
+        {
+          "section_no": "87",
+          "section_title": "Jurisdiction of courts barred.",
+          "body": ""
+        },
+        {
+          "section_no": "88",
+          "section_title": "Power to make rules.",
+          "body": ""
+        },
+        {
+          "section_no": "88A",
+          "section_title": "Removal of difficulties",
+          "body": ""
+        },
+        {
+          "section_no": "88B",
+          "section_title": "Overriding effect",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "SUPERVISION AND CONTROL",
+      "sections": [
+        {
+          "section_no": "89",
+          "section_title": "Power of government to require production of documents.",
+          "body": ""
+        },
+        {
+          "section_no": "90",
+          "section_title": "Power of Competent Authority to call for documents.",
+          "body": ""
+        },
+        {
+          "section_no": "91",
+          "section_title": "Power to require execution of works, etc.",
+          "body": ""
+        },
+        {
+          "section_no": "92",
+          "section_title": "Power to provide for enforcement of direction under section 91.",
+          "body": ""
+        },
+        {
+          "section_no": "93",
+          "section_title": "Power to override decision of the local government.",
+          "body": ""
+        },
+        {
+          "section_no": "94",
+          "section_title": "Power of Garrison Commander on reference under section 93.",
+          "body": ""
+        },
+        {
+          "section_no": "95",
+          "section_title": "Inspection.",
+          "body": ""
+        },
+        {
+          "section_no": "96",
+          "section_title": "Report on administration.",
+          "body": ""
+        },
+        {
+          "section_no": "97",
+          "section_title": "Enquiries.",
+          "body": ""
+        },
+        {
+          "section_no": "98",
+          "section_title": "Transparency.",
+          "body": ""
+        },
+        {
+          "section_no": "99",
+          "section_title": "Monitoring by committees.",
+          "body": ""
+        },
+        {
+          "section_no": "100",
+          "section_title": "Code of Conduct Committees of the Union Councils and the Board.",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "LOCAL GOVERNMENT PROPERTY AND CONTRACTS",
+      "sections": [
+        {
+          "section_no": "PROPERTY",
+          "section_title": "",
+          "body": ""
+        },
+        {
+          "section_no": "101",
+          "section_title": "Local government property.",
+          "body": ""
+        },
+        {
+          "section_no": "102",
+          "section_title": "Application of local government property.",
+          "body": ""
+        },
+        {
+          "section_no": "103",
+          "section_title": "Surcharge for the loss, etc.",
+          "body": ""
+        },
+        {
+          "section_no": "104",
+          "section_title": "Acquisition of immovable property.",
+          "body": ""
+        },
+        {
+          "section_no": "105",
+          "section_title": "Stock taking.",
+          "body": ""
+        },
+        {
+          "section_no": "106",
+          "section_title": "Power to make rules regarding property.",
+          "body": ""
+        },
+        {
+          "section_no": "CONTRACTS",
+          "section_title": "",
+          "body": ""
+        },
+        {
+          "section_no": "107",
+          "section_title": "Essential requirement of a contract.",
+          "body": ""
+        },
+        {
+          "section_no": "108",
+          "section_title": "Power to make rules regarding contracts.",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "PUBLIC SAFETY AND SUPPRESSION OF NUISANCES",
+      "sections": [
+        {
+          "section_no": "DANGEROUS AND OFFENSIVE TRADES",
+          "section_title": "",
+          "body": ""
+        },
+        {
+          "section_no": "109",
+          "section_title": "Dangerous and offensive articles and trades.",
+          "body": ""
+        },
+        {
+          "section_no": "PREVENTION OF FIRE",
+          "section_title": "",
+          "body": ""
+        },
+        {
+          "section_no": "110",
+          "section_title": "Use of inflammable materials for building purposes.",
+          "body": ""
+        },
+        {
+          "section_no": "111",
+          "section_title": "Stacking or collecting inflammable materials.",
+          "body": ""
+        },
+        {
+          "section_no": "112",
+          "section_title": "Care of naked lights.",
+          "body": ""
+        },
+        {
+          "section_no": "113",
+          "section_title": "Fire-fighting.",
+          "body": ""
+        },
+        {
+          "section_no": "114",
+          "section_title": "Discharging fireworks, fire-arms, etc.",
+          "body": ""
+        },
+        {
+          "section_no": "PUBLIC SAFETY",
+          "section_title": "",
+          "body": ""
+        },
+        {
+          "section_no": "115",
+          "section_title": "Power to require buildings, wells, etc. to be rendered safe.",
+          "body": ""
+        },
+        {
+          "section_no": "116",
+          "section_title": "Enclosure of waste land used for improper purposes.",
+          "body": ""
+        },
+        {
+          "section_no": "117",
+          "section_title": "Civil defence.",
+          "body": ""
+        },
+        {
+          "section_no": "118",
+          "section_title": "Floods.",
+          "body": ""
+        },
+        {
+          "section_no": "119",
+          "section_title": "Registration and control of dogs.",
+          "body": ""
+        },
+        {
+          "section_no": "120",
+          "section_title": "Traffic control.",
+          "body": ""
+        },
+        {
+          "section_no": "121",
+          "section_title": "Public vehicles.",
+          "body": ""
+        },
+        {
+          "section_no": "122",
+          "section_title": "Public ferries.",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "SANITATION AND THE PREVENTION AND TREATMENT OF DISEASE",
+      "sections": [
+        {
+          "section_no": "SANITARY AUTHORITIES",
+          "section_title": "",
+          "body": ""
+        },
+        {
+          "section_no": "123",
+          "section_title": "Responsibility for sanitation.",
+          "body": ""
+        },
+        {
+          "section_no": "124",
+          "section_title": "General duties of Health Officer.",
+          "body": ""
+        },
+        {
+          "section_no": "125",
+          "section_title": "Public latrines, urinals and conservancy establishment.",
+          "body": ""
+        },
+        {
+          "section_no": "126",
+          "section_title": "Private latrines and urinals.",
+          "body": ""
+        },
+        {
+          "section_no": "127",
+          "section_title": "Removal, collection and disposal of refuse.",
+          "body": ""
+        },
+        {
+          "section_no": "128",
+          "section_title": "Power of Cantonment Administration to undertake private conservancy arrangements.",
+          "body": ""
+        },
+        {
+          "section_no": "129",
+          "section_title": "Insanitary building and lands.",
+          "body": ""
+        },
+        {
+          "section_no": "130",
+          "section_title": "Removal of congested buildings.",
+          "body": ""
+        },
+        {
+          "section_no": "131",
+          "section_title": "Overcrowding of dwelling houses.",
+          "body": ""
+        },
+        {
+          "section_no": "132",
+          "section_title": "Power to require repair or alteration of buildings.",
+          "body": ""
+        },
+        {
+          "section_no": "133",
+          "section_title": "Infectious diseases.",
+          "body": ""
+        },
+        {
+          "section_no": "134",
+          "section_title": "Medical aid and relief and medical education.",
+          "body": ""
+        },
+        {
+          "section_no": "135",
+          "section_title": "Bathing and washing places.",
+          "body": ""
+        },
+        {
+          "section_no": "136",
+          "section_title": "Power to call for information regarding burial grounds and cremation places.",
+          "body": ""
+        },
+        {
+          "section_no": "REGISTRATIONS OF BIRTHS, MARRIAGES AND DEATHS",
+          "section_title": "",
+          "body": ""
+        },
+        {
+          "section_no": "137",
+          "section_title": "Births, marriages and deaths.",
+          "body": ""
+        },
+        {
+          "section_no": "ENVIRONMENTAL POLLUTION",
+          "section_title": "",
+          "body": ""
+        },
+        {
+          "section_no": "138",
+          "section_title": "Environmental pollution.",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "MARKETS, SLAUGHTER-HOUSES, TRADES AND OCCUPATIONS AND ANIMALS",
+      "sections": [
+        {
+          "section_no": "139",
+          "section_title": "Public markets and slaughter-houses.",
+          "body": ""
+        },
+        {
+          "section_no": "140",
+          "section_title": "Use of public markets",
+          "body": ""
+        },
+        {
+          "section_no": "141",
+          "section_title": "Levy of stallages, rents and fees.",
+          "body": ""
+        },
+        {
+          "section_no": "142",
+          "section_title": "Stallages, rents, etc; to be published.",
+          "body": ""
+        },
+        {
+          "section_no": "143",
+          "section_title": "Private markets and slaughter-houses.",
+          "body": ""
+        },
+        {
+          "section_no": "144",
+          "section_title": "Conditions of grant of licence for private market or slaughter-house.",
+          "body": ""
+        },
+        {
+          "section_no": "145",
+          "section_title": "Penalty or keeping market or slaughter-house open without licence, etc.",
+          "body": ""
+        },
+        {
+          "section_no": "146",
+          "section_title": "Prohibition and restriction of use of slaughter-houses.",
+          "body": ""
+        },
+        {
+          "section_no": "147",
+          "section_title": "Power to inspect slaughter-house.",
+          "body": ""
+        },
+        {
+          "section_no": "148",
+          "section_title": "Power to make bye-laws.",
+          "body": ""
+        },
+        {
+          "section_no": "149",
+          "section_title": "Bye-laws for articles of food and drink.",
+          "body": ""
+        },
+        {
+          "section_no": "150",
+          "section_title": "Milk supply.",
+          "body": ""
+        },
+        {
+          "section_no": "151",
+          "section_title": "Feeding animals on dirt, etc.",
+          "body": ""
+        },
+        {
+          "section_no": "TRADES AND OCCUPATIONS",
+          "section_title": "",
+          "body": ""
+        },
+        {
+          "section_no": "152",
+          "section_title": "Powers of entry and seizure.",
+          "body": ""
+        },
+        {
+          "section_no": "153",
+          "section_title": "Licences required for carrying on of certain occupations.",
+          "body": ""
+        },
+        {
+          "section_no": "154",
+          "section_title": "Conditions which may be attached to licences.",
+          "body": ""
+        },
+        {
+          "section_no": "155",
+          "section_title": "Power to vary licence.",
+          "body": ""
+        },
+        {
+          "section_no": "156",
+          "section_title": "Carrying on trade, etc; without licence or in contravention of section 155.",
+          "body": ""
+        },
+        {
+          "section_no": "ANIMALS",
+          "section_title": "",
+          "body": ""
+        },
+        {
+          "section_no": "157",
+          "section_title": "Prohibition of picketing or tethering in streets.",
+          "body": ""
+        },
+        {
+          "section_no": "158",
+          "section_title": "Prohibition against keeping and maintaining cattle.",
+          "body": ""
+        },
+        {
+          "section_no": "159",
+          "section_title": "Dangerous animals.",
+          "body": ""
+        },
+        {
+          "section_no": "160",
+          "section_title": "Disposal of carcasses.",
+          "body": ""
+        },
+        {
+          "section_no": "161",
+          "section_title": "Registration of the sale of the animals or cattle.",
+          "body": ""
+        },
+        {
+          "section_no": "162",
+          "section_title": "Cattle shows, zoo, etc.",
+          "body": ""
+        },
+        {
+          "section_no": "ANIMAL TRESPASS",
+          "section_title": "",
+          "body": ""
+        },
+        {
+          "section_no": "163",
+          "section_title": "Power to seize.",
+          "body": ""
+        },
+        {
+          "section_no": "164",
+          "section_title": "Pounds.",
+          "body": ""
+        },
+        {
+          "section_no": "165",
+          "section_title": "Pound keepers.",
+          "body": ""
+        },
+        {
+          "section_no": "166",
+          "section_title": "Registers and returns.",
+          "body": ""
+        },
+        {
+          "section_no": "167",
+          "section_title": "Possession and feeding.",
+          "body": ""
+        },
+        {
+          "section_no": "168",
+          "section_title": "Fines for impounded animals.",
+          "body": ""
+        },
+        {
+          "section_no": "169",
+          "section_title": "Delivery or sale of animals.",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "SPATIAL PLANNING, BUILDING AND LAND USE CONTROL, STREETS, TREES ETC.",
+      "sections": [
+        {
+          "section_no": "PLANNING",
+          "section_title": "",
+          "body": ""
+        },
+        {
+          "section_no": "170",
+          "section_title": "Spatial plan.",
+          "body": ""
+        },
+        {
+          "section_no": "171",
+          "section_title": "Site development schemes.",
+          "body": ""
+        },
+        {
+          "section_no": "172",
+          "section_title": "Execution of site development schemes.",
+          "body": ""
+        },
+        {
+          "section_no": "BUILDING AND LAND USE CONTROL",
+          "section_title": "",
+          "body": ""
+        },
+        {
+          "section_no": "173",
+          "section_title": "Sanction of buildings.",
+          "body": ""
+        },
+        {
+          "section_no": "174",
+          "section_title": "Notice for new buildings.",
+          "body": ""
+        },
+        {
+          "section_no": "175",
+          "section_title": "Conditions of valid notice.",
+          "body": ""
+        },
+        {
+          "section_no": "176",
+          "section_title": "Power to sanction or refuse.",
+          "body": ""
+        },
+        {
+          "section_no": "177",
+          "section_title": "Compensation.",
+          "body": ""
+        },
+        {
+          "section_no": "178",
+          "section_title": "Lapse of sanction.",
+          "body": ""
+        },
+        {
+          "section_no": "179",
+          "section_title": "Period for completion of building.",
+          "body": ""
+        },
+        {
+          "section_no": "180",
+          "section_title": "Illegal erection and re-erection.",
+          "body": ""
+        },
+        {
+          "section_no": "181",
+          "section_title": "Completion of building or alteration of buildings.",
+          "body": ""
+        },
+        {
+          "section_no": "182",
+          "section_title": "Orderly use of buildings.",
+          "body": ""
+        },
+        {
+          "section_no": "183",
+          "section_title": "Projections and obstructions.",
+          "body": ""
+        },
+        {
+          "section_no": "184",
+          "section_title": "Unauthorized buildings over drains, etc.",
+          "body": ""
+        },
+        {
+          "section_no": "185",
+          "section_title": "Power to attach brackets for lamps.",
+          "body": ""
+        },
+        {
+          "section_no": "186",
+          "section_title": "Power to make bye-laws.",
+          "body": ""
+        },
+        {
+          "section_no": "ENCROACHMENTS",
+          "section_title": "",
+          "body": ""
+        },
+        {
+          "section_no": "187",
+          "section_title": "Encroachment and subsisting lease and licences.",
+          "body": ""
+        },
+        {
+          "section_no": "STREETS AND STREET LIGHTENING",
+          "section_title": "",
+          "body": ""
+        },
+        {
+          "section_no": "188",
+          "section_title": "Public streets.",
+          "body": ""
+        },
+        {
+          "section_no": "189",
+          "section_title": "Streets.",
+          "body": ""
+        },
+        {
+          "section_no": "190",
+          "section_title": "Street lighting and electrification.",
+          "body": ""
+        },
+        {
+          "section_no": "191",
+          "section_title": "Street watering.",
+          "body": ""
+        },
+        {
+          "section_no": "192",
+          "section_title": "Boundary walls, hedges and fences.",
+          "body": ""
+        },
+        {
+          "section_no": "ARBORICULTURE",
+          "section_title": "",
+          "body": ""
+        },
+        {
+          "section_no": "193",
+          "section_title": "Arboriculture.",
+          "body": ""
+        },
+        {
+          "section_no": "194",
+          "section_title": "Forests.",
+          "body": ""
+        },
+        {
+          "section_no": "195",
+          "section_title": "Nuisance pertaining to trees and plantations.",
+          "body": ""
+        },
+        {
+          "section_no": "196",
+          "section_title": "Felling, lopping and trimming of trees.",
+          "body": ""
+        },
+        {
+          "section_no": "OPEN SPACES",
+          "section_title": "",
+          "body": ""
+        },
+        {
+          "section_no": "197",
+          "section_title": "Gardens.",
+          "body": ""
+        },
+        {
+          "section_no": "198",
+          "section_title": "Parks and open spaces.",
+          "body": ""
+        },
+        {
+          "section_no": "LAND USE",
+          "section_title": "",
+          "body": ""
+        },
+        {
+          "section_no": "199",
+          "section_title": "Digging of public land.",
+          "body": ""
+        },
+        {
+          "section_no": "200",
+          "section_title": "Improper use of land.",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "WATER SUPPLY AND DRAINAGE.",
+      "sections": [
+        {
+          "section_no": "WATER SUPPLY",
+          "section_title": "",
+          "body": ""
+        },
+        {
+          "section_no": "201",
+          "section_title": "Water supply.",
+          "body": ""
+        },
+        {
+          "section_no": "202",
+          "section_title": "Private source of water supply.",
+          "body": ""
+        },
+        {
+          "section_no": "203",
+          "section_title": "Public watercourses.",
+          "body": ""
+        },
+        {
+          "section_no": "204",
+          "section_title": "Tanks, ponds and low-lying areas.",
+          "body": ""
+        },
+        {
+          "section_no": "DRAINAGE AND SEWERAGE",
+          "section_title": "",
+          "body": ""
+        },
+        {
+          "section_no": "205",
+          "section_title": "Drainage.",
+          "body": ""
+        },
+        {
+          "section_no": "206",
+          "section_title": "Drainage and sewerage schemes for commercial and industrial area.",
+          "body": ""
+        },
+        {
+          "section_no": "207",
+          "section_title": "Drainage and sewer connections.",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "ENTRY, INSPECTION AND PROCEDURE",
+      "sections": [
+        {
+          "section_no": "208",
+          "section_title": "Power of entry.",
+          "body": ""
+        },
+        {
+          "section_no": "209",
+          "section_title": "Power of inspection, etc.",
+          "body": ""
+        },
+        {
+          "section_no": "210",
+          "section_title": "Power to enter land adjoining land where work is in progress.",
+          "body": ""
+        },
+        {
+          "section_no": "211",
+          "section_title": "Breaking into premises.",
+          "body": ""
+        },
+        {
+          "section_no": "212",
+          "section_title": "Entry to be made in the day time.",
+          "body": ""
+        },
+        {
+          "section_no": "213",
+          "section_title": "Owner's consent ordinarily be obtained.",
+          "body": ""
+        },
+        {
+          "section_no": "214",
+          "section_title": "Regard to be had to social and religious usages.",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "OFFENCES AND PUNISHMENTS",
+      "sections": [
+        {
+          "section_no": "215",
+          "section_title": "Offences.",
+          "body": ""
+        },
+        {
+          "section_no": "216",
+          "section_title": "Notices and authorisation.",
+          "body": ""
+        },
+        {
+          "section_no": "217",
+          "section_title": "Cognizance of offences.",
+          "body": ""
+        },
+        {
+          "section_no": "218",
+          "section_title": "Summary disposal of cases.",
+          "body": ""
+        },
+        {
+          "section_no": "219",
+          "section_title": "Punishments and penalties.",
+          "body": ""
+        },
+        {
+          "section_no": "220",
+          "section_title": "Compounding of offences.",
+          "body": ""
+        },
+        {
+          "section_no": "221",
+          "section_title": "Rights of citizen not affected.",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "ROLE OF POLICE IN CANTONMENTS",
+      "sections": [
+        {
+          "section_no": "222",
+          "section_title": "Duties of Police Officers.",
+          "body": ""
+        },
+        {
+          "section_no": "223",
+          "section_title": "Responsibilities of Police Oficers under the Police Order.",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "CONTROL OF ANTI-SOCIAL AND SEDITIOUS PERSONS",
+      "sections": [
+        {
+          "section_no": "224",
+          "section_title": "Power to remove brothels and prostitutes.",
+          "body": ""
+        },
+        {
+          "section_no": "225",
+          "section_title": "Penalty for loitering and importuning for purposes of prostitution.",
+          "body": ""
+        },
+        {
+          "section_no": "226",
+          "section_title": "Removal of lewd persons from cantonment.",
+          "body": ""
+        },
+        {
+          "section_no": "227",
+          "section_title": "Removal and exclusion from cantonment of disorderly persons.",
+          "body": ""
+        },
+        {
+          "section_no": "228",
+          "section_title": "Removal and exclusion from cantonment of seditious persons.",
+          "body": ""
+        },
+        {
+          "section_no": "229",
+          "section_title": "Penalty.",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "FINANCE",
+      "sections": [
+        {
+          "section_no": "230",
+          "section_title": "Establishment of Funds and Public Accounts.",
+          "body": ""
+        },
+        {
+          "section_no": "231",
+          "section_title": "Custody of Funds.",
+          "body": ""
+        },
+        {
+          "section_no": "232",
+          "section_title": "Transfer of Funds from the Government.",
+          "body": ""
+        },
+        {
+          "section_no": "233",
+          "section_title": "Provision of data to Federal Government.",
+          "body": ""
+        },
+        {
+          "section_no": "234",
+          "section_title": "Application of funds.",
+          "body": ""
+        },
+        {
+          "section_no": "235",
+          "section_title": "Charged Expenditure.",
+          "body": ""
+        },
+        {
+          "section_no": "236",
+          "section_title": "Budget preparation.",
+          "body": ""
+        },
+        {
+          "section_no": "237",
+          "section_title": "Approval of budget.",
+          "body": ""
+        },
+        {
+          "section_no": "238",
+          "section_title": "Honoraria and allowances.",
+          "body": ""
+        },
+        {
+          "section_no": "239",
+          "section_title": "Form of accounts.",
+          "body": ""
+        },
+        {
+          "section_no": "240",
+          "section_title": "Accounts Officer.",
+          "body": ""
+        },
+        {
+          "section_no": "241",
+          "section_title": "Audit.",
+          "body": ""
+        },
+        {
+          "section_no": "242",
+          "section_title": "Internal Audit.",
+          "body": ""
+        },
+        {
+          "section_no": "243",
+          "section_title": "Taxes to be levied.",
+          "body": ""
+        },
+        {
+          "section_no": "PROPERTY TAX",
+          "section_title": "",
+          "body": ""
+        },
+        {
+          "section_no": "244",
+          "section_title": "Levy of property tax.",
+          "body": ""
+        },
+        {
+          "section_no": "245",
+          "section_title": "Exemptions.",
+          "body": ""
+        },
+        {
+          "section_no": "246",
+          "section_title": "General power of exemption.",
+          "body": ""
+        },
+        {
+          "section_no": "247",
+          "section_title": "Exemption of poor persons.",
+          "body": ""
+        },
+        {
+          "section_no": "248",
+          "section_title": "Incidence of taxation.",
+          "body": ""
+        },
+        {
+          "section_no": "249",
+          "section_title": "Determination annual rental value.",
+          "body": ""
+        },
+        {
+          "section_no": "250",
+          "section_title": "Assessing Authority.",
+          "body": ""
+        },
+        {
+          "section_no": "251",
+          "section_title": "Preparation of assessment list.",
+          "body": ""
+        },
+        {
+          "section_no": "252",
+          "section_title": "Publication of assessment list.",
+          "body": ""
+        },
+        {
+          "section_no": "253",
+          "section_title": "Revision of assessment list.",
+          "body": ""
+        },
+        {
+          "section_no": "254",
+          "section_title": "Authentication of assessment list.",
+          "body": ""
+        },
+        {
+          "section_no": "255",
+          "section_title": "Evidentiary value of assessment list.",
+          "body": ""
+        },
+        {
+          "section_no": "256",
+          "section_title": "Amendment of assessment list.",
+          "body": ""
+        },
+        {
+          "section_no": "257",
+          "section_title": "Preparation of new assessment list.",
+          "body": ""
+        },
+        {
+          "section_no": "258",
+          "section_title": "Notice of transfers.",
+          "body": ""
+        },
+        {
+          "section_no": "259",
+          "section_title": "Notice of erection of buildings.",
+          "body": ""
+        },
+        {
+          "section_no": "260",
+          "section_title": "Demolition of buildings, etc.",
+          "body": ""
+        },
+        {
+          "section_no": "261",
+          "section_title": "Remission of tax in certain cases.",
+          "body": ""
+        },
+        {
+          "section_no": "262",
+          "section_title": "Power to require entry in assessment list of details of buildings.",
+          "body": ""
+        },
+        {
+          "section_no": "263",
+          "section_title": "Notice to be given of the circumstances in which remission or refund is claimed.",
+          "body": ""
+        },
+        {
+          "section_no": "264",
+          "section_title": "Notice to be given of every occupation of vacant building or house.",
+          "body": ""
+        },
+        {
+          "section_no": "265",
+          "section_title": "Appeals from orders.",
+          "body": ""
+        },
+        {
+          "section_no": "266",
+          "section_title": "Revision.",
+          "body": ""
+        },
+        {
+          "section_no": "267",
+          "section_title": "Tax to be levied notwithstanding appeal.",
+          "body": ""
+        },
+        {
+          "section_no": "268",
+          "section_title": "Recovery of tax from tenants.",
+          "body": ""
+        },
+        {
+          "section_no": "269",
+          "section_title": "Penalty for default in payment.",
+          "body": ""
+        },
+        {
+          "section_no": "270",
+          "section_title": "Recovery of unpaid dues.",
+          "body": ""
+        },
+        {
+          "section_no": "271",
+          "section_title": "Powers of Assessing Authority to require returns for assessment list.",
+          "body": ""
+        },
+        {
+          "section_no": "272",
+          "section_title": "Valuation list not to be rendered invalid by certain failure or omission.",
+          "body": ""
+        },
+        {
+          "section_no": "273",
+          "section_title": "Bar of jurisdiction.",
+          "body": ""
+        },
+        {
+          "section_no": "274",
+          "section_title": "Award for collection of property tax.",
+          "body": ""
+        },
+        {
+          "section_no": "275",
+          "section_title": "Collection of taxes.",
+          "body": ""
+        },
+        {
+          "section_no": "276",
+          "section_title": "Bottom up planning.",
+          "body": ""
+        },
+        {
+          "section_no": "277",
+          "section_title": "Cantonment administrations not to incur debt.",
+          "body": ""
+        },
+        {
+          "section_no": "278",
+          "section_title": "Delegation of powers.",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "MISCELLANEOUS",
+      "sections": [
+        {
+          "section_no": "279",
+          "section_title": "Social welfare and community development.",
+          "body": ""
+        },
+        {
+          "section_no": "280",
+          "section_title": "Culture.",
+          "body": ""
+        },
+        {
+          "section_no": "281",
+          "section_title": "Libraries.",
+          "body": ""
+        },
+        {
+          "section_no": "282",
+          "section_title": "Fairs and shows.",
+          "body": ""
+        },
+        {
+          "section_no": "283",
+          "section_title": "Complaint cell.",
+          "body": ""
+        },
+        {
+          "section_no": "284",
+          "section_title": "Servants of local governments in Cantonments.",
+          "body": ""
+        },
+        {
+          "section_no": "285",
+          "section_title": "Transitional provisions.",
+          "body": ""
+        }
+      ]
+    }
+  ],
+  "source_file": "administratorc774f7e02d8464e42ff93992c6abcba1.txt"
+}

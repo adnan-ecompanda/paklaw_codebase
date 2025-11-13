@@ -1,0 +1,142 @@
+{
+  "law_name": "THE BIRTHS, DEATHS AND MARRIAGES REGISTRATION ACT",
+  "year": 1886,
+  "chapters": [
+    {
+      "chapter_title": "PRELIMINARY",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title and commencement.",
+          "body": "(1) This Act may be called the Births, Deaths and Marriages Registration Act, 1886; and (2) It shall come into force on such day as the Provincial Government, by notification in official Gazette, directs."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Local extent.",
+          "body": "This Act extends to the whole of Pakistan and applies also to citizens of Pakistan in Acceding States."
+        },
+        {
+          "section_no": "3",
+          "section_title": "Definitions.",
+          "body": "In this Act, unless there is something repugnant in the subject or context, 'sign' includes mark, when the person making the mark is unable to write his name; 'prescribed' means prescribed by a rule made under this Act; and 'Registrar of Births and Deaths' means a Registrar of Births and Deaths appointed under this Act."
+        },
+        {
+          "section_no": "4",
+          "section_title": "Saving of local laws.",
+          "body": "Nothing in this Act, or in any rule made under this Act, shall affect any law heretofore or hereafter passed providing for the registration of births and deaths within particular local areas."
+        },
+        {
+          "section_no": "5",
+          "section_title": "Powers exercisable from time to time.",
+          "body": "All powers conferred by this Act may be exercised from time to time as occasion requires."
+        }
+      ]
+    },
+    {
+      "chapter_title": "GENERAL REGISTRY OFFICES OF BIRTHS, DEATHS AND MARRIAGES",
+      "sections": [
+        {
+          "section_no": "6",
+          "section_title": "Establishment of general registry offices and appointment of Registrars General.",
+          "body": "Each Provincial Government shall establish a general registry office for keeping such certified copies of registers of births and deaths registered under this Act, or marriages registered under Act III of 1872, or the Christian Marriage Act, 1872, or under the Parsi Marriage and Divorce Act, 1865, as may be sent to it under this Act."
+        },
+        {
+          "section_no": "7",
+          "section_title": "Indexes to be kept at general registry office.",
+          "body": "Each Registrar General of Births, Deaths and Marriages shall cause indexes of all the certified copies of registers sent to his office under this Act to be made and kept in his office in the prescribed form."
+        },
+        {
+          "section_no": "8",
+          "section_title": "Indexes to be open to inspection.",
+          "body": "Subject to the payment of the prescribed fees, the indexes so made shall be at all reasonable times open to inspection by any person applying to inspect them."
+        },
+        {
+          "section_no": "9",
+          "section_title": "Copies of entries to be admissible in evidence.",
+          "body": "A copy of an entry given under the last foregoing section shall be certified by the Registrar General of Births, Deaths and Marriages, or by an officer authorized by the Provincial Government, and shall be admissible in evidence for the purpose of proving the birth, death or marriage to which the entry relates."
+        },
+        {
+          "section_no": "10",
+          "section_title": "Superintendence of registrars by Registrar General.",
+          "body": "Each Registrar General of Births, Deaths and Marriages shall exercise a general superintendence over the Registrars of Births and Deaths in the territories for which he is appointed."
+        }
+      ]
+    },
+    {
+      "chapter_title": "REGISTRATION OF BIRTHS AND DEATHS",
+      "sections": [
+        {
+          "section_no": "11",
+          "section_title": "Persons whose births and deaths are registerable.",
+          "body": "The persons whose births and deaths shall, in the first instance, be registerable under this Chapter are the following namely: (a) in the Provinces, the members of every race, sect or tribe to which the Indian Succession Act, 1865, applies, and in respect of which an order under section 332 of that Act is not for the time being in force, and all persons professing the Christian religion; (b) in Acceding States, citizens of Pakistan being members of a like race, sect or tribe or professing the Christian religion."
+        },
+        {
+          "section_no": "12",
+          "section_title": "Power for Provincial Government to appoint Registrars for its territories.",
+          "body": "The Provincial Government may appoint, either by name or by virtue of their office, so many persons as it thinks necessary to be Registrars of Births and Deaths for such local areas within the territories under its administration as it may define."
+        },
+        {
+          "section_no": "13",
+          "section_title": "Power for Federal Government to appoint Registrars for Acceding States.",
+          "body": "The Federal Government may, by notification in the official Gazette, appoint, either by name or by virtue of their office, so many persons as it thinks necessary."
+        }
+      ]
+    },
+    {
+      "chapter_title": "AMENDMENT OF MARRIAGE ACTS",
+      "sections": [
+        {
+          "section_no": "29-31",
+          "section_title": "[Repealed]",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "SPECIAL PROVISIONS AS TO CERTAIN EXISTING REGISTERS",
+      "sections": [
+        {
+          "section_no": "32",
+          "section_title": "Permission to persons having custody of certain records to send them within one year to Registrar General.",
+          "body": ""
+        },
+        {
+          "section_no": "33",
+          "section_title": "Appointment of Commissioners to examine registers.",
+          "body": ""
+        },
+        {
+          "section_no": "34",
+          "section_title": "Duties of Commissioners.",
+          "body": ""
+        },
+        {
+          "section_no": "35",
+          "section_title": "Searches of lists prepared by Commissioners and grant of certified copies of entries.",
+          "body": ""
+        },
+        {
+          "section_no": "35A",
+          "section_title": "Constitution of additional Commissions for purposes of this Chapter.",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_title": "RULES",
+      "sections": [
+        {
+          "section_no": "36",
+          "section_title": "Rules.",
+          "body": ""
+        },
+        {
+          "section_no": "37",
+          "section_title": "[Repealed]",
+          "body": ""
+        }
+      ]
+    }
+  ],
+  "source_file": "administratored2b3183cde5884ddf1fdb05f475ab79.txt"
+}

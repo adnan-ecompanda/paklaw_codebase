@@ -1,0 +1,312 @@
+{
+  "law_name": "The Insolvency Karachi Division Act",
+  "year": 1909,
+  "chapters": [
+    {
+      "chapter_title": "Preliminary",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title and commencement",
+          "body": "This Act may be called the Insolvency (Karachi Division) Act."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Definitions",
+          "body": "In this Act, unless there is anything repugnant in the subject or context, 'creditor' includes a decree-holder, 'debt' includes a judgment-debt, and 'debtor' includes a judgment-debtor."
+        }
+      ]
+    },
+    {
+      "chapter_title": "Part I Constitution and Powers of Court",
+      "sections": [
+        {
+          "section_no": "3",
+          "section_title": "Courts having jurisdiction in insolvency",
+          "body": "The Courts having jurisdiction under this Act shall be High Court of Sind."
+        },
+        {
+          "section_no": "4",
+          "section_title": "Jurisdiction to be exercised by a single Judge",
+          "body": "All matters in respect of which jurisdiction is given by this Act shall be ordinarily transacted and disposed of by or under the direction of one of the Judges of the Court."
+        },
+        {
+          "section_no": "5",
+          "section_title": "Exercise of jurisdiction in chambers",
+          "body": "Subject to the provisions of this Act and of rules, the Judge of a Court exercising jurisdiction in insolvency may exercise in chambers the whole or any part of his jurisdiction."
+        },
+        {
+          "section_no": "6",
+          "section_title": "Delegation of powers to officers of Court",
+          "body": "The Chief Justice may, from time to time, direct that, in any matters in respect of which jurisdiction is given to the Court by this Act, an officer of the Court appointed by him in this behalf shall have all or any of the powers in this section mentioned."
+        },
+        {
+          "section_no": "7",
+          "section_title": "Power of Court to decide all questions arising in insolvency",
+          "body": "The Court shall have the power to decide all questions arising in insolvency."
+        },
+        {
+          "section_no": "8",
+          "section_title": "Appeals in insolvency",
+          "body": "There shall be provisions for appeals in insolvency matters."
+        }
+      ]
+    },
+    {
+      "chapter_title": "Part II Proceedings from Act of Insolvency to Discharge",
+      "sections": [
+        {
+          "section_no": "9",
+          "section_title": "Acts of insolvency",
+          "body": "Defines acts that constitute insolvency."
+        },
+        {
+          "section_no": "10",
+          "section_title": "Power to adjudicate",
+          "body": "The Court has the power to adjudicate insolvency cases."
+        },
+        {
+          "section_no": "11",
+          "section_title": "Restriction on jurisdiction",
+          "body": "Details restrictions on the jurisdiction of the Court."
+        },
+        {
+          "section_no": "12",
+          "section_title": "Conditions on which creditor may petition",
+          "body": "Sets conditions under which a creditor may file a petition."
+        },
+        {
+          "section_no": "13",
+          "section_title": "Proceedings and order on creditor’s petition",
+          "body": "Describes the proceedings and orders that follow a creditor's petition."
+        },
+        {
+          "section_no": "14",
+          "section_title": "Conditions on which debtor may petition",
+          "body": "Sets conditions under which a debtor may file a petition."
+        },
+        {
+          "section_no": "15",
+          "section_title": "Proceedings and order on debtor’s petition",
+          "body": "Describes the proceedings and orders that follow a debtor's petition."
+        },
+        {
+          "section_no": "16",
+          "section_title": "Discretionary powers as to appointment of interim receiver",
+          "body": "The Court has discretionary powers regarding the appointment of an interim receiver."
+        },
+        {
+          "section_no": "17",
+          "section_title": "Effect of order of adjudication",
+          "body": "Describes the effects of an order of adjudication."
+        },
+        {
+          "section_no": "18",
+          "section_title": "Stay of proceedings",
+          "body": "Details the conditions under which proceedings may be stayed."
+        },
+        {
+          "section_no": "18A",
+          "section_title": "Control over insolvency proceedings in subordinate Court",
+          "body": "Describes the control over insolvency proceedings in subordinate courts."
+        },
+        {
+          "section_no": "19",
+          "section_title": "Power to appoint special manager",
+          "body": "The Court has the power to appoint a special manager."
+        },
+        {
+          "section_no": "20",
+          "section_title": "Advertisement of order of adjudication",
+          "body": "Details the requirements for advertising an order of adjudication."
+        }
+      ]
+    },
+    {
+      "chapter_title": "Part III Administration of Property",
+      "sections": [
+        {
+          "section_no": "46",
+          "section_title": "Debts provable in insolvency",
+          "body": "Defines debts that are provable in insolvency."
+        },
+        {
+          "section_no": "47",
+          "section_title": "Mutual dealings and set-off",
+          "body": "Describes mutual dealings and set-off in insolvency."
+        },
+        {
+          "section_no": "48",
+          "section_title": "Rules as to proof of debts",
+          "body": "Sets rules for the proof of debts."
+        },
+        {
+          "section_no": "49",
+          "section_title": "Priority of debts",
+          "body": "Details the priority of debts in insolvency."
+        },
+        {
+          "section_no": "50",
+          "section_title": "Rent due before adjudication",
+          "body": "Describes the treatment of rent due before adjudication."
+        }
+      ]
+    },
+    {
+      "chapter_title": "Part IV Official Assignees",
+      "sections": [
+        {
+          "section_no": "77",
+          "section_title": "Appointment and removal of official assignees of insolvent’s estate",
+          "body": "Details the appointment and removal process for official assignees."
+        },
+        {
+          "section_no": "78",
+          "section_title": "Power to administer oath",
+          "body": "Official assignees have the power to administer oaths."
+        },
+        {
+          "section_no": "79",
+          "section_title": "Duties as regards the insolvent’s conduct",
+          "body": "Describes the duties of official assignees regarding the conduct of the insolvent."
+        },
+        {
+          "section_no": "80",
+          "section_title": "Duty to furnish list of creditors",
+          "body": "Official assignees must furnish a list of creditors."
+        },
+        {
+          "section_no": "81",
+          "section_title": "Remuneration",
+          "body": "Details the remuneration for official assignees."
+        }
+      ]
+    },
+    {
+      "chapter_title": "Part V Committee of Inspection",
+      "sections": [
+        {
+          "section_no": "88",
+          "section_title": "Committee of inspection",
+          "body": "Describes the formation and role of the committee of inspection."
+        },
+        {
+          "section_no": "89",
+          "section_title": "Control of committee of inspection over official assignee",
+          "body": "Details the control the committee has over the official assignee."
+        }
+      ]
+    },
+    {
+      "chapter_title": "Part VI Procedure",
+      "sections": [
+        {
+          "section_no": "90",
+          "section_title": "Powers of the Court",
+          "body": "Details the powers of the Court in insolvency matters."
+        },
+        {
+          "section_no": "91",
+          "section_title": "Consolidation of petitions",
+          "body": "Describes the consolidation of petitions."
+        },
+        {
+          "section_no": "92",
+          "section_title": "Power to change carriage of petition",
+          "body": "The Court has the power to change the carriage of a petition."
+        },
+        {
+          "section_no": "93",
+          "section_title": "Continuance of proceedings on death of debtor",
+          "body": "Details the continuance of proceedings in the event of the debtor's death."
+        },
+        {
+          "section_no": "94",
+          "section_title": "Power to stay proceedings",
+          "body": "The Court has the power to stay proceedings."
+        }
+      ]
+    },
+    {
+      "chapter_title": "Part VII Limitation",
+      "sections": [
+        {
+          "section_no": "101",
+          "section_title": "Limitation of appeals",
+          "body": "Details the limitations on appeals in insolvency matters."
+        }
+      ]
+    },
+    {
+      "chapter_title": "Part VIII Penalties",
+      "sections": [
+        {
+          "section_no": "102",
+          "section_title": "Undischarged insolvent obtaining credit",
+          "body": "Describes penalties for undischarged insolvents obtaining credit."
+        },
+        {
+          "section_no": "103",
+          "section_title": "Punishment of insolvent for certain offences",
+          "body": "Details the punishment for insolvents committing certain offences."
+        }
+      ]
+    },
+    {
+      "chapter_title": "Part IX Small Insolvencies",
+      "sections": [
+        {
+          "section_no": "106",
+          "section_title": "Summary administration in small cases",
+          "body": "Describes the summary administration process for small insolvency cases."
+        }
+      ]
+    },
+    {
+      "chapter_title": "Part X Special Provisions",
+      "sections": [
+        {
+          "section_no": "107",
+          "section_title": "Exemption of corporation, etc., from insolvency proceedings",
+          "body": "Details exemptions for corporations from insolvency proceedings."
+        },
+        {
+          "section_no": "108",
+          "section_title": "Administration in insolvency of estate of person dying insolvent",
+          "body": "Describes the administration of the estate of a person dying insolvent."
+        }
+      ]
+    },
+    {
+      "chapter_title": "Part XI Rules",
+      "sections": [
+        {
+          "section_no": "112",
+          "section_title": "Rules",
+          "body": "Details the rules made under this Act."
+        },
+        {
+          "section_no": "113",
+          "section_title": "Sanction to rules",
+          "body": "Describes the process for sanctioning rules."
+        }
+      ]
+    },
+    {
+      "chapter_title": "Part XII Supplemental",
+      "sections": [
+        {
+          "section_no": "115",
+          "section_title": "Exemption from duty of transfers, etc., under this Act",
+          "body": "Details exemptions from duty for transfers under this Act."
+        },
+        {
+          "section_no": "116",
+          "section_title": "The Gazette to be evidence",
+          "body": "States that the Gazette shall be considered evidence."
+        }
+      ]
+    }
+  ],
+  "source_file": "administrator5533a440e4ce6839220c9d1092c1349e.txt"
+}

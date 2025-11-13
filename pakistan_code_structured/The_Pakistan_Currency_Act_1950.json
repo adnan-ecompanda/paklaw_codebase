@@ -1,0 +1,37 @@
+{
+  "law_name": "The Pakistan Currency Act",
+  "year": 1950,
+  "chapters": [
+    {
+      "chapter_title": "Contents",
+      "sections": [
+        {
+          "section_no": "1",
+          "section_title": "Short title, extent and commencement",
+          "body": "(1) This Act may be called the Pakistan Currency Act, 1950. (2) It extends to the whole of Pakistan. (3) It shall come into force at once and shall be deemed to have taken effect from the date from which the Pakistan Currency Ordinance, 1948 (XIII of 1948) came into force."
+        },
+        {
+          "section_no": "2",
+          "section_title": "Interpretation",
+          "body": "In this Act, unless there is anything repugnant in the subject or context, 'Pakistan one-rupee note' means a one-rupee note issued by the Government of Pakistan."
+        },
+        {
+          "section_no": "3",
+          "section_title": "Power to issue one-rupee notes",
+          "body": "Notwithstanding anything contained in any law for the time being in force, the Federal Government may issue Pakistan one-rupee notes and any such note shall be current in Pakistan in the same manner and to the same extent and as fully as the rupee coin called the Government rupee issued under the provisions of the Pakistan Coinage Act (XIII of 1906), and shall be legal tender in Pakistan for the payment of any amount until such time as they are called in by the Federal Government."
+        },
+        {
+          "section_no": "4",
+          "section_title": "Punishment for counterfeiting, etc., one rupee notes",
+          "body": "The provisions of sections 489A, 489B, 489C and 489D of the Pakistan Penal Code (XLV of 1860) shall apply in respect of notes issued under this Act as they apply in respect of currency notes and bank notes."
+        },
+        {
+          "section_no": "5",
+          "section_title": "Omitted",
+          "body": ""
+        }
+      ]
+    }
+  ],
+  "source_file": "administratorfca27c0e6d692c2b4c7e5cf9aec7c40c.txt"
+}
