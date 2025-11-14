@@ -25,7 +25,7 @@ def extract_sections(data):
 
 def get_embedding(text):
     resp = client.embeddings.create(
-        model="text-embedding-3-small",
+       model="text-embedding-3-large",
         input=text[:8000]
     )
     return np.array(resp.data[0].embedding, dtype="float32")
